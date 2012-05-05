@@ -1,1 +1,2 @@
-Welcome to the installfest wiki!
+## [[The Railsbridge Cookbook|Cookbook]]
+How to Organize Every Workshop
