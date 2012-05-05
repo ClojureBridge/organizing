@@ -1,4 +1,4 @@
-## [[MVW: Minimum Viable Workshop|MVW]]
+## [[MVW: Minimum Viable Workshop|Minimum Viable Workshop]]
 The bare-bones necessities, most important bits, and what makes a workshop a Railsbridge workshop.
 ## [[How to Organize in San Francisco|How to]]
 A step-by-step guide to organizing when you've got the SF Railsbridge community at your back.
