@@ -23,7 +23,7 @@ An ordered overview of things that need to happen.
 * Give opening presentation
 * Figure out who really showed up; match students & teachers accordingly
 * Keep time: remind/make all groups take breaks
-* Email out post-workshop survey link
+* Email post-workshop survey link
 * Closing presentation
 * Teacher retro
 * Party party party!
