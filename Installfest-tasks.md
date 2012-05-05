@@ -1,1 +1,0 @@
-# [[Back to How to Organize in SF|How to Organize a Railsbridge Workshop in SF]]
