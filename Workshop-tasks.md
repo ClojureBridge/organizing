@@ -36,8 +36,8 @@
 * Sometime after the last break, email the attendees a link to the post-workshop feedback survey.
 
 ## Closing presentation
-* This is where you bring the workshop to a close. Ask people for some things they learned, and make sure to get them excited about using what they’ve learned here and who they’ve gotten to know as a network of support to keep them involved. Encourage them to come back again, either as an attendee or volunteer. 
-* Make sure you've trained your teachers & TAs to encourage students to come back in each of their classes. If they had a great participant who would be able to volunteers next time in any capacity, have them ask that person to put their name on a “volunteer next time” list.
+* Ask people for some things they learned, and get them excited about what they’ve learned and who they’ve gotten to know as a network of support to keep them involved. Encourage them to come back again, either as an attendee or volunteer. 
+ * Make sure you've trained your teachers & TAs to encourage students to come back in each of their classes. If they had a great participant who would be able to volunteers next time in any capacity, have them ask that person to put their name on a “volunteer next time” list.
  * At the end of the presentation, put up a map of how to walk to the after party and a bit.ly link to feedback survey. Tell everyone to take the survey during the teacher retro and you'll all travel to the place of parties together.
 
 ## Teacher retro
