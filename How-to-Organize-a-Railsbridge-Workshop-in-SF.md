@@ -7,6 +7,7 @@
 * Train your teachers
 * Communicate with everyone
 * Obtain necessary objects: power cords, flash drives, name tags, etc.
+* Update the pre- and post-workshop presentation slides
 
 ## [[Installfest Tasks|Installfest Tasks]]
 * Welcome desk with class level confirmation
