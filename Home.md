@@ -1,2 +1,1 @@
-## [[The Railsbridge Cookbook|Cookbook]]
-How to Organize Every Workshop
+### [[The Railsbridge Cookbook|Cookbook]]: How to Organize Every Workshop
