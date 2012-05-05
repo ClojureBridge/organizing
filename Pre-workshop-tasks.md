@@ -42,11 +42,11 @@ Take a look at the teacher training slides, which live at [http://curriculum.rai
 ## Communicate with everyone
 A few of the things you'll do:
 * Post/announce the workshop to the Ruby-6 Meetup mailing list
-* Email the pre-workshop survey to the attendees, including optional deadline to respond
+* Email the pre-workshop survey to the attendees, optionally including a deadline to respond
 * Remind attendees to take the pre-workshop survey
 * Remind attendees that if they have a Mac, they will need XCode prior to arriving to the Installfest
 * Email the volunteer survey to the volunteers
-* Send Installfest instructions to student
+* Send Installfest instructions to attendees 
 * Send logistical info (detailed schedule, parking info, etc.) 
 * Ask people at every turn to update their RSVP on Meetup.com if they can't come
 
