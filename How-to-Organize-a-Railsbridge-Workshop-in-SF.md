@@ -21,6 +21,7 @@
 * Give opening presentation
 * Figure out who really showed up; match students & teachers accordingly
 * Keep time: remind/make all groups take breaks
+* Feed people lunch, make them go back to class
 * Email post-workshop survey link
 * Closing presentation
 * Teacher retro
