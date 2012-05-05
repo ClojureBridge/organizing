@@ -6,3 +6,4 @@
 ## Train your teachers
 ## Communicate with everyone
 ## Obtain necessary objects: power cords, flash drives, name tags, etc.
+# [[Back to How to Organize in SF|How to Organize a Railsbridge Workshop in SF]]
