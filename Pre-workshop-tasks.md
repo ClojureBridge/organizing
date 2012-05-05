@@ -9,7 +9,7 @@ Contact Bosco So (rubymeetup@boscoso.com) for organizer permission, so you can p
 
 Copy an old workshop, update the details with your own, and have someone else read through it before posting. Because most people forget to update at least one piece of information, to various levels of tragedy.
 
-## Survey your students and volunteers
+## Survey the students and volunteers
 Meetup likes privacy. And so, you don't have access to folks' email addresses unless you explicitly ask them to provide them during registration. You can, however, email all the participants of various RSVP statuses (yes & waitlist being the most important). We have a pre-workshop survey that you will send to participants that will help gauge who actually plans on coming and what class levels they will be in. 
 
 > To Do: create format agnostic version of survey questions
