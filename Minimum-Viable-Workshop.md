@@ -13,3 +13,5 @@ Here’s what you need for a minimum viable workshop:
 * Workshop (Saturday day)
 
 Any number of factors can decide the size of the workshop: the size of the space, the number of teachers available, or the number students interested. If you're striking out on your own, start small and get bigger. 
+
+## [[Back to Cookbook Home|Cookbook]]
