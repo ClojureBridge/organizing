@@ -1,7 +1,8 @@
 ## Materials on Github
 * Installfest
 * Curriculum
-* Teacher Training
+* Teacher training slides
+* Opening & closing presentation slides
 
 ## Surveys
 * Student Programming Experience survey
