@@ -1,5 +1,5 @@
 ## Welcome desk with class level confirmation
-* Depending on the space you are in, it's easy to let people slip by without checking in. Don't let them! People will show up early. Sometimes 30 minutes early. Be ready.
+* Depending on the space you are in, it's easy to let people slip by without checking in. Don't let them! People will show up early. Sometimes 30 minutes early. Be ready. It helps to have signage stating that everyone, including volunteers, needs to check in and make a name tag. 
 * _Tip: set up the welcome desk (with clear signage) before setting up the rest of the Installfest. People will make themselves at home, so if you need to bail on that setup to check people in, do it!_
 * Use the pre-workshop survey results spreadsheet to check people in. If someone didn't take it, ask them to get out their laptop and take the damn thing right there.
 * For those who did take the survey, tell them their class level and a brief description of what it means. People tend to horribly underestimate their skill levels, so encourage upward shifts. They can always change classes during the workshop.
