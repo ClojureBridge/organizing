@@ -1,5 +1,5 @@
 ## [[Pre-Workshop Tasks|Pre-Workshop Tasks]]
-* Join the organizer's listserver
+* Join the organizer's listserve
 * Confirm dates & details with the hosting venue
 * Post the event on Meetup.com
 * Survey the students and volunteers 
