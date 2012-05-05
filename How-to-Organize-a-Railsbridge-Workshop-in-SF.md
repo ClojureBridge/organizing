@@ -1,7 +1,7 @@
 ## [[Pre-Workshop Tasks|Pre-Workshop Tasks]]
 * Confirm dates & details with the hosting venue
 * Post the event on Meetup.com
-* Survey your students and volunteers 
+* Survey the students and volunteers 
 * Arrange catering
 * Make after-party reservations
 * Train your teachers
