@@ -4,7 +4,7 @@ The bare-bones necessities, most important bits, and what makes a workshop a Rai
 A step-by-step guide to organizing when you've got the SF Railsbridge community at your back.
 ## [[What to do if you're not in SF|How to organize outside of SF]] 
 Finding a space, sponsors, and a pro-diversity-in-coding ecosystem.
-## [[Materials|Materals]]
+## [[Materials|Materials]]
 Templates and forms that will make your life easier.
 ## [[The Three Main Roles|Three Main Roles]]
 Two organizers can usually cover the three roles, but one person cannot. The roles: communicator, logistics magician, and ringmistress.
