@@ -59,4 +59,10 @@ When people join the SF Ruby meetup to attend a workshop, they don't always real
 ## Update the pre- and post-workshop presentation slides
 > To do: links & instructions for updating slides
 
+## Figure out student class levels
+* Use the grouping guide to interpret the results of the pre-workshop survey
+
+> To do: page with grouping guide
+
+
 ### [[Back to How to Organize in SF|How to Organize a Railsbridge Workshop in SF]]
