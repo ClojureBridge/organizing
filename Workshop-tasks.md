@@ -43,6 +43,7 @@
 ## Teacher retro
 * Draw a happy face, a neutral face, a sad face. Ask people to give you feedback for each of them, along with ideas and questions.
 * Keep the discussion focused on what happened at that workshop. Kill tangents that go too far off-topic or need to have their own meeting devoted to them. 
+* Get feedback on curriculum and organization. 
 * Try not to lead the group down interesting tangents yourself. 
 * Keep it under 20 minutes. 
 * Take a picture of the whiteboard at the end and include those in your post-workshop write up. 
