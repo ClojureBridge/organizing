@@ -56,4 +56,7 @@ When people join the SF Ruby meetup to attend a workshop, they don't always real
 ## Obtain necessary objects: power cords, flash drives, name tags, etc.
 > To do: develop physical items plans (#1 plan: don't lose the stuff)
 
+## Update the pre- and post-workshop presentation slides
+> To do: links & instructions for updating slides
+
 ### [[Back to How to Organize in SF|How to Organize a Railsbridge Workshop in SF]]
