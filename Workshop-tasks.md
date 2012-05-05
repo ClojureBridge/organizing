@@ -33,7 +33,8 @@
 * If there's a class in the Installfest/presentation space, and that space is where the food is going to be, have them get their food first, so their class isn't interrupted by hordes of hungry coders. 
 
 ## Feed people lunch, make them go back to class
-* Deal with lunch when it arrives. Announce proper recycling/composting/landfilling procedurs.
+* Deal with lunch when it arrives. Announce proper recycling/composting/landfilling procedures.
+* Get your yeller to send 'em back to class.
 
 ## Email post-workshop survey link
 * Sometime after the last break, email the attendees a link to the post-workshop feedback survey.
