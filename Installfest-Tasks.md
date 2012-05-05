@@ -9,6 +9,21 @@
 > To Do: further questions to get people to admit their actual skill level
 
 ## Setting up a good Installfest space
+* Power outlets will guide how the Installfest space is set up, but Railsbridge's rolling chest of power cords should help with that quite a bit. The Installfest should be one big room with different tables, ideally marked with OSs so that folks with similar issues can help each other. (This usually means getting more granular than just Mac/Linux/PC and breaking out older Mac OSs into their own pods.)
+* Post the wireless SSID & password often and visibly. 
+
 ## Identify Github point person for real-time updates
+One (or two) people should own the updates. If you have someone around who has commit rights, they can merge your pull requests live. If not, fork the Installfest and use your own app like so:
+* Fork the installfest app somewhere in here: https://github.com/railsbridge/installfest
+* Create a heroku app named like: http://installfest-railsbridge46.heroku.com, push to that app
+* Make changes and every time a change is made, push and tell the organizer or announce the change
+* Submit a pull request (Even if a pull request is not accepted as is, it still helps prompt a solution, so don't worry if your requests don't get accepted verbatim.) 
+* At the end of the evening, delete the Heroku app, and tell students the canonical URL is http://installfest.railsbridge.org
+
+> To Do: More detailed instructions on doing this, for people new to Github.
+
 ## Dealing with inevitable issues
+* Wireless bandwidth is always difficult at workshops. Preparing for this and communicating it repeatedly to your students is the best bet, but people will still show up at the Installfest not having downloaded gargantuan necessary files. Having said files on flash drives will help dramatically, so make sure to have those. And don't lose them! 
+* As an organizer, people will expect you to solve their problems. Help them if you can, but if someone asks you about something outside of your expertise, delegate swiftly and without guilt. If it's 7pm and it looks like it's going to be 6 hours for a student to download a necessary file, this probably isn't the weekend that the workshop will work for them. Since we do this regularly, telling people that they can't do the workshop this time isn't the worst thing in the world. It sucks, but it's better than having someone sitting in the workshop on Saturday unable to do anything or derailing their section because of their incomplete install.
+
 ### [[Back to How to Organize in SF|How to Organize a Railsbridge Workshop in SF]]
