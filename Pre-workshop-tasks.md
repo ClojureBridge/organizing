@@ -2,7 +2,7 @@
 The Railsbridge meta-organizers have introduced you via email to the contact person at the hosting venue. You'll want to confirm that the dates still work for them, how much room they have (which you will use to guide the RSVP cap on Meetup), and lots of other details. So many, in fact, that we have a whole separate page for what to talk about: [[hosting venue questions|hosting venue questions]].
 
 ## Post the event on Meetup.com
-Contact Bosco & Caleb for organizer permission [via sfruby.info/suggestion](http://www.sfruby.info/suggestion/), so you can post the event at the [SF Ruby Meetup](http://sfruby.info). You will post:
+Contact Bosco & Caleb for organizer permission via [sfruby.info/suggestion](http://www.sfruby.info/suggestion/), so you can post the event at the [SF Ruby Meetup](http://sfruby.info). You will post:
 * A student event
 * A volunteer event
 * A teacher training (can be scheduled closer to event)
