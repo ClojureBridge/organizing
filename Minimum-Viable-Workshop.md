@@ -2,6 +2,7 @@
 * A commitment by the organizers, teachers, and students to increasing diversity in tech.
 * An Installfest in which participants end up with a functional development environment on their machines.
 * A Workshop day in which participants do hands-on work on some kind of curriculum.
+
 > To Do: get community input here!
 
 ## The Bare Necessities 
