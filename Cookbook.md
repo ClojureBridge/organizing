@@ -9,5 +9,5 @@ Templates and forms that will make your life easier.
 ## [[The Three Main Roles|Three Main Roles]]
 Two organizers can usually cover the three roles, but one person cannot. The roles: communicator, logistics magician, and ringmistress.
 ## [[Opinions|Opinions]]
-Things we thing make organizing better or easier, and make for better workshops. 
+Things we think make organizing easier and make for better workshops. 
 ### [[Go Home|Home]]
