@@ -1,3 +1,6 @@
+## Find a community
+> Tips for identifying allies within the local tech community
+
 ## Find a space
 
 Not much you can do without a space, and the space you find will determine how many students you can have at your workshop. Here are a couple ideas for where to find spaces:
