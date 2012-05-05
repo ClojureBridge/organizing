@@ -40,6 +40,6 @@ A workshop’s no fun if nobody comes. Find out the capacity of the space you’
 Now, how are you going to get the word out? While here in San Francisco we’re pretty lucky to have things like Meetup.com, posting to local forums, putting flyers in coffee and book shops with a link to a Google form that they can use to say they’ll attend, or connecting with community colleges/local IT businesses in your area to get the word out are also good ways to go.
 
 ## Next Steps
-Once you've got a space, sponsors, volunteers, and students, head over to [[How to Organize a Railsbridge Workshop in SF|How to Organize a Railsbridge Workshop in SF]] (even though by definition you're probably not in SF. There's some helpful stuff over there. 
+Once you've got a space, sponsors, volunteers, and students, head over to [[How to Organize a Railsbridge Workshop in SF|How to Organize a Railsbridge Workshop in SF]] (even though by definition you're probably not in SF). 
 
 ### [[Go to Cookbook home|Cookbook]]
