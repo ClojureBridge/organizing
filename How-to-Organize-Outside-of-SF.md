@@ -1,5 +1,5 @@
 ## Find a community
-> Tips for identifying allies within the local tech community
+> To Do: Tips for identifying allies within the local tech community
 
 ## Find a space
 
