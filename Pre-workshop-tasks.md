@@ -3,8 +3,8 @@ The Railsbridge meta-organizers have introduced you via email to the contact per
 
 ## Post the event on Meetup.com
 Contact Bosco So (rubymeetup@boscoso.com) for organizer permission, so you can post the event at the [SF Ruby Meetup](http://sfruby.info). You will post:
-* A volunteer event
 * A student event
+* A volunteer event
 * A teacher training (can be scheduled closer to event)
 
 Copy an old workshop, update the details with your own, and have someone else read through it before posting. Because most people forget to update at least one piece of information, to various levels of tragedy.
