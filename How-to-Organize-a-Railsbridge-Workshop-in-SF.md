@@ -1,6 +1,3 @@
-## Timeline
-An ordered overview of things that need to happen.
-
 ## [[Pre-Workshop Tasks|Pre-Workshop Tasks]]
 * Confirm dates & details with the hosting venue
 * Post the event on Meetup.com
