@@ -34,4 +34,4 @@ An ordered overview of things that need to happen.
 * Share the post-workshop survey results with the organizer's listserve
 * Update this wiki with your brilliant discoveries
 
-### [[Back to the Cookbook|Cookbook]]
+### [[Back to Cookbook Home|Cookbook]]
