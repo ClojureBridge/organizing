@@ -1,6 +1,6 @@
 Location Questionnaire
 ### Space
-* Can the location be used for Teacher Training, as well as the Installfest/workshop?
+* Can the location be used for teacher training, as well as the Installfest/workshop?
 * Which rooms/spaces are available for workshop use?
 * What arrangements need to me made regarding picking up/dropping off keys?
 * Does there need to be someone down at the door?
