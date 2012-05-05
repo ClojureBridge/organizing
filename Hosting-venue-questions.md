@@ -30,3 +30,5 @@ Location Questionnaire
 * When would they like to have a plug?  (Friday night?  Saturday Morning?)
 * Will they have some of their people attending to do this?
 * If no, do they have any specific projects they would like us to mention when we’re giving the plug?
+
+### [[Back to Pre workshop tasks|Pre workshop tasks]]
