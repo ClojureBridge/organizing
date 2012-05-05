@@ -1,8 +1,18 @@
 ## Confirm dates & details with the hosting venue
 The Railsbridge meta-organizers have introduced you via email to the contact person at the hosting venue. You'll want to confirm that the dates still work for them, how much room they have (which you will use to guide the RSVP cap on Meetup), and lots of other details. So many, in fact, that we have a whole separate page for what to talk about: [[hosting venue questions|hosting venue questions]].
+
 ## Post the event on Meetup.com
+Contact Bosco So (rubymeetup@boscoso.com) for organizer permission, so you can post the event at the [SF Ruby Meetup](http://sfruby.info). You will post:
+* A volunteer event
+* A student event
+* A teacher training (can be scheduled closer to event)
+
+Copy an old workshop, update the details with your own, and have someone else read through it before posting. Because most people forget to update at least one piece of information, to various levels of tragedy.
+
 ## Survey your students and volunteers
+
 ## Arrange catering
+
 ## Make after-party reservations
 Provided you’ve found a sponsor whose donation has left a little extra after catering, it’s always great to thank volunteers for their time and help with a free drink after the event. This also gives the workshop goers a chance to socialize more and really build some networking connections that will help support them if they decide they now have the bug and want to actually delve into this awesome world of Ruby programming!
 
@@ -14,6 +24,9 @@ Mention the after-party early and often. Some students will fail to read the ins
 
 If a potential host demands a minimum bar tab or rental fee, go elsewhere! Plenty of places don’t, but some places are in the business of hosting parties. This tends to run $1000 and up, which is too expensive unless you have an after-party sponsor.
 ## Train your teachers
+
 ## Communicate with everyone
+
 ## Obtain necessary objects: power cords, flash drives, name tags, etc.
+
 ### [[Back to How to Organize in SF|How to Organize a Railsbridge Workshop in SF]]
