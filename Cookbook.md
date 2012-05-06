@@ -7,7 +7,7 @@ Finding a space, sponsors, and a pro-diversity-in-coding ecosystem.
 ## [[Materials|Materials]]
 Templates and forms that will make your life easier.
 ## [[The Three Main Roles|Three Main Roles]]
-Two organizers can usually cover the three roles, but one person cannot. The roles: communicator, logistics magician, and ringmistress.
+Two organizers can usually cover the three roles, but one person cannot. The roles: communicator, stage director, and circus ringmistress.
 ## [[Opinions|Opinions]]
 Things we think make organizing easier and make for better workshops. 
 ### [[Go Home|Home]]
