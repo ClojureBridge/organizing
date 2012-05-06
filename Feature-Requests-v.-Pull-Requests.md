@@ -10,6 +10,6 @@ Once you've figured out how your idea will fit in, make a pull request. If you'r
 
 Thank you for helping and thank you for your ideas, your work, and your support!
 
-**TL;DR: As an open source project, Railsbridge doesn't have the bandwidth for feature requests. If you see something you'd like changed, do it!**
+**TL;DR: RailsBridge organizers are always happy to brainstorm great ideas over beers or on the mailing list, but everything new happens because someone steps up to make it happen. It's an open source project, if you see something you'd like to be new or different, do it!**
 
 ### [[Back Home|Home]]
