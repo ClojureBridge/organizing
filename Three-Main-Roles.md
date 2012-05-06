@@ -11,3 +11,5 @@ There's a technical requirement for the circus mistress because the presentation
 There are plenty of other things that could go into one person's bucket over the other. But most of the volunteers will be teachers, so unless you recruit dedicated non-teaching volunteers, prepare to lasso some volunteers and get them to help with signing people in or putting the bagels of for consumption. The three roles have more and less work at various points, so it might make sense for you to trade off being stage director before and during the weekend, in addition to your other role. 
 
 Mostly, talk to your co-organizer about their strengths, weaknesses, and what they want to do. Figure out how to have to most fun. 
+
+### [[Back to the Cookbook|Cookbook]]
