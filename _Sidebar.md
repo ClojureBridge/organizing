@@ -1,1 +1,1 @@
-test sidebar
+This is the [Railsbridge](http://railsbridge.org) Github Wiki.
