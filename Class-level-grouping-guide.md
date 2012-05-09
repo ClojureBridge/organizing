@@ -20,7 +20,7 @@ Once Attendees have filled out the form, it should be relatively easy to assign 
 * Group as many people as possible before the workshop
 * Anyone who hasn't taken the survey when they check into the Installfest should take the survey before proceeding to the Installfest
 * At workshop check-in, either hand attendees a card with their level, or simple tell them and ask them to remember or write it down
-** If someone didn't attend the Installfest and also didn't fill out the form, ask a volunteer to check their install and have them take the survey then.
+* If someone didn't attend the Installfest and also didn't fill out the form, ask a volunteer to check their install and have them take the survey then.
 
 ## Volunteer Grouping
 There are a few ways to do this. Follow your heart.
