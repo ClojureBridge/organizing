@@ -20,18 +20,35 @@ Meetup likes privacy. So you don't have access to folks' email addresses unless 
 > To Do: create format-agnostic version of survey questions
 
 ## Arrange catering
+
+### Installfest
 Installfest food is pizza and hopefully salad. If the host has a beer fridge or kegerator to share, that's awesome, otherwise, get some beer, too. 
+
+Amounts: 2-3 slices of pizza (20 inch) for each anticipated individual. 
+(I.e. Total Volunteers + Attendees = 80, 60% = 48: Roughly 144 slices needed- so 9 pizzas with 16 slices)
+
 > To Do: pizza shop recommendations
 
-Workshop breakfast is usually coffee & bagels. Noah's is a good choice for bagels; they can do coffee, too.
+### Breakfast
+Workshop breakfast is usually coffee & bagels. Arrange to have everything delivered about 15 minutes before Volunteers arrive, so there is food and coffee to greet them.
 
-Lunch is the most freeform. 
+Noah’s Bagels has a great catering delivery service on bagels. Order enough bagels to cover about 70% of attendees/volunteers with ‘Yes’ RSVP. 
+ 
+Search around the workshop’s location to find a coffee shop which will deliver it to you, if possible. Coffee Bean has a reasonable one which includes sugar, milk, disposable cups etc. A Cambro (5 gallons) is usually MORE than enough for 70 people as not everyone will drink coffee.
+
+### Lunch
+
+Ask the host location if they have any recommendations for catering companies that they have used before. 
+Give the Caterer estimated head count; usually 70% of that number of Yes RSVPs. Ask for a Vegetarian/Vegan option for about a third of the food, and if they will want help clearing away any of the set-up they bring. 
+
+If the host company is not paying for it, ask for a quote to submit to Austin for approval. 
+
 > To Do: recommended caterers/restaurants for lunch delivery 
 
 ## Make after-party reservations
 Provided you’ve found a sponsor whose donation has left a little extra after catering, it’s always great to thank volunteers for their time and help with a free drink after the event. This also gives the workshop goers a chance to socialize more and really build some networking connections that will help support them if they decide they now have the bug and want to actually delve into this awesome world of Ruby programming!
 
-Find someplace close. The closer the after-party is to the workshop site, the more likely it is that people won’t get lost or distracted between leaving the workshop and arriving at the party. Case likely sites ahead of time. You need a place that has enough unoccupied space for the whole group to gather and mingle. A deserted bar is ideal, a casual restaurant is also good and allows you to order appetizers (or you can always bring snacks to a non-food bar). Most workshops end at 4:30 or so on Saturdays, which tends to be a slow time for bars and restaurants, but it pays to check.
+Find someplace close. The closer the after-party is to the workshop site, the more likely it is that people won’t get lost or distracted between leaving the workshop and arriving at the party. You need a place that has enough unoccupied space for the whole group to gather and mingle. A deserted bar is ideal, a casual restaurant is also good. Most workshops end at 4:30 or so on Saturdays, which tends to be a slow time for bars and restaurants, but it pays to check.
 
 Make arrangements with the host location ahead of time. If you can tell a place that you’re estimating X many people will be coming and that you for sure will buy Y many drinks (one for each of your volunteers), that’s often enough to encourage them to go out of their way to support what you’re doing. Some places will offer specials (free drinks, extra food) to entice large groups but even those that don’t should be informed before a horde of people descend on them.
 
