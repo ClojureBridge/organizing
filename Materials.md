@@ -18,6 +18,6 @@
 ## Miscellania
 * Host venue questions
 * Grouping guide
-* Catering and after-party location suggestions
+* [[Catering and after-party location suggestions|Catering and after-party location suggestions]]
 
 ### [[Back to Cookbook home|Cookbook]]
