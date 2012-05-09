@@ -26,19 +26,17 @@ Once Attendees have filled out the form, it should be relatively easy to assign 
 There are a few ways to do this. Follow your heart.
 
 ### More Organized/More Prep
-*Thursday before Install fest:* 
-Based on the number of attendees who have filled out their grouping forms, create preliminary volunteer groupings to teach the needed classes.  Class sizes should be around 5-7 (bigger classes may be broken down to use the ‘flexible’ volunteers outlined below) 
+**Thursday before Install fest:**
+* Based on the survey results, create preliminary volunteer groupings to teach the needed classes. Class sizes should be around 5-7 (bigger classes may be broken down to use the ‘flexible’ volunteers outlined below). 
+* Create one or two additional ‘flexible’ volunteer groupings to cover attendees who have not filled out the form yet. They may end up as TA’s distributed among other classes, or as their own class, depending on who shows up on the day.
+* Send an e-mail to the volunteers, letting them know what Teacher/TA groups you’ve paired them into. While noting that this may change depending on actual attendance on Saturday, also note the potential attendee class level you are thinking of heaving each teacher work with, so they can prepare.  
 
-Create one or two additional ‘flexible’ volunteer groupings to cover attendees who have not filled out the form yet.  They may end up as TA’s distributed among other classes, or as their own class, depending on who shows up on the day.
- 
-Send an e-mail to the volunteers, letting them know what Teacher/TA groups you’ve paired them into.  While noting that this may change depending on actual attendance on Saturday, also note the potential attendee groups-range you are thinking of heaving each teacher work with, so they can prepare.  
-
-*Workshop Morning:*
-* Based on the number of Attendees in each group, adjust the classes each volunteer grouping will teach as necessary. 
+**Workshop Morning:**
+* Based on the number of attendees in each group, adjust the classes each volunteer grouping will teach as necessary. 
 * 20 minutes before the introduction speech, take each teacher to their teaching area to get set up. 
-* Give a TA from each class a grouping card, and have them stand over to the side while the introduction speech is happening. 
-* At the end of the introduction speech, have all individuals with the matching grouping cards go over to the TA’s holding the cards.  
-* If there are several classes of a specific grouping, subdivide the attendees between the TA’s for those classes. 
+* Give a TA from each class a card with their level it, and have them stand over to the side while the introduction speech is happening. 
+* At the end of the opening presentation, have the TAs announce which class levels they are each helping with, and ask the students to go to the appropriate TA. 
+* If there are several sections of a class level, subdivide the attendees between the TA’s for those classes. 
 Have the TA’s bring their students to where the teacher is set up. 
 
 ### Less Organized/Less Prep
