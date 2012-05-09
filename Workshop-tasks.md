@@ -22,7 +22,7 @@
 
 ## Figure out who really showed up; match students & teachers accordingly
 * One good workflow is to meet with the teachers elsewhere in the space while the opening presentation is happening. You can confirm who is TAing and who is teaching, and any class level preferences. If you haven't already assigned classrooms, this is a good time to send the teacher/TA teams out to claim spaces. 
-* There are a lot of different ways to get students into their small groups. Two strategies are outlined in great detail in the [[class level grouping guide|Class level grouping guide]]
+* There are a lot of different ways to get students into their small groups. Two strategies are outlined in great detail in the [[class level grouping guide|Class level grouping guide]].
 
 ## Keep time: remind/make all groups take breaks, eat lunch
 * Depending on how late you started, you may or may not need to enforce a morning break. Generally people are very focused, and you have to remind them to get some fresh air. (The conference rooms of most offices tend to get pretty stuffy with that much learning.) 
