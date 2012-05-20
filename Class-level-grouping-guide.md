@@ -3,12 +3,12 @@ While one of the sometimes toughest parts of organizing a workshop, doing this w
 
 ## Suggested Class Levels
 It can help to try and define the different grouping levels as follows. Feel free to combine/create class levels depending on the folks who sign up for your workshop. 
-* Novice: Has never worked with any programming languages before and has no real experience with/understanding of programming.
-* Beginner: Has never really worked with any programming languages, or worked a little with languages outside of ruby, but may have seen/heard of some programming concepts.  
-* Advanced Beginner: Has worked with other programming languages and may be familiar with programming concepts, but has not worked with Object Oriented programming, Ruby or Rails.
-* Intermediate: Has written an Object Oriented program once or twice and used loops, methods etc. Has no experience of TDD, and may only know about Rails without having actually used it themselves.  
-* Advanced Intermediate: 	Has written their own Object Oriented programs multiple times but may not have worked with Rails, Git or Heroku before.  May be unfamiliar with TDD.
-* Advanced: Has worked with Rails before or had some experience with TDD, Git and Heroku before. 
+* Beginner: Has never really worked with any programming languages.
+* Advanced Beginner: Has worked with other programming languages and may be familiar with programming concepts, but has not worked with object oriented programming, Ruby, or Rails.
+* Intermediate: Understands programming concepts like functions, loops, classes. May only know about Rails without having actually used it themselves.  
+* Advanced Intermediate: Has written their own object oriented programs multiple times but may not have worked with Rails, Git or Heroku before. 
+* Advanced, no Rails: Advanced work in another programming language, but new to Ruby or Rails.
+* Advanced in Rails: Has written Rails applications before. Possibly a good candidate for teaching or being a TA.
 
 ## Grouping Forms
 
