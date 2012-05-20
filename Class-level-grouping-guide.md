@@ -1,5 +1,5 @@
 ## Grouping
-While one of the sometimes toughest parts of organizing a workshop, doing this well can often make the difference between really happy workshop goers/volunteers and really frustrated ones.
+While one of the sometimes toughest parts of organizing a workshop, doing this well can often make the difference between really happy workshop goers/volunteers and frustrated ones. The links to the forms, the important instructions for using them, lives on the [[pre-workshop tasks page|pre workshop tasks]].
 
 ## Suggested Class Levels
 It can help to try and define the different grouping levels as follows. Feel free to combine/create class levels depending on the folks who sign up for your workshop. 
@@ -9,20 +9,6 @@ It can help to try and define the different grouping levels as follows. Feel fre
 * Advanced Intermediate: Has written their own object oriented programs multiple times but may not have worked with Rails, Git or Heroku before. 
 * Advanced, no Rails: Advanced work in another programming language, but new to Ruby or Rails.
 * Advanced in Rails: Has written Rails applications before. Possibly a good candidate for teaching or being a TA.
-
-## Grouping Forms
-
-While there is a project currently underway for a site that allows organizers to easily send volunteers and attendees questionnaire forms, our current Google Doc templates can be found and used. In order to not expose your attendee's email address and infos to the entire Internet, **please copy the form (File -> Make a copy...).** Send your students a link to the form created by your copy, and share a link to your spreadsheet  with the workshop coordinators (the ones who set you up with the venue originally, probably Lillie or Rachel in SF) so they can add the info to a private cumulative spreadsheet. 
-
-Here is the form to copy: 
-
-https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdElLRHVuWFpDdGxqb3BVajE5dUF2THc
-
-### It bears repeating: please COPY this form before sending it to your students, so their responses aren't available to anyone who clicks on the link directly preceding this sentence.
-
-The same is all true for the volunteer survey:
-
-https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdFJZTlFxSkZWS2ZRRmI4c3FXVnJXMUE#gid=0
 
 ## Attendee Grouping
 Once Attendees have filled out the form, it should be relatively easy to assign them to a group.  Here's one way to handle grouping:
