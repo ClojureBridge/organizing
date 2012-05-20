@@ -6,9 +6,9 @@
 >
 > Hey folks,
 > 
-> I hope you're super psyched about the RailsBridge Workshop for Women on March 30 & 31 at Pivotal Labs! 
+> I hope you're super psyched about the RailsBridge Workshop for Women on (DATES PLEASE) at Pivotal Labs! 
 > 
-> Please take this survey about your experience with programming by this Friday, March 16 at 5pm. It should take about 45 seconds to three minutes depending on how long you think about your answers. Don't overanalyze ... whether you mark "No" or "Yes" or write "I'm an expert!" for everything, we'll find a place for you.
+> Please take this survey about your experience with programming by this Friday, (INSERT DATE) at 5pm. It should take about 45 seconds to three minutes depending on how long you think about your answers. Don't overanalyze ... whether you mark "No" or "Yes" or write "I'm an expert!" for everything, we'll find a place for you.
 > 
 > After 5pm this Friday, we'll start moving people who haven't finished the survey from the "Yes" list to the Waiting list. Don't let it be you! (Also, if you realize you can't make it, please kindly change your RSVP to reflect that.)
 > 
@@ -20,7 +20,7 @@
 >
 > Lillie & Jessie
 > 
-> PS: Direct survey link, for posterity: https://docs.google.com/spreadsheet/viewform?formkey=dDhBejF5RzB6Z09lS3FQMUVtY3RjaVE6MQ#gid=0
+> PS: Direct survey link, for posterity: (DIRECT SURVEY LINK HERE PLZ)
 
 ### This is the short version of "hello, take the damn survey", for following up with added people.
 
@@ -28,7 +28,7 @@
 > 
 > Since it's really short and helps a ton with the pre-planning, please do take it soon. Thanks! 
 > 
-> https://docs.google.com/spreadsheet/viewform?formkey=dDhBejF5RzB6Z09lS3FQMUVtY3RjaVE6MQ#gid=0 
+> (SURVEY LINK GOES HERE)
 > 
 > All the best, 
 >
@@ -38,9 +38,9 @@
 
 >Subject: March 30/31 Workshop -- Now Featuring Everyone 
 >
->We've opened up the Workshop on March 30 & 31 to everyone on the waitlist because Pivotal is massive and you're all wonderful people. 
+>We've opened up the Workshop on (DATES) to everyone on the waitlist because Pivotal is massive and you're all wonderful people. 
 > 
-> If you haven't yet, please take the programming experience survey. It will take 1-2 minutes: https://docs.google.com/spreadsheet/viewform?formkey=dDhBejF5RzB6Z09lS3FQMUVtY3RjaVE6MQ#gid=0
+> If you haven't yet, please take the programming experience survey. It will take 1-2 minutes: (SURVEY LINK)
 > 
 > I just finished the first batch of class-level groupings, and can't wait to add you! 
 > 
@@ -58,9 +58,9 @@
 > 
 > Yay Railsbridge!
 > 
-> If you haven't yet, TAKE THE 1-MINUTE EXPERIENCE SURVEY: https://docs.google.com/spreadsheet/viewform?formkey=dDhBejF5RzB6Z09lS3FQMUVtY3RjaVE6MQ#gid=0.
+> If you haven't yet, TAKE THE 1-MINUTE EXPERIENCE SURVEY: (SURVEY LINK)
 > 
-> And here are the instructions for setting up your development environment. Try to get through as much of it as possible independently, but if (when) you hit a snag, don't stress: **http://installfest.railsbridge.org/installfest/installfest**. Even if you get through everything no problem, come by on Friday night so we can check it out and give you a sticker. 
+> And here are the instructions for setting up your development environment. Try to get through as much of it as possible independently, but if (when) you hit a snag, don't stress: **INSTALLFEST LINK**. Even if you get through everything no problem, come by on Friday night so we can check it out and give you a sticker. 
 > 
 > **Very Important Thing**
 > 
@@ -76,9 +76,9 @@
 
 > Subject: Railsbridge is upon us!
 > 
-> If you haven't yet, take the experience survey: https://docs.google.com/spreadsheet/viewform?formkey=dDhBejF5RzB6Z09lS3FQMUVtY3RjaVE6MQ#gid=0
+> If you haven't yet, take the experience survey: (SURVEY LINK)
 > 
-> Install instructions are here; get through as much as you can before Friday, but don't stress if you can't: http://installfest.railsbridge.org/installfest/installfest. 
+> Install instructions are here; get through as much as you can before Friday, but don't stress if you can't: (INSTALLFEST LINK). 
 > 
 > There's no formal presentation on Friday; you'll just need to be there until your machine is ready to go for Saturday. 
 > 
@@ -141,7 +141,7 @@
 > 
 > Hi Learners-of-Rails,
 > 
-> Thanks so much for coming to the Workshop this weekend. Please let us know how it went! Here's a quick survey: https://docs.google.com/spreadsheet/viewform?formkey=dDhDZC04Nmx6UnlGZmd5OUlGYmh0ZkE6MQ
+> Thanks so much for coming to the Workshop this weekend. Please let us know how it went! Here's a quick survey: (POST-WORKSHOP SURVEY LINK)
 > 
 > See you again soon!!!
 > 
