@@ -16,7 +16,7 @@
 * [[Sara's letters to volunteers]]
 
 ## Miscellania
-* Host venue questions
+* [[Hosting venue questions|Hosting venue questions]]
 * [[Class level grouping guide|Class level grouping guide]]
 * [[Catering and after-party location suggestions|Catering and after-party location suggestions]]
 
