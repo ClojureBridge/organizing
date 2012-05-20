@@ -5,7 +5,7 @@
 * Opening & closing presentation slides
 
 ## Surveys
-**These are direct links to spreadsheets & forms that you can use as a template. You must COPY THESE DOCS before using them to avoid exposing your student's or volunteer's data to anyone who click on these links.** 
+These are direct links to spreadsheets & forms that you can use as a template. **You must COPY THESE DOCS before using them to avoid exposing your student's or volunteer's data to anyone who click on these links.** 
 
 * [Railsbridge Pre-Workshop Student Survey Template](https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdElLRHVuWFpDdGxqb3BVajE5dUF2THc#gid=0)
 * [Railsbridge Volunteer Survey Template](https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdFJZTlFxSkZWS2ZRRmI4c3FXVnJXMUE#gid=0)
