@@ -10,7 +10,7 @@
 * [Railsbridge Pre-Workshop Student Survey Template](https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdElLRHVuWFpDdGxqb3BVajE5dUF2THc#gid=0)
 * [Railsbridge Volunteer Survey Template](https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdFJZTlFxSkZWS2ZRRmI4c3FXVnJXMUE#gid=0)
 
-Since this one is anonymous, you can use the same survey and don't need to copy it. But you will probably need to take the previous workshop's survey and paste it into a different sheet (look along the bottom if you haven't used sheets before) 
+Since this one is anonymous, you can use the same survey and don't need to copy it. But you will probably need to take the previous workshop's survey and paste it into a different sheet (look along the bottom if you haven't used sheets in spreadsheets before). 
 
 * [Post-workshop feedback survey](https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdDhDZC04Nmx6UnlGZmd5OUlGYmh0ZkE#gid=0)
 
