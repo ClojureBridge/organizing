@@ -1,7 +1,7 @@
 ## Materials on Github
-* Installfest
-* Curriculum
-* Teacher training slides
+* [Installfest](http://installfest.railsbridge.org/installfest/)
+* [Curriculum](http://installfest.railsbridge.org/curriculum/)
+* [Teacher training slides](http://curriculum.railsbridge.org/workshop/teacher_training)
 * Opening & closing presentation slides
 
 ## Surveys
@@ -10,10 +10,10 @@
 * Post-workshop feedback survey
 
 ## Email templates
-* Lillie's letters to students
-* Lillie's letters to volunteers
-* Sara's letters to students
-* Sara's letters to volunteers
+* [[Lillie's letters to students]]
+* [[Lillie's letters to volunteers]]
+* [[Sara's letters to students]]
+* [[Sara's letters to volunteers]]
 
 ## Miscellania
 * Host venue questions
