@@ -44,6 +44,9 @@ A workshop’s no fun if nobody comes. Find out the capacity of the space you’
 
 Now, how are you going to get the word out? While here in San Francisco we’re pretty lucky to have things like Meetup.com, posting to local forums, putting flyers in coffee and book shops with a link to a Google form that they can use to say they’ll attend, or connecting with community colleges/local IT businesses in your area to get the word out are also good ways to go.
 
+## Manage your RSVPs
+In practice, using a closed, invite-only system for recruiting instructors and a more public application such as Meetup to register participants in the other roles has worked well. If you have the benefit of a local Rails or Ruby group, see whether you can use that group's mailing list or Meetup page to handle registration for the workshop attendees and non-instructor volunteers.
+
 ## Next steps
 Once you've got a space, sponsors, volunteers, and students, head over to [[How to Organize a Railsbridge Workshop in SF|How to Organize a Railsbridge Workshop in SF]] (even though by definition you're probably not in SF). 
 
