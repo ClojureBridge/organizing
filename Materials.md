@@ -22,5 +22,6 @@ Since this one is anonymous, you can use the same survey and don't need to copy 
 * [[Hosting venue questions|Hosting venue questions]]
 * [[Class level grouping guide|Class level grouping guide]]
 * [[Catering and after-party location suggestions|Catering and after-party location suggestions]]
+* [[Sample Budget|sample budget]]
 
 ### [[Back to Cookbook home|Cookbook]]
