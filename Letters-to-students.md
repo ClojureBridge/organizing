@@ -60,11 +60,11 @@
 > 
 > If you haven't yet, TAKE THE 1-MINUTE EXPERIENCE SURVEY: (SURVEY LINK)
 > 
-> And here are the instructions for setting up your development environment. Try to get through as much of it as possible independently, but if (when) you hit a snag, don't stress: **INSTALLFEST LINK**. Even if you get through everything no problem, come by on Friday night so we can check it out and give you a sticker. 
+> And here are the instructions for setting up your development environment. Try to get through as much of it as possible independently, but if (when) you hit a snag, don't stress: (INSTALLFEST LINK). Even if you get through everything no problem, come by on Friday night so we can check it out and give you a sticker. 
 > 
-> **Very Important Thing**
+> Very Important Thing
 > 
->**If you have a Mac, you need to install XCode before you come!** Instructions in the link above.
+>If you have a Mac, you need to install XCode before you come! Instructions in the link above.
 > 
 > As always, let me know if you have any questions.
 > 
