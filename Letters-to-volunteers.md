@@ -8,7 +8,7 @@
 > 
 > Can you take a quick survey so I know when you'll be helping & what you want to do? 
 > 
-> {Google Docs link}
+> (Incorrect link to the student survey)
 > 
 > THANK YOU.
 > 
@@ -26,7 +26,7 @@
 > 
 > I sent you the student survey. 
 > 
-> Here is the correct survey: https://docs.google.com/spreadsheet/viewform?formkey=dG45NFpfM1BQdkRtbWxNSDF2dm5HTFE6MQ#gid=0
+> Here is the correct survey: (SURVEY LINK)
 > 
 > Ashamedly,
 > 
