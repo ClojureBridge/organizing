@@ -1,5 +1,5 @@
 ## Grouping
-While one of the sometimes toughest parts of organizing a workshop, doing this well can often make the difference between really happy workshop goers/volunteers and frustrated ones. The links to the forms, the important instructions for using them, lives on the [[pre-workshop tasks page|pre workshop tasks]].
+While one of the sometimes toughest parts of organizing a workshop, doing this well can often make the difference between really happy workshop goers/volunteers and frustrated ones. The links to the forms, with important instructions for using them, lives on the [[pre-workshop tasks page|pre workshop tasks]].
 
 ## Suggested Class Levels
 It can help to try and define the different grouping levels as follows. Feel free to combine/create class levels depending on the folks who sign up for your workshop. 
