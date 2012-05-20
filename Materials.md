@@ -7,7 +7,7 @@
 ## Surveys
 * Student Programming Experience survey
 * Volunteer survey
-* Post-workshop feedback survey
+* [[Post-workshop feedback survey|Post workshop feedback survey]]
 
 ## Email templates
 * [[Letters to students]]
