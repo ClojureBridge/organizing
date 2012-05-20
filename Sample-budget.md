@@ -1,4 +1,4 @@
-The main expense is catering, but you'll also need a few supplies (pens, nametags). Here are some figures from a previous workshop to give you an idea of how much to budget. This menu totals about $1,000 to $1,200 (All currency US$).
+The main expense is catering, but you'll also need a few supplies (pens, nametags). Here are some figures from a previous workshop to give you an idea of how much to budget. This menu totals about $1,000 to $1,200 (all currency US$).
 
 ## Catering for 60
 * $200 for Installfest pizza & beer. Typical order: nine large pizzas (at least three cheese and/or vegetarian), sliced into sixteen pieces; one case of beer.
