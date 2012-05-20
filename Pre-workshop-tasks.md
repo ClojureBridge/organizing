@@ -31,13 +31,13 @@ https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdFJZTlFxSkZWS2ZRRmI4c3F
 
 ## Arrange catering
 
+As you are getting quotes for the catering, check out the [[sample budget|sample budget]]. Totals will vary depending on the number of folks there and where you're getting the food, but you shouldn't spend more than $1,500 total.
+
 ### Installfest
 Installfest food is pizza and hopefully salad. If the host has a beer fridge or kegerator to share, that's awesome, otherwise, get some beer, too. 
 
 Amounts: 2-3 slices of pizza (20 inch) for each anticipated individual. 
 (I.e. Total Volunteers + Attendees = 80, 60% = 48: Roughly 144 slices needed- so 9 pizzas with 16 slices)
-
-> To Do: pizza shop recommendations
 
 ### Breakfast
 Workshop breakfast is usually coffee & bagels. Arrange to have everything delivered about 15 minutes before Volunteers arrive, so there is food and coffee to greet them.
@@ -53,7 +53,7 @@ Give the Caterer estimated head count; usually 70% of that number of Yes RSVPs. 
 
 If the host company is not paying for it, ask for a quote to submit to Austin for approval. 
 
-> To Do: recommended caterers/restaurants for lunch delivery 
+> To Do: pizza & catering recommendation page
 
 ## Make after-party reservations
 Provided you’ve found a sponsor whose donation has left a little extra after catering, it’s always great to thank volunteers for their time and help with a free drink after the event. This also gives the workshop goers a chance to socialize more and really build some networking connections that will help support them if they decide they now have the bug and want to actually delve into this awesome world of Ruby programming!
