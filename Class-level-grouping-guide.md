@@ -12,8 +12,17 @@ It can help to try and define the different grouping levels as follows. Feel fre
 
 ## Grouping Forms
 
-While there is a project currently underway for a site that allows organizers to easily send volunteers and attendees questionnaire forms, current GoogleDoc templates can be found and used here: 
-> To Do: Link to grouping forms
+While there is a project currently underway for a site that allows organizers to easily send volunteers and attendees questionnaire forms, our current Google Doc templates can be found and used. In order to not expose your attendee's email address and infos to the entire Internet, **please copy the form (File -> Make a copy...).** Send your students a link to the form created by your copy, and share a link to your spreadsheet  with the workshop coordinators (the ones who set you up with the venue originally, probably Lillie or Rachel in SF) so they can add the info to a private cumulative spreadsheet. 
+
+Here is the form to copy: 
+
+https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdElLRHVuWFpDdGxqb3BVajE5dUF2THc
+
+### It bears repeating: please COPY this form before sending it to your students, so their responses aren't available to anyone who clicks on the link directly preceding this sentence.
+
+The same is all true for the volunteer survey:
+
+https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdFJZTlFxSkZWS2ZRRmI4c3FXVnJXMUE#gid=0
 
 ## Attendee Grouping
 Once Attendees have filled out the form, it should be relatively easy to assign them to a group.  Here's one way to handle grouping:
