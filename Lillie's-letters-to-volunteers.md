@@ -8,7 +8,7 @@
 > 
 > Can you take a quick survey so I know when you'll be helping & what you want to do? 
 > 
-> https://docs.google.com/spreadsheet/viewform?formkey=dDhBejF5RzB6Z09lS3FQMUVtY3RjaVE6MQ#gid=0
+> {Google Docs link}
 > 
 > THANK YOU.
 > 
