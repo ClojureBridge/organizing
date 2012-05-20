@@ -1,6 +1,7 @@
-The main expense is catering, but you'll also need a few supplies (marker pens, nametags). Here are some figures from a previous workshop to give you an idea of how much to budget.
+The main expense is catering, but you'll also need a few supplies (marker pens, nametags). Here are some figures from a previous workshop to give you an idea of how much to budget.  (All currency US$)
 
-## Catering for 60 people costs about $1,000 to $1,200 (all currency US$)
+## Catering for 60 people
+* Totals about $1,000 to $1,200
 * $200 for Installfest pizza & beer. Typical order: nine large pizzas (at least three cheese and/or vegetarian), sliced into sixteen pieces; one case of beer.
 * $100 for coffee for workshop morning
 * $500-700 for Saturday lunch from a catering service/restaurant
