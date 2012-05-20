@@ -14,14 +14,15 @@ Since this one is anonymous, you can use the same survey and don't need to copy 
 
 * [Post-workshop feedback survey](https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdDhDZC04Nmx6UnlGZmd5OUlGYmh0ZkE#gid=0)
 
-## Email templates
+## Communications
+* [[Announcement Templates]]
 * [[Letters to students]]
 * [[Letters to volunteers]]
 
 ## Miscellania
-* [[Hosting venue questions|Hosting venue questions]]
-* [[Class level grouping guide|Class level grouping guide]]
-* [[Catering and after-party location suggestions|Catering and after-party location suggestions]]
-* [[Sample Budget|sample budget]]
+* [[Hosting venue questions]]
+* [[Class level grouping guide]]
+* [[Catering and after-party location suggestions]]
+* [[Sample Budget]]
 
 ### [[Back to Cookbook home|Cookbook]]
