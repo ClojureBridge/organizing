@@ -20,6 +20,8 @@ This really ties in with finding a space, as your sponsor might be the one to pr
 
 You can also contact the SF Railsbridge community for ideas and help with sponsorship.
 
+To figure out how much you'll need to fundraise, check out the [[sample budget|Sample Budget]].
+
 ## Set a date and time
 
 Plan the Installfest for a Friday evening and the workshop the following Saturday. Trust us, you need that extra day for the Installfest – students can’t do the workshop without it, it’s messy and takes everybody vastly different amounts of time.
