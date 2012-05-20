@@ -10,8 +10,8 @@ It can help to try and define the different grouping levels as follows. Feel fre
 * Advanced, no Rails: Advanced work in another programming language, but new to Ruby or Rails.
 * Advanced in Rails: Has written Rails applications before. Possibly a good candidate for teaching or being a TA.
 
-## Attendee Grouping
-Once Attendees have filled out the form, it should be relatively easy to assign them to a group.  Here's one way to handle grouping:
+## Student Grouping
+Once students have filled out the form, it should be relatively easy to assign them to a group.  Here's one way to handle grouping:
 * Group as many people as possible before the workshop
 * Anyone who hasn't taken the survey when they check into the Installfest should take the survey before proceeding to the Installfest
 * At workshop check-in, either hand attendees a card with their level, or simple tell them and ask them to remember or write it down
