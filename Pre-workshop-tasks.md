@@ -83,7 +83,8 @@ A few of the things you'll do:
 * Ask people at every turn to update their RSVP on Meetup.com if they can't come
 
 When people join the SF Ruby meetup to attend a workshop, they don't always realize that by default they will be getting the Ruby-6 mailing list into their inbox. In one of your emails, it's helpful to address that and explain where the email setting are or encourage them to filter the messages (but still pay attention! for future learning!). 
-> To do: link to email templates
+
+You can find templates for emails in the [[materials section|materials]] under "Communication".
 
 ## Obtain necessary objects: power cords, flash drives, name tags, etc.
 > To do: develop physical items plans (#1 plan: don't lose the stuff)
