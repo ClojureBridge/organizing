@@ -46,6 +46,7 @@ These people have organized a bunch, and help new organizers through the process
 * Sarah Mei 
 
 ### Teacher Trainers
+These delightful folks can help train teachers.
 * Alex Chaffee
 * Steven! Ragnarök
 * Jessie Young
