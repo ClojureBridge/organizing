@@ -21,9 +21,9 @@ Rachel & Lillie scout out venues in advance and introduce organizers and their m
 
 ### Major Curriculum Contributors
 These folks are good to talk to if you have questions, comments, or thoughts about the curriculum. Or just submit a pull request! 
-* Steven! Ragnarok
+* Steven! Ragnarök
 * Alex Chaffee
-* Lots of other people?
+* Other people!
 
 ### Social Media Doers
 Mary Jenn now has keys to the Facebook page and is collecting success stories of RailsBridge students, teachers, and volunteers.
@@ -41,6 +41,15 @@ These people have organized a bunch, and help new organizers through the process
 * Ilen Zazueta-Hall
 * Amy Lightholder
 * Sara Richards
+* Curtis Schofield
 * Sarah Allen
 * Sarah Mei 
-* Lots more people!
+
+### Teacher Trainers
+* Alex Chaffee
+* Steven! Ragnarök
+* Jessie Young
+* Rachel Myers
+* Sarah Mei
+* Sarah Allen
+* Curtis Schofield
