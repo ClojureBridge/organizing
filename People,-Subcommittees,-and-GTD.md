@@ -25,8 +25,9 @@ These folks are good to talk to if you have questions, comments, or thoughts abo
 * Alex Chaffee
 * Other people!
 
-### Social Media Doers
-Mary Jenn now has keys to the Facebook page and is collecting success stories of RailsBridge students, teachers, and volunteers.
+### Online Presence Keepers
+Ilén Zazueta-Hall is the point person for updates to the main Railsbridge site, http://www.railsbridge.org, and Mary Jenn has keys to the Facebook page and is collecting success stories of RailsBridge students, teachers, and volunteers.
+* Ilén Zazueta-Hall
 * Mary Jenn
 
 ### Non-profit Status Subcommittee of Delight
@@ -34,11 +35,11 @@ Working on getting non-profit status in the form of fiscal sponsorship and maybe
 * Austin Putman
 * Jonathan Yankovich
 * Lillie Chilen
-* Sarah Allen (_ex officio_) (which means by nature of her position) (being the RailsBridge president)
+* Sarah Allen & Sarah Mei (_ex officio_) (which means by nature of the position) (being on the board)
 
 ### Mentors
 These people have organized a bunch, and help new organizers through the process. 
-* Ilen Zazueta-Hall
+* Ilén Zazueta-Hall
 * Amy Lightholder
 * Sara Richards
 * Curtis Schofield
