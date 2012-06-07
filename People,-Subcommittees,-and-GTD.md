@@ -29,6 +29,7 @@ These folks are good to talk to if you have questions, comments, or thoughts abo
 Ilén Zazueta-Hall is the point person for updates to the main Railsbridge site, http://www.railsbridge.org, and Mary Jenn has keys to the Facebook page and is collecting success stories of RailsBridge students, teachers, and volunteers.
 * Ilén Zazueta-Hall
 * Mary Jenn
+* Carina C. Zona
 
 ### Non-profit Status Subcommittee of Delight
 Working on getting non-profit status in the form of fiscal sponsorship and maybe eventually 501c(3) status.
