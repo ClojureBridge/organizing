@@ -15,7 +15,8 @@ Location Questionnaire
 * Is there a firm time when they need us to depart, or are they fine with letting us stay until the last person is done? (Particularly relevant for the unpredictable nature of Installfest.)
 
 ### Equipment
-* How many of the rooms/spaces for the workshop have screens/projectors?  Do we need to bring some if we are working in open spaces, or can they lend us monitors to instead plug into?  
+* How many of the rooms/spaces for the workshop have screens/projectors?  Do we need to bring some if we are working in open spaces, or can they lend us monitors to instead plug into?
+* Are there Mac and PC adaptors available for each of those screens/projectors/monitors?
 * Are there extension cords/connectors that the workshop can use?
 * Is there a microphone and amplified system available to use for the large group announcements sections?
 * Is there central air/heat on the weekends? If not, are there extra fans/space heaters that can be used if needed?
