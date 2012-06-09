@@ -2,7 +2,8 @@
 * [Installfest](http://installfest.railsbridge.org/installfest/)
 * [Curriculum](http://installfest.railsbridge.org/curriculum/)
 * [Teacher training slides](http://curriculum.railsbridge.org/workshop/teacher_training)
-* Opening & closing presentation slides
+* [Opening & closing presentation slides](http://installfest.heroku.com/workshop/
+): usually workshop leaders will run these locally after adding sponsor logos and location-specific info  (see README at the root of this code repository for details)
 
 ## Surveys
 These are direct links to spreadsheets & forms that you can use as a template. **You must COPY THESE DOCS before using them to avoid exposing your student's or volunteer's data to anyone who click on these links.** 
