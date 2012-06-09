@@ -1,6 +1,6 @@
 Location Questionnaire
 ### Space
-* Who will be the company's liaison to contact if any questions/problems arise during the workshop?  What is their contact information?  Which parts of the workshop, if any, will they be onsite?
+* Who will be the company's liaison to contact if any questions/problems arise during the workshop?  What is their contact information?  During parts of the workshop will they be on-site?
 * Can the location be used for teacher training, as well as the Installfest/workshop?
 * Which rooms/spaces are available for workshop use?
 * May we (and _can_ we -- sometimes there are reasons which it's logistically not possible) reconfigure spaces freely, for instance moving desks and tables, as long as we promise to diligently restore their original configuration before leaving on Saturday?
