@@ -6,7 +6,7 @@ Location Questionnaire
 * May we (and _can_ we -- sometimes there are reasons why it's logistically not possible) reconfigure spaces freely, for instance moving desks and tables, as long as we promise to diligently restore their original configuration before leaving on Saturday?
 * What is a suitable space, if any, to put children and a babysitter?
 
-## Security
+### Security
 * What arrangements need to be made regarding picking up/dropping off keys?
 * Does there need to be someone down at the door?
 * Will they require non-disclosure agreements?
