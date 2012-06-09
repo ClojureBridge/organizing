@@ -4,7 +4,7 @@ Location Questionnaire
 * Can the location be used for teacher training, as well as the Installfest/workshop?
 * Which rooms/spaces are available for workshop use?
 * May we (and _can_ we -- sometimes there are reasons which it's logistically not possible) reconfigure spaces freely, for instance moving desks and tables, as long as we promise to diligently restore their original configuration before leaving on Saturday?
-* What is a suitable space to put, if any, children and a babysitter?
+* What is a suitable space, if any, to put children and a babysitter?
 
 ## Security
 * What arrangements need to be made regarding picking up/dropping off keys?
