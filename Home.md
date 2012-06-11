@@ -3,3 +3,5 @@
 ### [[Feature Requests versus Pull Requests: a brief manifesto|Feature Requests v. Pull Requests]]
 
 ### [[People, Subcommittees, and GTD]]
+
+### [[Quotable Comments]]
