@@ -6,6 +6,8 @@ A step-by-step guide to organizing when you've got the SF Railsbridge community 
 Finding a space, sponsors, and a pro-diversity-in-coding ecosystem.
 ## [[Materials|Materials]]
 Templates and forms that will make your life easier.
+## [[Venue|Venue]]
+What makes a good venue for a workshop.
 ## [[The Three Main Roles|Three Main Roles]]
 Two organizers can usually cover the three roles, but one person cannot. The roles: communicator, stage director, and circus ringmistress.
 ## [[Opinions|Opinions]]
