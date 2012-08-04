@@ -34,7 +34,9 @@ https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdFJZTlFxSkZWS2ZRRmI4c3F
 David at Triptych has catered many RailsBridge workshops and is super easy to work with. He has a standard menu for us that is both in our budget and deliciously accommodates all the diets (vegetarian, vegans and gluten free). To order food from Triptych, give them a few weeks notice, and email david (at) triptychsf.com with something like this:
 
 > Hi David,
-> My name is [Sarah]. I'm organizing a RailsBridge Workshop. RailsBridge gave me your contact information and said Triptych had catered several workshops in the past. We're having a workshop on [Saturday, August 11], and we've scheduled lunch for [12:30]. It's set for the [IGN office] at [500 2nd Street]. We're expecting [100] people, but RailsBridge suggested that we should give a smaller head count of [75% of the expected headcount]. As usual, we need a menu that accommodates vegans, vegetarians and gluten-free diets. I'm ccing my co-organizer, [Samantha], and including both our phone numbers below for when you need us the morning of. Do you think that will work?
+>
+> My name is [Sarah]. I'm organizing a RailsBridge Workshop. RailsBridge gave me your contact information and said Triptych had catered several workshops in the past. We're having a workshop on [Saturday, August 11], and we've scheduled lunch for [12:30]. It's set for the [IGN office] at [500 2nd Street]. 
+> We're expecting [100] people, but RailsBridge suggested that we should give a smaller head count of [75% of the expected headcount]. As usual, we need a menu that accommodates vegans, vegetarians and gluten-free diets. I'm ccing my co-organizer, [Samantha], and including both our phone numbers below for when you need us the morning of. Do you think that will work?
 
 > Thanks,
 
