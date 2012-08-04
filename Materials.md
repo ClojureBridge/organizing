@@ -24,7 +24,7 @@ Since this one is anonymous, you can use the same survey and don't need to copy 
 ## Miscellania
 * [[Hosting venue questions]]
 * [[Class level grouping guide]]
-* [[Catering and after-party location suggestions]]
+* [[SF Catering and after party location suggestions]]
 * [[Sample Budget]]
 
 ### [[Back to Cookbook home|Cookbook]]
