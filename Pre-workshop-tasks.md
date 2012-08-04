@@ -31,9 +31,17 @@ https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdFJZTlFxSkZWS2ZRRmI4c3F
 
 ## Arrange catering
 
-### Don't forget about the [[sample budget]]. It's helpful
+David at Triptych has catered many RailsBridge workshops and is super easy to work with. He has a standard menu for us that is both in our budget and deliciously accommodates all the diets (vegetarian, vegans and gluten free). To order food from Triptych, give them a few weeks notice, and email david (at) triptychsf.com with something like this:
 
-As you are getting quotes for the catering, check out the [[sample budget|sample budget]]. Totals will vary depending on the number of folks there and where you're getting the food, but you shouldn't spend more than $1,500 total.
+Hi David,
+My name is [Sarah]. I'm organizing a RailsBridge Workshop. RailsBridge gave me your contact information and said Triptych had catered several workshops in the past. We're having a workshop on [Saturday, August 11], and we've scheduled lunch for [12:30]. It's set for the [IGN office] at [500 2nd Street]. We're expecting [100] people, but RailsBridge suggested that we should give a smaller head count of [75% of the expected headcount]. As usual, we need a menu that accommodates vegans, vegetarians and gluten-free diets. I'm ccing my co-organizer, [Samantha], and including both our phone numbers below for when you need us the morning of. Do you think that will work?
+
+Cheers!
+Sarah (and Mary)
+Sarah: 000.000.0000
+Mary: 000.000.0000
+
+You can also do it the hard way. :) In which case, as you are getting quotes for the catering, check out the [[sample budget|sample budget]]. Totals will vary depending on the number of folks there and where you're getting the food, but you shouldn't spend more than $1,500 for the whole workshop.
 
 ### Here are some [[SF Catering and after party location suggestions]]!
 
