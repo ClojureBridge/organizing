@@ -43,7 +43,7 @@ David at Triptych has catered many RailsBridge workshops and is super easy to wo
 
 > You
 
-You can also do it the hard way. :) In which case, as you are getting quotes for the catering, check out the [[sample budget|sample budget]]. Totals will vary depending on the number of folks there and where you're getting the food, but you shouldn't spend more than $1,500 for the whole workshop.
+You can also pick your own caterer, we have [[some suggestions|SF Catering and after party location suggestions]]! In which case, as you are getting quotes for the catering, check out the [[sample budget|sample budget]]. Totals will vary depending on the number of folks there and where you're getting the food, but you shouldn't spend more than $1,500 for the whole workshop.
 
 ### Here are some [[SF Catering and after party location suggestions]]!
 
