@@ -1,3 +1,9 @@
+## Miscellania
+* [[Hosting venue questions]]
+* [[Class level grouping guide]]
+* [[SF Catering and after party location suggestions]]
+* [[Sample Budget]]
+
 ## Materials on Github
 * [Quoteable comments for marketing](Quotable-Comments)
 * [Installfest](http://installfest.railsbridge.org/installfest/)
@@ -20,11 +26,5 @@ Since this one is anonymous, you can use the same survey and don't need to copy 
 * [[Announcement Templates]]
 * [[Letters to students]]
 * [[Letters to volunteers]]
-
-## Miscellania
-* [[Hosting venue questions]]
-* [[Class level grouping guide]]
-* [[SF Catering and after party location suggestions]]
-* [[Sample Budget]]
 
 ### [[Back to Cookbook home|Cookbook]]
