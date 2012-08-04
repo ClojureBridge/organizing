@@ -53,7 +53,7 @@ Give the Caterer estimated head count; usually 70% of that number of Yes RSVPs. 
 
 If the host company is not paying for it, ask for a quote to submit to Austin for approval. 
 
-> To Do: pizza & catering recommendation page
+### Here are some [[SF Catering and after party location suggestions]]!
 
 ## Make after-party reservations
 Provided you’ve found a sponsor whose donation has left a little extra after catering, it’s always great to thank volunteers for their time and help with a free drink after the event. This also gives the workshop goers a chance to socialize more and really build some networking connections that will help support them if they decide they now have the bug and want to actually delve into this awesome world of Ruby programming!
