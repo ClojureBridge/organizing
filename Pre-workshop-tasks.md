@@ -31,6 +31,8 @@ https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdFJZTlFxSkZWS2ZRRmI4c3F
 
 ## Arrange catering
 
+### Don't forget about the [[sample budget]]. It's helpful
+
 As you are getting quotes for the catering, check out the [[sample budget|sample budget]]. Totals will vary depending on the number of folks there and where you're getting the food, but you shouldn't spend more than $1,500 total.
 
 ### Here are some [[SF Catering and after party location suggestions]]!
