@@ -38,3 +38,8 @@
 * Gary, catering manager
 * California Street @ Davis
 * (415) 986-3634
+
+## After Party
+Questions for potential after party location:
+* Are you open between 4:30pm and 6:30pm on Saturdays?
+* Can you run an open tab for us?  Or honor drink tickets provided to our volunteers?
