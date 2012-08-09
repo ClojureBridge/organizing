@@ -261,7 +261,7 @@ One (or two) people should own the updates. If you have someone around who has c
 ### <a name="reimburse"/> Get reimbursed for expenses
 * Send Austin, RailsBridge treasurer, the info and scanned receipts.
 
-### <a name="writeup"/>Update this wiki with your brilliant discoveries
+### <a name="updatewiki"/>Update this wiki with your brilliant discoveries
 * Pretty please!
 
 ### [[Back to Cookbook Home|Cookbook]]
