@@ -1,6 +1,6 @@
 ### This is the overview. Click each step for more details.
 
-## When You Commit
+## When You Sign Up
 * [Join the organizer's listserve](#joinlistserve)
 * [Confirm dates & details with the hosting venue](#confirmvenue)
 * [Meet your workshop mentor, if first time organizing](#meetmentor)
@@ -8,7 +8,7 @@
 ## Six Weeks Before
 * [Post the event on Meetup.com](#meetup)
 
-## [[Two Weeks Before|Pre-Workshop Tasks]]
+## Two Weeks Before
 * [Survey the students and volunteers](#survey)
 * [Arrange catering](#catering)
 * [Make after-party reservations](#afterparty)
@@ -20,9 +20,9 @@
 * Update the pre- and post-workshop presentation slides
 * Figure out student class levels
 
-## [[Installfest Tasks|Installfest Tasks]]
-* Welcome desk with class level confirmation
+## Installfest Tasks
 * Setting up a good Installfest space
+* Welcome desk with class level confirmation
 * Dealing with inevitable issues
 * Identify Github point person for real-time updates
 
@@ -61,7 +61,7 @@ Contact Bosco & Caleb for organizer permission via [sfruby.info/suggestion](http
 
 Copy an old workshop, update the details with your own, and have someone else read through it before posting. Because most people forget to update at least one piece of information, to various levels of tragedy.
 
-## Survey the students and volunteers
+### <a name="survey"/>Survey the students and volunteers
 Meetup likes privacy. So you don't have access to folks' email addresses unless you explicitly ask for them during registration. You can, however, email all the participants of various RSVP statuses (yes & waitlist being the most important). We have a pre-workshop survey that you will send to participants that will help gauge who actually plans on coming and what class levels they will be in. 
 
 While there is a project currently underway for a site that allows organizers to easily send volunteers and attendees questionnaire forms, our current Google Doc templates can be found and used. In order to not expose your attendee's email address and infos to the entire Internet, **please copy the form (File -> Make a copy...).** Send your students a link to the form created by your copy, and share a link to your spreadsheet  with the workshop coordinators (the ones who set you up with the venue originally, probably Lillie or Rachel in SF) so they can add the info to a private cumulative spreadsheet. 
@@ -76,7 +76,7 @@ The same is all true for the volunteer survey:
 
 https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdFJZTlFxSkZWS2ZRRmI4c3FXVnJXMUE#gid=0
 
-## Arrange catering
+### <a name="catering"/>Arrange catering
 
 David at Triptych has catered many RailsBridge workshops and is super easy to work with. He has a standard menu for us that is both in our budget and deliciously accommodates all the diets (vegetarian, vegans and gluten free). To order food from Triptych, give them a few weeks notice, and email david (at) triptychsf.com with something like this:
 
@@ -87,7 +87,6 @@ David at Triptych has catered many RailsBridge workshops and is super easy to wo
 > We're expecting [100] people, but RailsBridge suggested that we should give a smaller head count of [75% of the expected headcount]. As usual, we need a menu that accommodates vegans, vegetarians and gluten-free diets. I'm ccing my co-organizer, [Samantha], and including both our phone numbers below for when you need us the morning of. Do you think that will work?
 
 > Thanks,
-
 > You
 
 You can also pick your own caterer, we have [[some suggestions|SF Catering and after party location suggestions]]! In which case, as you are getting quotes for the catering, check out the [[sample budget|sample budget]]. Totals will vary depending on the number of folks there and where you're getting the food, but you shouldn't spend more than $1,500 for the whole workshop.
@@ -114,10 +113,10 @@ Give the Caterer estimated head count; usually 70% of that number of Yes RSVPs. 
 
 If the host company is not paying for it, ask for a quote to submit to Austin for approval. 
 
-## Make after-party reservations
-Provided you’ve found a sponsor whose donation has left a little extra after catering, it’s always great to thank volunteers for their time and help with a free drink after the event. This also gives the workshop goers a chance to socialize more and really build some networking connections that will help support them if they decide they now have the bug and want to actually delve into this awesome world of Ruby programming!
+### <a name="afterparty"/>Make after-party reservations
+It’s always great to thank volunteers for their time and help with a free drink after the event. This also gives the workshop goers a chance to socialize more and really build some networking connections that will help support them if they decide they now have the bug and want to actually delve into this awesome world of Ruby programming!
 
-Find someplace close. The closer the after-party is to the workshop site, the more likely it is that people won’t get lost or distracted between leaving the workshop and arriving at the party. You need a place that has enough unoccupied space for the whole group to gather and mingle. A deserted bar is ideal, a casual restaurant is also good. Most workshops end at 4:30 or so on Saturdays, which tends to be a slow time for bars and restaurants, but it pays to check.
+Find someplace close. The closer the after-party is to the workshop site, the more likely it is that people won’t get lost or distracted between the working and the party. You need a place that has enough unoccupied space for the whole group to gather and mingle. A deserted bar is ideal, a casual restaurant is also good. Most workshops end at 4:30 or so on Saturdays, which tends to be a slow time for bars and restaurants, but it pays to check.
 
 Make arrangements with the host location ahead of time. If you can tell a place that you’re estimating X many people will be coming and that you for sure will buy Y many drinks (one for each of your volunteers), that’s often enough to encourage them to go out of their way to support what you’re doing. Some places will offer specials (free drinks, extra food) to entice large groups but even those that don’t should be informed before a horde of people descend on them.
 
