@@ -1,10 +1,10 @@
 This is the [Railsbridge](http://railsbridge.org) Github Wiki.
 * [[Cookbook Home|Cookbook]]
   * [[Minimum Viable Workshop|Minimum Viable Workshop]]
-  * [[The Three Main Roles|Three Main Roles]]
   * [[How to Organize in San Francisco|How to organize a Railsbridge workshop in SF]]
   * [[What to do if you're not in SF|How to organize outside of SF]] 
-  * [[Templates and Materials|Templates and Materials]]
+  * [[The Three Main Roles|Three Main Roles]]
   * [[Venue|Venue]]
+  * [[Templates and Materials|Templates and Materials]]
   * [[Class Level Grouping Guide|Class-level-grouping-guide]]
   * [[Opinions|Opinions]]
