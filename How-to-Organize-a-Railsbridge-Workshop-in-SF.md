@@ -44,7 +44,7 @@
 * [Update this wiki with your brilliant discoveries](#updatewiki)
 
 
-# How to Organize: The Details
+## When You Sign Up
 
 ### <a name="joinlistserve"/>Join the organizer's listserve
 If you haven't already, join: https://groups.google.com/forum/#!forum/railsbridge-workshops. You can email the list with questions, requests, panic, or jokes. We're all here to help. 
@@ -55,6 +55,8 @@ The Railsbridge meta-organizers have introduced you via email to the contact per
 ### <a name="meetmentor"/>Meet your mentor
 If this is your first time organizing, the meta-organizers will set you up with a mentor to answer questions as they arise. Say hello now, in person or in the ether!
 
+## Six Weeks Before
+
 ### <a name="meetup"/>Post the event on Meetup.com
 Contact Bosco & Caleb for organizer permission via [sfruby.info/suggestion](http://www.sfruby.info/suggestion/), so you can post to the [SF Ruby Meetup](http://sfruby.info). You will create:
 * A student event
@@ -62,6 +64,8 @@ Contact Bosco & Caleb for organizer permission via [sfruby.info/suggestion](http
 * A teacher training (can be scheduled closer to event)
 
 Copy an old workshop, update the details with your own, and have someone else read through it before posting. Because most people forget to update at least one piece of information, to various levels of tragedy.
+
+## Two Weeks Before
 
 ### <a name="survey"/>Survey the students and volunteers
 Meetup likes privacy. So you don't have access to folks' email addresses unless you explicitly ask for them during registration. You can, however, email all the participants of various RSVP statuses (yes & waitlist being the most important). We have a pre-workshop survey that you will send to participants that will help gauge who actually plans on coming and what class levels they will be in. 
