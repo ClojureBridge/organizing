@@ -1,4 +1,4 @@
-### This is the overview. Click each step for more details.
+Click each step for more details.
 
 ### When You Sign Up
 * [Join the organizer's listserve](#joinlistserve)
