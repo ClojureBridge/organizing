@@ -3,18 +3,17 @@
 ## When You Commit
 * [Join the organizer's listserve](#joinlistserve)
 * [Confirm dates & details with the hosting venue](#confirmvenue)
-* Meet your workshop mentor, if first time organizing
+* [Meet your workshop mentor, if first time organizing](#meetmentor)
 
 ## Six Weeks Before
-* Post the event on Meetup.com
-* Confirm dates & details with the hosting venue
+* [Post the event on Meetup.com](#meetup)
 
 ## [[Two Weeks Before|Pre-Workshop Tasks]]
-* Survey the students and volunteers 
-* Arrange catering
-* Make after-party reservations
-* Prep your teachers
-* Communicate with everyone
+* [Survey the students and volunteers](#survey)
+* [Arrange catering](#catering)
+* [Make after-party reservations](#afterparty)
+* [Prep your teachers](#prepteachers)
+* [Communicate with everyone](#communicate)
 
 ## One Week Before
 * Obtain necessary objects: power cords, flash drives, name tags, etc.
