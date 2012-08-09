@@ -38,8 +38,7 @@
 
 ### Aftermath
 * [Send follow-up encouragement to students, thank yous to teachers & host space](#followup)
-* [Email a writeup to the organizer's listserve](#writeup)
-* [Share the post-workshop survey results with the organizer's listserve](#surveyresults)
+* [Send a writeup and survey results to the organizer's listserve](#writeup)
 * [Get reimbursed](#reimburse)
 * [Update this wiki with your brilliant discoveries](#updatewiki)
 
