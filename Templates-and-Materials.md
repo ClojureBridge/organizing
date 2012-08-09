@@ -20,11 +20,11 @@ Since this one is anonymous, you can use the same survey and don't need to copy 
 * [[Sample Budget]]
 
 ## Materials on Github
-* [Quoteable comments for marketing](Quotable-Comments)
+* [Teacher training slides](http://curriculum.railsbridge.org/workshop/teacher_training)
 * [Installfest](http://installfest.railsbridge.org/installfest/)
 * [Curriculum](http://installfest.railsbridge.org/curriculum/)
-* [Teacher training slides](http://curriculum.railsbridge.org/workshop/teacher_training)
 * [Opening & closing presentation slides](http://installfest.heroku.com/workshop/
 ): usually workshop leaders will run these locally after adding sponsor logos and location-specific info  (see README at the root of this code repository for details)
+* [Quoteable comments for marketing](Quotable-Comments)
 
 ### [[Back to Cookbook home|Cookbook]]
