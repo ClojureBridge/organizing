@@ -1,6 +1,6 @@
 ## Communications
-* [[Announcement Templates]] (for Meetup.com, or the ilk)
-* [[Letters to students]] 
+* [[Announcement Templates]] For Meetup
+* [[Letters to students]] Seven emails from Take the Survey to Final Logistics
 * [[Letters to volunteers]]
 
 ## Surveys
