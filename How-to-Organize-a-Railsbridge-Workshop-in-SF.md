@@ -21,7 +21,7 @@
 * [Figure out student class levels](#levels)
 
 ## Installfest Tasks
-* [Setting up a good Installfest space](#installspace)
+* [Set up a good Installfest space](#installspace)
 * [Welcome desk with class level confirmation](#welcomedesk)
 * [Dealing with inevitable issues](#installfestissues)
 * [Identify Github point person for real-time updates](#updates)
