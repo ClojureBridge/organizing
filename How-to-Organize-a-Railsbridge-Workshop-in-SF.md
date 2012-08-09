@@ -16,17 +16,17 @@
 * [Communicate with everyone](#communicate)
 
 ## One Week Before
-* Obtain necessary objects: power cords, flash drives, name tags, etc.
-* Update the pre- and post-workshop presentation slides
-* Figure out student class levels
+* [Obtain necessary objects (power cords, flash drives, name tags, etc.)](#objects)
+* [Update the pre- and post-workshop presentation slides](#slides)
+* [Figure out student class levels](#levels)
 
 ## Installfest Tasks
-* Setting up a good Installfest space
-* Welcome desk with class level confirmation
-* Dealing with inevitable issues
-* Identify Github point person for real-time updates
+* [Setting up a good Installfest space](#installspace)
+* [Welcome desk with class level confirmation](#welcomedesk)
+* [Dealing with inevitable issues](#installfestissues)
+* [Identify Github point person for real-time updates](#updates)
 
-## [[Workshop Tasks|Workshop Tasks]]
+## Workshop Tasks
 * Set up: welcome desk, presentation space,  classrooms, & food
 * Greet, check in, and nametag students and volunteers
 * Give opening presentation
