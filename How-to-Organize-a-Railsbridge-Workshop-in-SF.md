@@ -1,14 +1,22 @@
 ### This is the overview. Click on each section header to get to details about each step. 
 
-## [[Pre-Workshop Tasks|Pre-Workshop Tasks]]
+## When You Commit
 * Join the organizer's listserve
 * Confirm dates & details with the hosting venue
+* Meet your workshop mentor, if first time organizing
+
+## Six Weeks Before
 * Post the event on Meetup.com
+* Confirm dates & details with the hosting venue
+
+## [[Two Weeks Before|Pre-Workshop Tasks]]
 * Survey the students and volunteers 
 * Arrange catering
 * Make after-party reservations
-* Train your teachers
+* Prep your teachers
 * Communicate with everyone
+
+## One Week Before
 * Obtain necessary objects: power cords, flash drives, name tags, etc.
 * Update the pre- and post-workshop presentation slides
 * Figure out student class levels
