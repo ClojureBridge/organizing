@@ -47,6 +47,9 @@
 ### <a name="joinlistserve"/>Join the organizer's listserve
 If you haven't already, join: https://groups.google.com/forum/#!forum/railsbridge-workshops. You can email the list with questions, requests, panic, or jokes. We're all here to help. 
 
+### <a name="confirmvenue"/>Confirm dates & details with the hosting venue
+The Railsbridge meta-organizers have introduced you via email to the contact person at the hosting venue. You'll want to confirm that the dates still work for them, how much room they have (which you will use to guide the RSVP cap on Meetup), and lots of other details. So many, in fact, that we have a whole separate page for what to talk about: [[hosting venue questions|hosting venue questions]].
+
 ### <a name="meetmentor"/>Meet your mentor
 If this is your first time organizing, the meta-organizers will set you up with a mentor to answer questions as they arise. Say hello now, in person or in the ether!
 
