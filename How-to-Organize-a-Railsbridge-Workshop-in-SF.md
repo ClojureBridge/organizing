@@ -160,6 +160,7 @@ You can find templates for emails in the [[materials section|materials]] under "
 ### <a name="levels"/>Figure out student class levels
 * Use the [[grouping guide|Class level grouping guide]] to interpret the results of the pre-workshop survey
 
+## Installfest Tasks
 ### <a name="installspace"/>Setting up a good Installfest space
 * Power outlets will guide how the Installfest space is set up, but Railsbridge's rolling chest of power cords should help with that quite a bit. The Installfest should be one big room with different tables, ideally marked with OSs so that folks with similar issues can help each other. (This usually means getting more granular than just Mac/Linux/PC and breaking out older Mac OSs into their own pods.)
 * Post the wireless SSID & password often and visibly. 
