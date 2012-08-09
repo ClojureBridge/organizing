@@ -1,4 +1,4 @@
-### This is the overview. Click on each section header to get to details about each step. 
+### This is the overview. Click each step for more details.
 
 ## When You Commit
 * [Join the organizer's listserve](#joinlistserve)
