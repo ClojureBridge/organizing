@@ -77,15 +77,11 @@ While there is a project currently underway for a site that allows organizers to
 
 Meetup likes privacy. So you don't have access to folks' email addresses. You can, however, email all the participants of various RSVP statuses (yes & waitlist being the most important).
 
-Here is the form to copy: 
-
-https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdElLRHVuWFpDdGxqb3BVajE5dUF2THc
+Here is the form to copy: https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdElLRHVuWFpDdGxqb3BVajE5dUF2THc
 
 ### It bears repeating: please COPY this form before sending it to your students, so their responses aren't available to anyone who clicks on the link directly preceding this sentence.
 
-The same is all true for the volunteer survey:
-
-https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdFJZTlFxSkZWS2ZRRmI4c3FXVnJXMUE#gid=0
+The same is all true for the volunteer survey: https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdFJZTlFxSkZWS2ZRRmI4c3FXVnJXMUE#gid=0
 
 ### <a name="catering"/>Arrange catering
 
