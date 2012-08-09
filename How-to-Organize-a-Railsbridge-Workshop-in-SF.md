@@ -151,20 +151,20 @@ When people join the SF Ruby meetup to attend a workshop, they don't always real
 You can find templates for emails in the [[materials section|materials]] under "Communication".
 
 ## One Week Before
-## <a name="objects"/>Obtain necessary objects: power cords, flash drives, name tags, etc.
+### <a name="objects"/>Obtain necessary objects: power cords, flash drives, name tags, etc.
 > To do: develop physical items plans (#1 plan: don't lose the stuff)
 
-## <a name="slides"/>Update the pre- and post-workshop presentation slides
+### <a name="slides"/>Update the pre- and post-workshop presentation slides
 > To do: links & instructions for updating slides
 
-## <a name="levels"/>Figure out student class levels
+### <a name="levels"/>Figure out student class levels
 * Use the [[grouping guide|Class level grouping guide]] to interpret the results of the pre-workshop survey
 
-## <a name="installspace"/>Setting up a good Installfest space
+### <a name="installspace"/>Setting up a good Installfest space
 * Power outlets will guide how the Installfest space is set up, but Railsbridge's rolling chest of power cords should help with that quite a bit. The Installfest should be one big room with different tables, ideally marked with OSs so that folks with similar issues can help each other. (This usually means getting more granular than just Mac/Linux/PC and breaking out older Mac OSs into their own pods.)
 * Post the wireless SSID & password often and visibly. 
 
-## <a name="welcomedesk" id="welcome_desk"></a> Welcome desk with class level confirmation
+### <a name="welcomedesk" id="welcome_desk"></a> Welcome desk with class level confirmation
 * Depending on the space you are in, it's easy to let people slip by without checking in. Don't let them! People will show up early. Sometimes 30 minutes early. Be ready. It helps to have signage stating that everyone, including volunteers, needs to check in and make a name tag. 
 * _Tip: set up the welcome desk (with clear signage) before setting up the rest of the Installfest. People will make themselves at home, so if you need to bail on that setup to check people in, do it!_
 * Use the pre-workshop survey results spreadsheet to check people in. If someone didn't take it, ask them to get out their laptop and take the damn thing right there.
