@@ -1,6 +1,6 @@
 ## Communications
 * [[Announcement Templates]] (for Meetup.com, or the ilk)
-* [[Letters to students]]
+* [[Letters to students]] 
 * [[Letters to volunteers]]
 
 ## Surveys
