@@ -1,15 +1,5 @@
-## [[Minimum Viable Workshop|Minimum Viable Workshop]]
-The bare-bones necessities, most important bits, and what makes a workshop a Railsbridge workshop.
-## [[How to Organize in San Francisco|How to organize a Railsbridge workshop in SF]]
-A step-by-step guide to organizing when you've got the SF Railsbridge community at your back.
-## [[What to do if you're not in SF|How to organize outside of SF]] 
-Finding a space, sponsors, and a pro-diversity-in-coding ecosystem.
-## [[Materials|Materials]]
-Templates and forms that will make your life easier.
-## [[Venue|Venue]]
-What makes a good venue for a workshop.
-## [[The Three Main Roles|Three Main Roles]]
-Two organizers can usually cover the three roles, but one person cannot. The roles: communicator, stage director, and circus ringmistress.
-## [[Opinions|Opinions]]
-Things we think make organizing easier and make for better workshops. 
+If you're reading this Cookbook, you may be _thinking about_ organizing, or you may be diving into organizing for the first time. Welcome!
+
+Find a quiet hour to read through the entire Cookbook. There is gold (or avocado, or wild blackberries, to extend the metaphor) here to help make your first time as sane and fun as possible.
+
 ### [[Go Home|Home]]
