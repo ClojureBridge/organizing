@@ -4,7 +4,7 @@ This is the [Railsbridge](http://railsbridge.org) Github Wiki.
   * [[The Three Main Roles|Three Main Roles]]
   * [[How to Organize in San Francisco|How to organize a Railsbridge workshop in SF]]
   * [[What to do if you're not in SF|How to organize outside of SF]] 
-  * [[Materials|Materials]]
+  * [[Templates and Materials|Templates and Materials]]
   * [[Venue|Venue]]
   * [[Class Level Grouping Guide|Class-level-grouping-guide]]
   * [[Opinions|Opinions]]
