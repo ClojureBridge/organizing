@@ -28,19 +28,21 @@
 * Set up: welcome desk, presentation space,  classrooms, & food(#setup)
 * Greet, check in, and nametag students and volunteers(#greet)
 * Give opening presentation(#updates)
-* Figure out who really showed up; match students & teachers accordingly
-* Keep time: remind/make all groups take breaks
-* Feed people lunch, make them go back to class
-* Email post-workshop survey link
-* Closing presentation
-* Teacher retro
-* Party party party!
+* Figure out who really showed up; match students & teachers accordingly(#remixlevels)
+* Keep time: remind/make all groups take breaks(#timekeeper)
+* Feed people lunch, make them go back to class(#lunch)
+* Email post-workshop survey link(#postsurvey)
+* Closing presentation(#closing)
+* Teacher retro(#teacherretro)
+* Party party party!(#afterparty)
 
 ### Aftermath
-* Send follow-up encouragement to students, thank yous to teachers & host space
-* Email a writeup to the organizer's listserve
-* Share the post-workshop survey results with the organizer's listserve
-* Update this wiki with your brilliant discoveries
+* Send follow-up encouragement to students, thank yous to teachers & host space(#followup)
+* Email a writeup to the organizer's listserve(#writeup)
+* Share the post-workshop survey results with the organizer's listserve(#surveyresults)
+* Get reimbursed for expenses(#reimburse)
+* Update this wiki with your brilliant discoveries(#updatewiki)
+
 
 # How to Organize: The Details
 
