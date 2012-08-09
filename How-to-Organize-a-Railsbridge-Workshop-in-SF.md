@@ -157,7 +157,7 @@ You can find templates for emails in the [[materials section|materials]] under "
 > To do: develop physical items plans (#1 plan: don't lose the stuff)
 
 ### <a name="slides"/>Update the pre- and post-workshop presentation slides
-> To do: links & instructions for updating slides
+* Templates and instructions live in [[Templates and Materials|Templates and Materials]]
 
 ### <a name="levels"/>Figure out student class levels
 * Use the [[grouping guide|Class level grouping guide]] to interpret the results of the pre-workshop survey
