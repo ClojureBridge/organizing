@@ -13,21 +13,21 @@
 * [Train the teachers](#trainteachers)
 * [Communicate with everyone](#communicate)
 
-## One Week Before
+### One Week Before
 * [Obtain necessary objects (power cords, flash drives, name tags, etc.)](#objects)
 * [Update the pre- and post-workshop presentation slides](#slides)
 * [Figure out student class levels](#levels)
 
-## Installfest Tasks
-* [Set up a good Installfest space][Installfest-tasks#installspace]
+### Installfest Tasks
+* [Set up a good Installfest space](#installspace)
 * [Welcome desk with class level confirmation](#welcomedesk)
-* [Dealing with inevitable issues](#installfestissues)
 * [Identify Github point person for real-time updates](#updates)
+* [Dealing with inevitable issues](#installfestissues)
 
-## Workshop Tasks
-* Set up: welcome desk, presentation space,  classrooms, & food
-* Greet, check in, and nametag students and volunteers
-* Give opening presentation
+### Workshop Tasks
+* Set up: welcome desk, presentation space,  classrooms, & food(#setup)
+* Greet, check in, and nametag students and volunteers(#greet)
+* Give opening presentation(#updates)
 * Figure out who really showed up; match students & teachers accordingly
 * Keep time: remind/make all groups take breaks
 * Feed people lunch, make them go back to class
@@ -36,9 +36,9 @@
 * Teacher retro
 * Party party party!
 
-## [[Aftermath|Aftermath]]
+### Aftermath
 * Send follow-up encouragement to students, thank yous to teachers & host space
-* Email an account of the weekend to the organizer's listserve
+* Email a writeup to the organizer's listserve
 * Share the post-workshop survey results with the organizer's listserve
 * Update this wiki with your brilliant discoveries
 
@@ -142,17 +142,21 @@ When people join the SF Ruby meetup to attend a workshop, they don't always real
 
 You can find templates for emails in the [[materials section|materials]] under "Communication".
 
-## Obtain necessary objects: power cords, flash drives, name tags, etc.
+## One Week Before
+## <a name="objects"/>Obtain necessary objects: power cords, flash drives, name tags, etc.
 > To do: develop physical items plans (#1 plan: don't lose the stuff)
 
-## Update the pre- and post-workshop presentation slides
+## <a name="slides"/>Update the pre- and post-workshop presentation slides
 > To do: links & instructions for updating slides
 
-## Figure out student class levels
+## <a name="levels"/>Figure out student class levels
 * Use the [[grouping guide|Class level grouping guide]] to interpret the results of the pre-workshop survey
 
+## <a name="installspace"/>Setting up a good Installfest space
+* Power outlets will guide how the Installfest space is set up, but Railsbridge's rolling chest of power cords should help with that quite a bit. The Installfest should be one big room with different tables, ideally marked with OSs so that folks with similar issues can help each other. (This usually means getting more granular than just Mac/Linux/PC and breaking out older Mac OSs into their own pods.)
+* Post the wireless SSID & password often and visibly. 
 
-## <a id="welcome_desk"></a> Welcome desk with class level confirmation
+## <a name="welcomedesk" id="welcome_desk"></a> Welcome desk with class level confirmation
 * Depending on the space you are in, it's easy to let people slip by without checking in. Don't let them! People will show up early. Sometimes 30 minutes early. Be ready. It helps to have signage stating that everyone, including volunteers, needs to check in and make a name tag. 
 * _Tip: set up the welcome desk (with clear signage) before setting up the rest of the Installfest. People will make themselves at home, so if you need to bail on that setup to check people in, do it!_
 * Use the pre-workshop survey results spreadsheet to check people in. If someone didn't take it, ask them to get out their laptop and take the damn thing right there.
@@ -162,11 +166,7 @@ You can find templates for emails in the [[materials section|materials]] under "
 
 > To Do: further questions to get people to admit their actual skill level
 
-## Setting up a good Installfest space
-* Power outlets will guide how the Installfest space is set up, but Railsbridge's rolling chest of power cords should help with that quite a bit. The Installfest should be one big room with different tables, ideally marked with OSs so that folks with similar issues can help each other. (This usually means getting more granular than just Mac/Linux/PC and breaking out older Mac OSs into their own pods.)
-* Post the wireless SSID & password often and visibly. 
-
-## Identify Github point person for real-time updates
+### <a name="updates"/> Identify Github point person for real-time updates
 One (or two) people should own the updates. If you have someone around who has commit rights, they can merge your pull requests live. If not, fork the Installfest and use your own app like so:
 * Fork the installfest app somewhere in here: https://github.com/railsbridge/installfest
 * Create a heroku app named like: http://installfest-railsbridge46.heroku.com, push to that app
@@ -176,9 +176,81 @@ One (or two) people should own the updates. If you have someone around who has c
 
 > To Do: More detailed instructions on doing this, for people new to Github.
 
-## <a id="issues"></a> Dealing with inevitable issues
+## <a name="issues" id="issues"></a> Dealing with inevitable issues
 * Wireless bandwidth is always difficult at workshops. Preparing for this and communicating it repeatedly to your students is the best bet, but people will still show up at the Installfest not having downloaded gargantuan necessary files. Having said files on flash drives will help dramatically, so make sure to have those. And don't lose them! 
 * As an organizer, people will expect you to solve their problems. Help them if you can, but if someone asks you about something outside of your expertise, delegate swiftly and without guilt. If it's 7pm and it looks like it's going to be 6 hours for a student to download a necessary file, this probably isn't the weekend that the workshop will work for them. Since we do this regularly, telling people that they can't do the workshop this time isn't the worst thing in the world. It sucks, but it's better than having someone sitting in the workshop on Saturday unable to do anything or derailing their section because of their incomplete install.
 
+## Set up: welcome desk, presentation space, classrooms, & food
+* Figure out where you're going to send people who show up without an Installfest Success Sticker so that a volunteer can check their install.
+* Make sure you know how to turn on the projector for the opening presentation
+* Double check that the classrooms/conference rooms have the necessary projectors or monitors & corresponding cords
+* Helpful signs
+  * Directions to the bathrooms
+  * Classrooms marked by class level
+  * Giant "check in here" sign for welcome desk
+  * "Don't get comfy" signage where the opening presentation will be. (Or just tell them when they check in that they don't need their laptops until they break into smaller groups.)
+* Put the food out in some kind of attractive manner. 
+* Whoever is giving the opening presentation (or any announcements): if there is no microphone, practice projecting.
+
+## Greet, check in, and nametag students and volunteers
+* Pretty much the same drill as check in for the Installfest: confirm class level again (ask them to remember or write it down), name tags, and if someone doesn't have the Installfest Success Sticker, send them to some area where their install can get checked. If they don't have a working machine by the time the opening presentation starts, send them home. 
+* Teachers & volunteers should again be clearly marked on their name tags
+
+## Give opening presentation
+* This is where you tell the students a little bit about yourself, what brought you here, and go through those introductory slides that you updated. This may also be where the sponsor and/or the venue stand up and talk about who they are and what they’re up to. It’s also a good time to show a timeline for the day and mention that there will be a wrap-up session before everyone heads out the door. This beginning session sets the tone for the workshop and is intended to get people excited about what they’re going to learn today.
+* If the hosting venue or sponsor is giving a pitch or demo, confirm the time limit before hand and hold them to it.
+
+> To Do: More presentation tips? 
+
+## Figure out who really showed up; match students & teachers accordingly
+* One good workflow is to meet with the teachers elsewhere in the space while the opening presentation is happening. You can confirm who is TAing and who is teaching, and any class level preferences. If you haven't already assigned classrooms, this is a good time to send the teacher/TA teams out to claim spaces. 
+* There are a lot of different ways to get students into their small groups. Two strategies are outlined in great detail in the [[class level grouping guide|Class level grouping guide]].
+
+## Keep time: remind/make all groups take breaks, eat lunch
+* Depending on how late you started, you may or may not need to enforce a morning break. Generally people are very focused, and you have to remind them to get some fresh air. (The conference rooms of most offices tend to get pretty stuffy with that much learning.) 
+* A non-lunch afternoon break is *essential*.
+* Nominate the loudest organizer or volunteer to do the post-break "go back to your classes" yell.  
+* If there's a class in the Installfest/presentation space, and that space is where the food is going to be, have them get their food first, so their class isn't interrupted by hordes of hungry coders. 
+
+## Feed people lunch, make them go back to class
+* Deal with lunch when it arrives. Announce proper recycling/composting/landfilling procedures.
+* Get your yeller to send 'em back to class.
+
+## Email post-workshop survey link
+* Sometime after the last break, email the attendees a link to the post-workshop feedback survey.
+
+## Closing presentation
+* Ask people for some things they learned, and get them excited about what they’ve learned and who they’ve gotten to know as a network of support to keep them involved. Encourage them to come back again, either as an attendee or volunteer. 
+ * Make sure you've trained your teachers & TAs to encourage students to come back in each of their classes. If they had a great participant who would be able to volunteers next time in any capacity, have them ask that person to put their name on a “volunteer next time” list.
+ * At the end of the presentation, put up a map of how to walk to the after party and a bit.ly link to feedback survey. Tell everyone to take the survey during the teacher retro and you'll all travel to the place of parties together.
+
+## Teacher retro
+* Draw a happy face, a neutral face, a sad face. Ask people to give you feedback for each of them, along with ideas and questions.
+* Keep the discussion focused on what happened at that workshop. Kill tangents that go too far off-topic or need to have their own meeting devoted to them. 
+* Get feedback on curriculum and organization. 
+* Try not to lead the group down interesting tangents yourself. 
+* Keep it under 20 minutes. 
+* Take a picture of the whiteboard at the end and include those in your post-workshop write up. 
+* Pass out drink tickets!
+
+## Party party party!
+* Go to the party.
+* Celebrate!
+* If you made pretty drink tickets, see if you can get them back from the bar for reuse. 
+
+## Send follow-ups/thank yous to students, teachers, & host space
+* Within 72 hours, email students with:
+ * Links to resources to continue learning
+ * Post-workshop survey link, again
+ * Encouragement to come back and volunteer
+* Email your teachers & host space thanking them
+
+## Email an account of the weekend to the organizer's listserve
+* You're surely already on it, but again: https://groups.google.com/forum/#!forum/railsbridge-workshops
+* What went wrong and right?
+* Link to the the post-workshop survey results
+
+## Update this wiki with your brilliant discoveries
+* Pretty please!
 
 ### [[Back to Cookbook Home|Cookbook]]
