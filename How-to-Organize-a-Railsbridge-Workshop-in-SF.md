@@ -165,7 +165,7 @@ You can find templates for emails in the [[materials section|materials]] under "
 ### <a name="childcare"/>Arrange childcare
 * Anecdotally, few people take you up on childcare; more people tend to use nursing/pumping space, actually.
 * It's worth checking with the people who said they needed childcare to make sure they still really do.
-* Rave reviews x 2 workshops: Samantha Feller, ambrosiasamantha at yahoo.com.
+* Babysitter with rave reviews from 2 workshops: Samantha Feller, ambrosiasamantha at yahoo.com.
 
 ## Installfest Tasks
 ### <a name="installspace"/>Setting up a good Installfest space
