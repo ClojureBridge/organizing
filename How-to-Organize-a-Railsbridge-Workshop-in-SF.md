@@ -260,8 +260,6 @@ One (or two) people should own the updates. If you have someone around who has c
 * What went wrong and right?
 * Link to the the post-workshop survey results
 
-### <a name="surveyresults"/> Share the post-workshop survey results with the organizer's listserve
-
 ### <a name="reimburse"/> Get reimbursed for expenses
 * Send Austin, RailsBridge treasurer, the info and scanned receipts.
 
