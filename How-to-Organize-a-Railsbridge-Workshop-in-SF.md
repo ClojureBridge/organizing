@@ -42,6 +42,8 @@
 * Share the post-workshop survey results with the organizer's listserve
 * Update this wiki with your brilliant discoveries
 
+# How to Organize: The Details
+
 ### <a name="joinlistserve"/>Join the organizer's listserve
 If you haven't already, join: https://groups.google.com/forum/#!forum/railsbridge-workshops. You can email the list with questions, requests, panic, or jokes. We're all here to help. 
 
