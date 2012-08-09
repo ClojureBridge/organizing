@@ -255,7 +255,7 @@ One (or two) people should own the updates. If you have someone around who has c
  * Encouragement to come back and volunteer
 * Email your teachers & host space thanking them
 
-### <a name="writeup"/> Email a writeup of the weekend to the organizer's listserve
+### <a name="writeup"/> Send a writeup of the weekend to the organizer's listserve
 * You're surely already on it, but again: https://groups.google.com/forum/#!forum/railsbridge-workshops
 * What went wrong and right?
 * Link to the the post-workshop survey results
