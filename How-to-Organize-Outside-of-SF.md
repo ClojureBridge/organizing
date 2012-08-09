@@ -7,6 +7,7 @@ Not much you can do without a space, and the space you find will determine how m
 * Local companies that use Rails – this is a great recruiting opportunity for them
 * Community colleges
 * Community centers
+* Coworking spaces
 * Advocacy organizations that work with your target group (Workshop for Latinos? See if there’s an immigration advocacy group that would host you. For women? Maybe there’s a women’s business group.)
 
 What you’re looking for is a place with classroom seating for 50-80, fast and reliable Internet connectivity, plenty of power sources and, ideally, break-out rooms or separate spaces that can be used when the group breaks out into classes.
