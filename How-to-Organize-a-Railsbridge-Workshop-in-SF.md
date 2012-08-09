@@ -49,7 +49,7 @@
 If you haven't already, join: https://groups.google.com/forum/#!forum/railsbridge-workshops. You can email the list with questions, requests, panic, or jokes. We're all here to help. 
 
 ### <a name="confirmvenue"/>Confirm dates & details with the hosting venue
-The Railsbridge meta-organizers have introduced you via email to the contact person at the hosting venue. You'll want to confirm that the dates still work for them, how much room they have (which you will use to guide the RSVP cap on Meetup), and lots of other details. So many, in fact, that we have a whole separate page for what to talk about: [[hosting venue questions|hosting venue questions]].
+The Railsbridge meta-organizers have introduced you via email to the contact person at the venue. You'll want to confirm that the dates still work for them, how much room they have (which you will use to guide the RSVP cap on Meetup), and lots of other details. So many, in fact, that we have a whole separate page: [[hosting venue questions|hosting venue questions]].
 
 ### <a name="meetmentor"/>Meet your mentor
 If this is your first time organizing, the meta-organizers will set you up with a mentor to answer questions as they arise. Say hello now, in person or in the ether!
@@ -64,12 +64,18 @@ Contact Bosco & Caleb for organizer permission via [sfruby.info/suggestion](http
 
 Copy an old workshop, update the details with your own, and have someone else read through it before posting. Because most people forget to update at least one piece of information, to various levels of tragedy.
 
+> Todo: Post Meetup event templates
+
 ## Two Weeks Before
 
 ### <a name="survey"/>Survey the students and volunteers
-Meetup likes privacy. So you don't have access to folks' email addresses unless you explicitly ask for them during registration. You can, however, email all the participants of various RSVP statuses (yes & waitlist being the most important). We have a pre-workshop survey that you will send to participants that will help gauge who actually plans on coming and what class levels they will be in. 
+The pre-workshop survey helps gauge who actually plans on coming and what class levels they will be in. 
+
+> Todo: Post a survey email template
 
 While there is a project currently underway for a site that allows organizers to easily send volunteers and attendees questionnaire forms, our current Google Doc templates can be found and used. In order to not expose your attendee's email address and infos to the entire Internet, **please copy the form (File -> Make a copy...).** Send your students a link to the form created by your copy, and share a link to your spreadsheet  with the workshop coordinators (the ones who set you up with the venue originally, probably Lillie or Rachel in SF) so they can add the info to a private cumulative spreadsheet. 
+
+Meetup likes privacy. So you don't have access to folks' email addresses. You can, however, email all the participants of various RSVP statuses (yes & waitlist being the most important).
 
 Here is the form to copy: 
 
