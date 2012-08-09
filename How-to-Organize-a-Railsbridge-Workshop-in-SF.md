@@ -12,7 +12,7 @@
 * [Survey the students and volunteers](#survey)
 * [Arrange catering](#catering)
 * [Make after-party reservations](#afterparty)
-* [Prep your teachers](#prepteachers)
+* [Train the teachers](#trainteachers)
 * [Communicate with everyone](#communicate)
 
 ## One Week Before
@@ -124,12 +124,12 @@ Mention the after-party early and often. Some students will fail to read the ins
 
 If a potential host demands a minimum bar tab or rental fee, go elsewhere! Plenty of places don’t, but some places are in the business of hosting parties. This tends to run $1000 and up, which is too expensive unless you have an after-party sponsor.
 
-### Train the teachers
+###  <a name="trainteachers"/>Train the teachers
 Set up a teacher training. This often happens during the week of the workshop. If you can't get a separate evening, you can do it during the Installfest, but try to get extra volunteers if you do that. Don't want to leave the student high and dry while teachers discuss best practices. 
 
 Take a look at the teacher training slides, which live at [http://curriculum.railsbridge.org/workshop/teacher_training](http://curriculum.railsbridge.org/workshop/teacher_training). Edit them as appropriate here: [https://github.com/railsbridge/workshop/blob/master/teachers/teacher_training.md](https://github.com/railsbridge/workshop/blob/master/teachers/teacher_training.md). 
 
-### <a name="communicate"/> Communicate with everyone
+### <a name="communicate"/>Communicate with everyone
 A few of the things you'll do:
 * Post/announce the workshop to the RubySF Meetup mailing list
 * Email the pre-workshop survey to the attendees, optionally including a deadline to respond
