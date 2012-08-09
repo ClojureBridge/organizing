@@ -13,18 +13,19 @@ Since this one is anonymous, you can use the same survey and don't need to copy 
 
 * [Post-workshop feedback survey](https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdDhDZC04Nmx6UnlGZmd5OUlGYmh0ZkE#gid=0)
 
-## Miscellania
-* [[Hosting venue questions]]
-* [[Class level grouping guide]]
-* [[SF Catering and after party location suggestions]]
-* [[Sample Budget]]
-
-## Materials on Github
+## Teaching Materials on Github
 * [Teacher training slides](http://curriculum.railsbridge.org/workshop/teacher_training)
 * [Installfest](http://installfest.railsbridge.org/installfest/)
 * [Curriculum](http://installfest.railsbridge.org/curriculum/)
 * [Opening & closing presentation slides](http://installfest.heroku.com/workshop/
 ): usually workshop leaders will run these locally after adding sponsor logos and location-specific info  (see README at the root of this code repository for details)
 * [Quoteable comments for marketing](Quotable-Comments)
+
+
+## Miscellania
+* [[Hosting venue questions]]
+* [[Class level grouping guide]]
+* [[SF Catering and after party location suggestions]]
+* [[Sample Budget]]
 
 ### [[Back to Cookbook home|Cookbook]]
