@@ -1,5 +1,3 @@
-Click each step for more details.
-
 ### When You Sign Up
 * [Join the organizer's listserve](#joinlistserve)
 * [Confirm dates & details with the hosting venue](#confirmvenue)
