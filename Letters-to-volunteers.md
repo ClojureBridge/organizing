@@ -2,7 +2,7 @@
 
 ### Pre-workshop survey to volunteers about what they want to do
 
-> Subject: March Railsbridge volunteer survey - for real.
+> Subject: March Railsbridge volunteer survey
 >
 > Volunteers! You are the best. No, really.
 > 
