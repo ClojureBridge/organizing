@@ -1,7 +1,7 @@
 ### This is the overview. Click each step for more details.
 
 ## When You Commit
-* [Join the organizer's listserve](#joinlistserve)]
+* [Join the organizer's listserve](#joinlistserve)
 * [Confirm dates & details with the hosting venue](#confirmvenue)
 * [Meet your workshop mentor, if first time organizing](#meetmentor)
 
