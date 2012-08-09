@@ -46,7 +46,7 @@
 * Update this wiki with your brilliant discoveries
 
 # Before the Workshop
-## <a name="joinlistserve"/>Join the organizer's listserve
+### <a name="joinlistserve"/>Join the organizer's listserve
 If you haven't already, join: https://groups.google.com/forum/#!forum/railsbridge-workshops. You can email the list with questions, requests, panic, or jokes. We're all here to help. 
 
 ## Confirm dates & details with the hosting venue
