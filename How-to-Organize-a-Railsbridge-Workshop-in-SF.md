@@ -17,6 +17,7 @@
 * [Obtain necessary objects (power cords, flash drives, name tags, etc.)](#objects)
 * [Update the pre- and post-workshop presentation slides](#slides)
 * [Figure out student class levels](#levels)
+* [Arrange childcare](#childcare)
 
 ### Installfest Tasks
 * [Set up a good Installfest space](#installspace)
@@ -160,6 +161,11 @@ You can find templates for emails in the [[materials section|materials]] under "
 
 ### <a name="levels"/>Figure out student class levels
 * Use the [[grouping guide|Class level grouping guide]] to interpret the results of the pre-workshop survey
+
+### <a name="childcare"/>Arrange childcare
+* Anecdotally, few people take you up on childcare; more people tend to use nursing/pumping space, actually.
+* It's worth checking with the people who said they needed childcare to make sure they still really do.
+* Rave reviews x 2 workshops: Samantha Feller, ambrosiasamantha at yahoo.com.
 
 ## Installfest Tasks
 ### <a name="installspace"/>Setting up a good Installfest space
