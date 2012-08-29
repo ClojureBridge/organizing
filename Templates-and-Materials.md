@@ -19,6 +19,7 @@ Since this one is anonymous, you can use the same survey and don't need to copy 
 * [Curriculum](http://installfest.railsbridge.org/curriculum/)
 * [Opening & closing presentation slides](http://installfest.heroku.com/workshop/
 ): usually workshop leaders will run these locally after adding sponsor logos and location-specific info  (see README at the root of this code repository for details)
+* [Wrap-up flyer](http://dl.dropbox.com/u/55826860/RailsBridge/more-resources-flyer.pdf) modeled after Lillie's hand-drawn one
 * [Quoteable comments for marketing](Quotable-Comments)
 
 
