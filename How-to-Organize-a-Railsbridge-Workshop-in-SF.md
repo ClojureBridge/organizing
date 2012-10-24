@@ -113,7 +113,7 @@ Workshop breakfast is usually coffee & bagels. Arrange to have everything delive
 Noah’s Bagels has a great catering delivery service on bagels. Order enough bagels to cover about 70% of attendees/volunteers with ‘Yes’ RSVP.  If you order hot sandwiches, let them know when you order to cut in halves and wrapped individually.  They're happy to oblige & it makes setup that much faster for you.
  
 Search around the workshop’s location to find a coffee shop which will deliver it to you, if possible.  Not everyone will drink, but make sure to have plenty as many will refill their cups throughout the day. Remember to request extra cups & cream.
-* Coffee Bean has a reasonable one which includes sugar, milk, disposable cups etc. A Cambro (5 gallons) is usually MORE than enough for 70 people as not everyone will drink coffee. 
+(Coffee Bean has a reasonable one which includes sugar, milk, disposable cups etc. A Cambro (5 gallons) is usually MORE than enough for 70 people as not everyone will drink coffee.)
 
 ### Lunch
 
