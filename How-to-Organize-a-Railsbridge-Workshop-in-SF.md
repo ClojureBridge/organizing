@@ -63,6 +63,8 @@ Contact Bosco & Caleb for organizer permission via [sfruby.info/suggestion](http
 * A volunteer event
 * A teacher training (can be scheduled closer to event)
 
+_Continue to send pings to your attendees through Meetup about Downloading & Installing XCODE so everyone's ready for Installfest._
+
 Copy an old workshop, update the details with your own, and have someone else read through it before posting. Because most people forget to update at least one piece of information, to various levels of tragedy.
 
 > Todo: Post Meetup event templates
@@ -122,6 +124,8 @@ Give the Caterer estimated head count; usually 70% of that number of Yes RSVPs. 
 
 If the host company is not paying for it, ask for a quote to submit to Austin for approval. 
 
+If lunch will be delivered, please make sure they come at least 30 minutes beforehand so you & your team have time to set up.  When setting up, try to make sure the food is accessible by many at the same time (perhaps various stations?) as lunch time goes by so fast.
+
 
 ### <a name="afterparty"/>Make after-party reservations
 It’s always great to thank volunteers for their time and help with a free drink after the event. This also gives the workshop goers a chance to socialize more and really build some networking connections that will help support them if they decide they now have the bug and want to actually delve into this awesome world of Ruby programming!
@@ -170,6 +174,7 @@ You can find templates for emails in the [[materials section|materials]] under "
 * We have a list of contact info for sitters; email the workshop mailing list (which you should already be subscribed to!) at https://groups.google.com/forum/?fromgroups#!forum/railsbridge-workshops for access.
 
 ## Installfest Tasks
+_Remember that you have tons of volunteers eager to help, Allow them to by Assigning them tasks._
 ### <a name="installspace"/>Setting up a good Installfest space
 * Post the wireless SSID & password often and visibly. 
 * Power outlets will guide how the space is set up, but RailsBridge's rolling chest of power cords should help with. The Installfest should be one big room with different tables, ideally marked with OSs so that folks with similar issues can help each other. (This usually means getting more granular than just Mac/Linux/PC and breaking out older Mac OSs into their own pods.)
@@ -198,7 +203,14 @@ One (or two) people should own the updates. If you have someone around who has c
 * Wireless bandwidth is always difficult at workshops. Preparing for this and communicating it repeatedly to your students is the best bet, but people will still show up at the Installfest not having downloaded gargantuan necessary files. Having said files on flash drives will help dramatically, so make sure to have those. And don't lose them! 
 * As an organizer, people will expect you to solve their problems. Help them if you can, but if someone asks you about something outside of your expertise, delegate swiftly and without guilt. If it's 7pm and it looks like it's going to be 6 hours for a student to download a necessary file, this probably isn't the weekend that the workshop will work for them. Since we do this regularly, telling people that they can't do the workshop this time isn't the worst thing in the world. It sucks, but it's better than having someone sitting in the workshop on Saturday unable to do anything or derailing their section because of their incomplete install.
 
+### Organizers - Take This Time To Get Your Ducks In Order
+Carve out some time to review your Schedule for Saturday:
+* Count your Logistical volunteers so you know who you can count on.  Cross reference the Workshop task list and to sort out the tasks that can easily be taken care of (door greeting, Signage (WIFI & hashtag, Class Room Levels), time keeper, etc.)
+* Know (or sort-of know) who is working the Registration desk, (if they're not there,at best send them a quick email) let them know how much you appreciate them for taking on a very important position & that you'll see them bright and early on Saturday.
+* Teacher Training Night is a good time to do this also
+
 ## Workshop Tasks
+_These bulletpoints make great checklists.  If you need to refer to them day-of, copy, organize them to your liking, and print out a copy for your back pocket._
 ### <a name="setup"/> Set up: welcome desk, presentation space, classrooms, & food
 * Figure out where you're going to send people who show up without an Installfest Success Sticker so that a volunteer can check their install.
 * Make sure you know how to turn on the projector for the opening presentation
@@ -217,6 +229,7 @@ One (or two) people should own the updates. If you have someone around who has c
 ### <a name="opening"/> Give opening presentation
 * This is where you tell the students a little bit about yourself, what brought you here, and go through those introductory slides that you updated. It’s also a good time to show a timeline for the day and mention that there will be a wrap-up session before everyone heads out the door. This beginning session sets the tone for the workshop and is intended to get people excited about what they’re going to learn today.
 * If the hosting venue or sponsor is giving a pitch or demo, confirm the time limit before hand and hold them to it.
+* It's also a great time to announce proper recycling/composting/landfilling procedures, where the water fountain is, and where the bathrooms are.
 
 > To Do: More presentation tips? 
 
