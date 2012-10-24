@@ -13,6 +13,9 @@
 * 100 Bush St. Suite 102
 * (415) 433-9682
 
+When ordering hot breakfast sandwiches, note to cut in half and wrap individually.
+Request Extra cups & cream for coffee.
+
 ## Lunch Catering
 ### [Whole Foods SOMA](http://wholefoodsmarket.com/stores/soma/catering/)
 * 399 4th St (between Clara St & Harrison St) 
