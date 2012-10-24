@@ -110,9 +110,10 @@ Amounts: 2-3 slices of pizza (20 inch) for each anticipated individual.
 ### Breakfast
 Workshop breakfast is usually coffee & bagels. Arrange to have everything delivered about 15 minutes before Volunteers arrive, so there is food and coffee to greet them.
 
-Noah’s Bagels has a great catering delivery service on bagels. Order enough bagels to cover about 70% of attendees/volunteers with ‘Yes’ RSVP. 
+Noah’s Bagels has a great catering delivery service on bagels. Order enough bagels to cover about 70% of attendees/volunteers with ‘Yes’ RSVP.  If you order hot sandwiches, let them know when you order to cut in halves and wrapped individually.  They're happy to oblige & it makes setup that much faster for you.
  
-Search around the workshop’s location to find a coffee shop which will deliver it to you, if possible. Coffee Bean has a reasonable one which includes sugar, milk, disposable cups etc. A Cambro (5 gallons) is usually MORE than enough for 70 people as not everyone will drink coffee.
+Search around the workshop’s location to find a coffee shop which will deliver it to you, if possible. Coffee Bean has a reasonable one which includes sugar, milk, disposable cups etc. A Cambro (5 gallons) is usually MORE than enough for 70 people as not everyone will drink coffee.  Not everyone will drink, but make sure to have plenty as many will refill their cups throughout the day. Remember to request extra cups & cream.
+
 
 ### Lunch
 
@@ -120,6 +121,7 @@ Ask the host location if they have any recommendations for catering companies th
 Give the Caterer estimated head count; usually 70% of that number of Yes RSVPs. Ask for a Vegetarian/Vegan option for about a third of the food, and if they will want help clearing away any of the set-up they bring. 
 
 If the host company is not paying for it, ask for a quote to submit to Austin for approval. 
+
 
 ### <a name="afterparty"/>Make after-party reservations
 It’s always great to thank volunteers for their time and help with a free drink after the event. This also gives the workshop goers a chance to socialize more and really build some networking connections that will help support them if they decide they now have the bug and want to actually delve into this awesome world of Ruby programming!
