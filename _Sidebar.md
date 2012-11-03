@@ -2,7 +2,7 @@ This is the [Railsbridge](http://railsbridge.org) Github Wiki.
 * [[Cookbook Home|Cookbook]]
 * [[Minimum Viable Workshop|Minimum Viable Workshop]]
 * [[Workshop Planning Timeline]]
-  * [[Finding space, sponsors, volunteers, and students]] 
+  * [[Finding: space, sponsors, volunteers, and students]] 
   * [[Workshop Planning Tasks]]
   * [[Installfest Tasks]]
   * [[Workshop Tasks]]

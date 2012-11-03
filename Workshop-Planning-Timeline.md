@@ -1,3 +1,10 @@
+### Finding space, sponsors, volunteers & students
+* [Find a community](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_community)
+* [Find a space](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_space)
+* [Find a sponsor](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_sponsor)
+* [Recruit volunteers](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_volunteers)
+* [Recruit participants](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_students)
+
 ### When You Sign Up
 * [Join the organizer's listserve](Workshop-Planning-Tasks/#wiki-joinlistserve)
 * [Confirm dates & details with the hosting venue](Workshop-Planning-Tasks/#wiki-confirmvenue)
