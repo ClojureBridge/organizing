@@ -19,12 +19,12 @@
 * [Make after-party reservations](Workshop-Planning-Tasks/#wiki-afterparty)
 * [Train the teachers](Workshop-Planning-Tasks/#wiki-trainteachers)
 * [Communicate with everyone](Workshop-Planning-Tasks/#wiki-communicate)
+* [Arrange childcare](Workshop-Planning-Tasks/#wiki-childcare)
 
 ### One Week Before
 * [Obtain necessary objects (power cords, flash drives, name tags, etc.)](Workshop-Planning-Tasks/#wiki-objects)
 * [Update the pre- and post-workshop presentation slides](Workshop-Planning-Tasks/#wiki-slides)
 * [Figure out student class levels](Workshop-Planning-Tasks/#wiki-levels)
-* [Arrange childcare](Workshop-Planning-Tasks/#wiki-childcare)
 
 ### Installfest Tasks
 * [Set up a good Installfest space](Workshop-Planning-Tasks/#wiki-installspace)
