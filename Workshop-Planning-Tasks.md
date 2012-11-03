@@ -1,14 +1,3 @@
-## When You Sign Up
-
-### <a name="joinlistserve"/>Join the organizer's listserve
-If you haven't already, join: https://groups.google.com/forum/#!forum/railsbridge-workshops. You can email the list with questions, requests, panic, or jokes. We're all here to help. 
-
-### <a name="confirmvenue"/>Confirm dates & details with the hosting venue
-The Railsbridge meta-organizers have introduced you via email to the contact person at the venue. You'll want to confirm that the dates still work for them, how much room they have (which you will use to guide the RSVP cap on Meetup), and lots of other details. So many, in fact, that we have a whole separate page: [[hosting venue questions|hosting venue questions]].
-
-### <a name="meetmentor"/>Meet your mentor
-If this is your first time organizing, the meta-organizers will set you up with a mentor to answer questions as they arise. Say hello now, in person or in the ether!
-
 ## Six Weeks Before
 
 ### <a name="meetup"/>Post the event on Meetup.com
@@ -56,3 +45,73 @@ David at Triptych has catered many RailsBridge workshops and is super easy to wo
 You can also pick your own caterer, we have [[some suggestions|SF Catering and after party location suggestions]]! In which case, as you are getting quotes for the catering, check out the [[sample budget|sample budget]]. Totals will vary depending on the number of folks there and where you're getting the food, but you shouldn't spend more than $1,500 for the whole workshop.
 
 ### Here are some [[SF Catering and after party location suggestions]]!
+
+### Installfest
+Installfest food is pizza and hopefully salad. If the host has a beer fridge or kegerator to share, that's awesome, otherwise, get some beer, too. 
+
+Amounts: 2-3 slices of pizza (20 inch) for each anticipated individual. 
+(I.e. Total Volunteers + Attendees = 80, 60% = 48: Roughly 144 slices needed- so 9 pizzas with 16 slices)
+
+### Breakfast
+Workshop breakfast is usually coffee & bagels. Arrange to have everything delivered about 15 minutes before Volunteers arrive, so there is food and coffee to greet them.
+
+Noah’s Bagels has a great catering delivery service on bagels. Order enough bagels to cover about 70% of attendees/volunteers with ‘Yes’ RSVP.  If you order hot sandwiches, let them know when you order to cut in halves and wrapped individually.  They're happy to oblige & it makes setup that much faster for you.
+ 
+Search around the workshop’s location to find a coffee shop which will deliver it to you, if possible.  Not everyone will drink, but make sure to have plenty as many will refill their cups throughout the day. Remember to request extra cups & cream.
+(Coffee Bean has a reasonable one which includes sugar, milk, disposable cups etc. A Cambro (5 gallons) is usually MORE than enough for 70 people as not everyone will drink coffee.)
+
+### Lunch
+
+Ask the host location if they have any recommendations for catering companies that they have used before. 
+Give the Caterer estimated head count; usually 70% of that number of Yes RSVPs. Ask for a Vegetarian/Vegan option for about a third of the food, and if they will want help clearing away any of the set-up they bring. 
+
+If the host company is not paying for it, ask for a quote to submit to Austin for approval. 
+
+If lunch will be delivered, please make sure they come at least 30 minutes beforehand so you & your team have time to set up.  When setting up, try to make sure the food is accessible by many at the same time (perhaps various stations?) as lunch time goes by so fast.
+
+
+### <a name="afterparty"/>Make after-party reservations
+It’s always great to thank volunteers for their time and help with a free drink after the event. This also gives the workshop goers a chance to socialize more and really build some networking connections that will help support them if they decide they now have the bug and want to actually delve into this awesome world of Ruby programming!
+
+Find someplace close. The closer the after-party is to the workshop site, the more likely it is that people won’t get lost or distracted between workshop and party. A deserted bar is ideal, a casual restaurant is also good. Most workshops end at 4:30 or so on Saturdays, which tends to be a slow time for bars and restaurants, but it pays to check.
+
+Make arrangements with the location ahead of time. If you can tell a place that X many people will be coming and you will buy Y many drinks (one for each of your volunteers), that’s often enough to encourage them to go out of their way to support what you’re doing. Some places will offer specials (free drinks, extra food) to entice large groups but even those that don’t should be informed before a horde of people descend on them.
+
+Mention the after-party early and often. The more times you mention the fact and location of the after party the less likely it is that people don’t come because they don’t know about it.
+
+If a potential host demands a minimum bar tab or rental fee, go elsewhere! Plenty of places don’t, but some places are in the business of hosting parties. This tends to run $1000 and up, which is too expensive unless you have an after-party sponsor.
+
+###  <a name="trainteachers"/>Train the teachers
+Set up a teacher training. This often happens during the week of the workshop. If you can't get a separate evening, you can do it during the Installfest, but try to get extra volunteers if you do that. Don't want to leave the student high and dry while teachers discuss best practices. 
+
+Take a look at the teacher training slides, which live at [http://curriculum.railsbridge.org/workshop/teacher_training](http://curriculum.railsbridge.org/workshop/teacher_training). Edit them as appropriate here: [https://github.com/railsbridge/workshop/blob/master/teachers/teacher_training.md](https://github.com/railsbridge/workshop/blob/master/teachers/teacher_training.md). 
+
+### <a name="communicate"/>Communicate with everyone
+A few of the things you'll do:
+* Post/announce the workshop to the RubySF Meetup mailing list
+* Email the pre-workshop survey to the attendees, optionally including a deadline to respond
+* Remind attendees to take the pre-workshop survey
+* Remind attendees that if they have a Mac, they will need XCode prior to arriving to the Installfest
+* Email the volunteer survey to the volunteers
+* Send Installfest instructions to attendees 
+* Send logistical info (detailed schedule, parking info, etc.) 
+* Ask people at every turn to update their RSVP on Meetup.com if they can't come
+
+When people join the SF Ruby meetup to attend a workshop, they don't always realize that by default they will be getting the Ruby-6 mailing list into their inbox. In one of your emails, it's helpful to address that and explain where the email setting are or encourage them to filter the messages (but still pay attention! for future learning!). 
+
+You can find templates for emails in the [[materials section|materials]] under "Communication".
+
+## One Week Before
+### <a name="objects"/>Obtain necessary objects: power cords, flash drives, name tags, etc.
+> To do: develop physical items plans (#1 plan: don't lose the stuff)
+
+### <a name="slides"/>Update the pre- and post-workshop presentation slides
+* Templates and instructions live in [[Templates and Materials|Templates and Materials]]
+
+### <a name="levels"/>Figure out student class levels
+* Use the [[grouping guide|Class level grouping guide]] to interpret the results of the pre-workshop survey
+
+### <a name="childcare"/>Arrange childcare
+* Anecdotally, few people take you up on childcare; more people tend to use nursing/pumping space, actually.
+* It's worth checking with the people who said they needed childcare to make sure they still really do.
+* We have a list of contact info for sitters; email the workshop mailing list (which you should already be subscribed to!) at https://groups.google.com/forum/?fromgroups#!forum/railsbridge-workshops for access.
