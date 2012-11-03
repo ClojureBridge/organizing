@@ -1,5 +1,4 @@
 
-
 ## When You Sign Up
 
 ### <a name="joinlistserve"/>Join the organizer's listserve
@@ -10,8 +9,6 @@ The Railsbridge meta-organizers have introduced you via email to the contact per
 
 ### <a name="meetmentor"/>Meet your mentor
 If this is your first time organizing, the meta-organizers will set you up with a mentor to answer questions as they arise. Say hello now, in person or in the ether!
-
-## Six Weeks Before
 
 ### <a name="meetup"/>Post the event on Meetup.com
 Contact Bosco & Caleb for organizer permission via [sfruby.info/suggestion](http://www.sfruby.info/suggestion/), so you can post to the [SF Ruby Meetup](http://sfruby.info). You will create:
@@ -24,8 +21,6 @@ _Continue to send pings to your attendees through Meetup about Downloading & Ins
 Copy an old workshop, update the details with your own, and have someone else read through it before posting. Because most people forget to update at least one piece of information, to various levels of tragedy.
 
 > Todo: Post Meetup event templates
-
-## Two Weeks Before
 
 ### <a name="survey"/>Survey the students and volunteers
 The pre-workshop survey helps gauge who actually plans on coming and what class levels they will be in. 
@@ -82,7 +77,6 @@ If the host company is not paying for it, ask for a quote to submit to Austin fo
 
 If lunch will be delivered, please make sure they come at least 30 minutes beforehand so you & your team have time to set up.  When setting up, try to make sure the food is accessible by many at the same time (perhaps various stations?) as lunch time goes by so fast.
 
-
 ### <a name="afterparty"/>Make after-party reservations
 It’s always great to thank volunteers for their time and help with a free drink after the event. This also gives the workshop goers a chance to socialize more and really build some networking connections that will help support them if they decide they now have the bug and want to actually delve into this awesome world of Ruby programming!
 
@@ -114,7 +108,6 @@ When people join the SF Ruby meetup to attend a workshop, they don't always real
 
 You can find templates for emails in the [[materials section|materials]] under "Communication".
 
-## One Week Before
 ### <a name="objects"/>Obtain necessary objects: power cords, flash drives, name tags, etc.
 > To do: develop physical items plans (#1 plan: don't lose the stuff)
 
