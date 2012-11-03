@@ -1,3 +1,5 @@
+_Note: if you're in San Francisco, all of this is taken care of by your lovely meta-organizers._
+
 <a name="find_community"/>
 ## Identify existing communities to collaborate with
 > To Do: Tips for identifying allies within the local tech community
