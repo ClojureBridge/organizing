@@ -4,8 +4,11 @@ If you haven't already, join: https://groups.google.com/forum/#!forum/railsbridg
 ### <a name="confirmvenue"/>Confirm dates & details with the hosting venue
 The Railsbridge meta-organizers have introduced you via email to the contact person at the hosting venue. You'll want to confirm that the dates still work for them, how much room they have (which you will use to guide the RSVP cap on Meetup), and lots of other details. So many, in fact, that we have a whole separate page: [[hosting venue questions|hosting venue questions]].
 
-## Post the event on Meetup.com
-Contact Bosco & Caleb for organizer permission via [sfruby.info/suggestion](http://www.sfruby.info/suggestion/), so you can post to the [SF Ruby Meetup](http://sfruby.info). You will create:
+## Post the event
+
+In practice, using a closed, invite-only system for recruiting instructors and a more public application such as Meetup or Eventbrite to register participants in the other roles has worked well. If you have the benefit of a local Rails or Ruby group, see whether you can use that group's mailing list or Meetup page to handle registration for the workshop attendees and non-instructor volunteers.
+
+If you are in San Francisco, contact Bosco & Caleb for organizer permission via [sfruby.info/suggestion](http://www.sfruby.info/suggestion/), so you can post to the [SF Ruby Meetup](http://sfruby.info). You will create:
 * A student event
 * A volunteer event
 * A teacher training (can be scheduled closer to event)
