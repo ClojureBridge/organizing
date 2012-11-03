@@ -1,5 +1,5 @@
 ## Installfest Tasks
-_Remember that you have tons of volunteers eager to help, Allow them to by Assigning them tasks._
+_Remember that you have tons of volunteers eager to help, allow them to help by delegating!_
 ### <a name="installspace"/>Setting up a good Installfest space
 * Post the wireless SSID & password often and visibly. 
 * Power outlets will guide how the space is set up, but RailsBridge's rolling chest of power cords should help with. The Installfest should be one big room with different tables, ideally marked with OSs so that folks with similar issues can help each other. (This usually means getting more granular than just Mac/Linux/PC and breaking out older Mac OSs into their own pods.)
