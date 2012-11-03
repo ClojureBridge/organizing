@@ -1,11 +1,8 @@
 This is the [Railsbridge](http://railsbridge.org) Github Wiki.
 * [[Cookbook Home|Cookbook]]
 * [[Minimum Viable Workshop|Minimum Viable Workshop]]
-* [[Workshop Planning Timeline]]
+* [[How to Organize in San Francisco|How to organize a Railsbridge workshop in SF]]
   * [[Workshop Planning Tasks]]
-  * [[Installfest Tasks]]
-  * [[Workshop Tasks]]
-  * [[Aftermath]]
 * [[What to do if you're not in SF|How to organize outside of SF]] 
 * [[The Three Main Roles|Three Main Roles]]
 * [[Venue|Venue]]
