@@ -107,6 +107,12 @@ When people join the SF Ruby meetup to attend a workshop, they don't always real
 
 You can find templates for emails in the [[materials section|materials]] under "Communication".
 
+
+### <a name="childcare"/>Arrange childcare
+* Anecdotally, few people take you up on childcare; more people tend to use nursing/pumping space, actually.
+* It's worth checking with the people who said they needed childcare to make sure they still really do.
+* We have a list of contact info for sitters; email the workshop mailing list (which you should already be subscribed to!) at https://groups.google.com/forum/?fromgroups#!forum/railsbridge-workshops for access.
+
 ### <a name="objects"/>Obtain necessary objects: power cords, flash drives, name tags, etc.
 > To do: develop physical items plans (#1 plan: don't lose the stuff)
 
@@ -115,8 +121,3 @@ You can find templates for emails in the [[materials section|materials]] under "
 
 ### <a name="levels"/>Figure out student class levels
 * Use the [[grouping guide|Class level grouping guide]] to interpret the results of the pre-workshop survey
-
-### <a name="childcare"/>Arrange childcare
-* Anecdotally, few people take you up on childcare; more people tend to use nursing/pumping space, actually.
-* It's worth checking with the people who said they needed childcare to make sure they still really do.
-* We have a list of contact info for sitters; email the workshop mailing list (which you should already be subscribed to!) at https://groups.google.com/forum/?fromgroups#!forum/railsbridge-workshops for access.
