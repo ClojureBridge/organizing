@@ -1,6 +1,7 @@
 ## Communications
 * [[Announcement Templates]] For Meetup
-* [[Letters to students]] Seven emails from Take the Survey to Final Logistics
+* [[Letters to students]] 
+ * Seven emails from Take the Survey to Final Logistics
 * [[Letters to volunteers]]
 
 ## Surveys
