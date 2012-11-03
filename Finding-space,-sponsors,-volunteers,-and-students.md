@@ -30,7 +30,7 @@ To figure out how much you'll need to fundraise, check out the [[sample budget|S
 Plan the Installfest for a Friday evening and the workshop the following Saturday. Trust us, you need that extra day for the Installfest – students can’t do the workshop without it, it’s messy and takes everybody vastly different amounts of time.
 
 <a name="find_volunteers"/>
-## Recruit volunteers
+## Recruit volunteers to teach, TA, and help you organize
 Hopefully you have a friend or two helping you out. And maybe a few coworkers? Here are some of the positions you will need to fill:
 * Organizers (that’s you!)
 * Teacher trainers (might be you, as well)
