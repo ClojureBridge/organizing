@@ -2,7 +2,7 @@
 * [Identify existing communities to collaborate with](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_community)
 * [Find a space](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_space)
 * [Find a sponsor](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_sponsor)
-* [Recruit volunteers](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_volunteers)
+* [Recruit volunteers to teach, TA, and help you plan](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_volunteers)
 * [Recruit participants](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_students)
 
 ### When You Sign Up
