@@ -1,5 +1,5 @@
 ### Finding space, sponsors, volunteers & students
-* [Find a community](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_community)
+* [Identify existing communities you can collaborate with](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_community)
 * [Find a space](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_space)
 * [Find a sponsor](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_sponsor)
 * [Recruit volunteers](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_volunteers)
