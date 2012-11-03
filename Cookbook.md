@@ -2,4 +2,6 @@ If you're reading this Cookbook, you may be _thinking about_ organizing, or you 
 
 Find a quiet hour to read through the entire Cookbook. There is gold (or avocado, or wild blackberries, to extend the metaphor) here to help make your first time as sane and fun as possible.
 
+A good place to start is the [[Workshop Planning Timeline]].
+
 ### [[Go Home|Home]]
