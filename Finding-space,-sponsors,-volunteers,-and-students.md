@@ -1,5 +1,5 @@
 <a name="find_community"/>
-## Find a community 
+## Identify existing communities you can collaborate with
 > To Do: Tips for identifying allies within the local tech community
 
 <a name="find_space"/>
