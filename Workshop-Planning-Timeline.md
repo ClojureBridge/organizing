@@ -35,13 +35,13 @@
 ### At the Workshop
 * [Set up! Welcome desk, presentation space,  classrooms, & food](Workshop-tasks/#wiki-setup)
 * [Greet, check in, and nametag students and volunteers](Workshop-tasks/#wiki-greet)
-* [Give opening presentation](Workshop-tasks/#wiki-opening)
+* [Give the opening presentation](Workshop-tasks/#wiki-opening)
 * [Figure out who really showed up; match students & teachers accordingly](Workshop-tasks/#wiki-remixlevels)
 * [Keep time: remind/make all groups take breaks](Workshop-tasks/#wiki-timekeeper)
 * [Feed people lunch, make them go back to class](Workshop-tasks/#wiki-lunch)
 * [Email post-workshop survey link](Workshop-tasks/#wiki-postsurvey)
-* [Closing presentation](Workshop-tasks/#wiki-closing)
-* [Teacher retro](Workshop-tasks/#wiki-teacherretro)
+* [Give the closing presentation](Workshop-tasks/#wiki-closing)
+* [Facilitate the teacher retro](Workshop-tasks/#wiki-teacherretro)
 * [Party party party!](Workshop-tasks/#wiki-afterparty)
 
 ### Aftermath
