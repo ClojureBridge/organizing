@@ -5,12 +5,12 @@
 * [Recruit volunteers to teach, TA, and help you plan](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_volunteers)
 * [Recruit participants](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_students)
 
-### When You Sign Up
+### First steps once the major details are ironed out
 * [Join the organizer's listserve](Workshop-Planning-Tasks/#wiki-joinlistserve)
 * [Confirm dates & details with the hosting venue](Workshop-Planning-Tasks/#wiki-confirmvenue)
 * [Meet your workshop mentor, if first time organizing](Workshop-Planning-Tasks/#wiki-meetmentor)
 
-### Six Weeks Before
+### Somewhere around three weeks before
 * [Post the event on Meetup.com](Workshop-Planning-Tasks/#wiki-meetup)
 
 ### Two Weeks Before
