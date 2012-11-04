@@ -26,13 +26,13 @@
 * [Update the pre- and post-workshop presentation slides](Workshop-Planning-Tasks/#wiki-slides)
 * [Figure out student class levels](Workshop-Planning-Tasks/#wiki-levels)
 
-### Installfest Tasks
+### At the Installfest
 * [Set up a good Installfest space](Workshop-Planning-Tasks/#wiki-installspace)
 * [Welcome desk with class level confirmation](Workshop-Planning-Tasks/#wiki-welcomedesk)
 * [Identify Github point person for real-time updates](Workshop-Planning-Tasks/#wiki-updates)
 * [Dealing with inevitable issues](Workshop-Planning-Tasks/#wiki-installfestissues)
 
-### Workshop Tasks
+### At the Workshop
 * [Set up: welcome desk, presentation space,  classrooms, & food](Workshop-tasks/#wiki-setup)
 * [Greet, check in, and nametag students and volunteers](Workshop-tasks/#wiki-greet)
 * [Give opening presentation](Workshop-tasks/#wiki-opening)
