@@ -28,12 +28,12 @@
 
 ### At the Installfest
 * [Set up a good Installfest space](Workshop-Planning-Tasks/#wiki-installspace)
-* [Welcome desk with class level confirmation](Workshop-Planning-Tasks/#wiki-welcomedesk)
-* [Identify Github point person for real-time updates](Workshop-Planning-Tasks/#wiki-updates)
-* [Dealing with inevitable issues](Workshop-Planning-Tasks/#wiki-installfestissues)
+* [Set up a welcome desk with class level confirmation](Workshop-Planning-Tasks/#wiki-welcomedesk)
+* [Identify a Github point person for real-time updates](Workshop-Planning-Tasks/#wiki-updates)
+* [Deal with inevitable issues](Workshop-Planning-Tasks/#wiki-installfestissues)
 
 ### At the Workshop
-* [Set up: welcome desk, presentation space,  classrooms, & food](Workshop-tasks/#wiki-setup)
+* [Set up! Welcome desk, presentation space,  classrooms, & food](Workshop-tasks/#wiki-setup)
 * [Greet, check in, and nametag students and volunteers](Workshop-tasks/#wiki-greet)
 * [Give opening presentation](Workshop-tasks/#wiki-opening)
 * [Figure out who really showed up; match students & teachers accordingly](Workshop-tasks/#wiki-remixlevels)
