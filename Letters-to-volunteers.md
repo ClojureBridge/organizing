@@ -18,6 +18,6 @@
 > 
 > Lillie 
 > 
-> PS: I'm going to assume non-survey participation means you can't make it, not to be super harsh or anything. 
+> PS: I'm going to assume non-survey participation means you can't make it, not to be super harsh or anything. And as always: In the spirit of maintaining a safe and comfortable learning environment, we expect everyone who attends to behave professionally. 
 
 ### [[Back to Templates and Materials|Templates and Materials]]
