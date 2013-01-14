@@ -2,7 +2,9 @@ _Note: if you're in San Francisco, all of this is taken care of by your lovely m
 
 <a name="find_community"/>
 ## Identify existing communities to collaborate with
-> To Do: Tips for identifying allies within the local tech community
+If you're not already involved with your local RoR scene, Google is your friend. First find your local Ruby and Rails user groups; in some cities Meetup.com is a hub for user groups. Ask the [RailsBridge mailing list](https://groups.google.com/forum/?fromgroups#!forum/railsbridge-workshops) if they know anyone in your city.
+
+In addition to your local tech communities, think about finding organizations that are working with whatever demographic you're focusing on, like professional organizations, chamber of commerce-type organizations, and non-profits. 
 
 <a name="find_space"/>
 ## Find a space
@@ -49,6 +51,15 @@ If you don’t already have someone who’s handling logistics (signup forms, co
 ## Recruit participants 
 A workshop’s no fun if nobody comes. Find out the capacity of the space you’ll be in so that you don’t sign up more people than you have capacity for. But remember, a lot of the people who sign up won’t show – could be as many as half. Plan accordingly.
 
+In addition to reaching out to Ruby and Rails user groups, research local tech groups and communities that might include members interested in RoR:
+* SysAdmins
+* Designers
+* QA Engineers
+* Product and Project Managers
+* Devs working in other languages
+
 Now, how are you going to get the word out? While here in San Francisco we’re pretty lucky to have things like Meetup.com, posting to local forums, putting flyers in coffee and book shops with a link to a Google form that they can use to say they’ll attend, or connecting with community colleges/local IT businesses in your area to get the word out are also good ways to go.
+
+
 
 ### [[Go to Cookbook home|Cookbook]]
