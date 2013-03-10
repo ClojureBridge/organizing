@@ -12,7 +12,7 @@
 ## Curriculum things:
 
 * There are JavaScript, Git, and iOS curricula in the works. Want to help with those, or write a new one? Join the workshop Google group and introduce yourself!
-* We’re going to attempt to merge the Boston RailsBridge repo with the main RailsBridge repo. If you’d like to help with that, ping the Google group.
+* Some folks have discussed merging the Boston RailsBridge repo with the main RailsBridge repo. If you’d like to help with that, ping the Google group.
 * We need to rename our various curricula, because “Intro Rails” and “Intermediate Rails” gets really confusing when you have class levels that include the word Intermediate.
 
 ## Other projects:
