@@ -6,4 +6,6 @@
 
 ### [[People, Subcommittees, and GTD]]
 
+### [[Development Glossary]]
+
 ### [[Quotable Comments]]
