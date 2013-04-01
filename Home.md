@@ -6,6 +6,8 @@
 
 ### [[People, Subcommittees, and GTD]]
 
+### [[Meta Organizing: How To]]
+
 ### [[Development Glossary]]
 
 ### [[Quotable Comments]]
