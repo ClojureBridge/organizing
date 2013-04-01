@@ -1,4 +1,4 @@
-How do we meta-organize? Somehow!
+SF meta-organizers are Lillie Chilen and Rachel Myers. This is how we roll.
 
 ## What's a meta-organizer?
 
