@@ -1,5 +1,11 @@
 Inspiration for adding more exercises to the RailsBridge Ruby curriculum!
 
+Code Like This has ONE MILLION and Alex Chaffee says we can use them all:
+http://codelikethis.com/lessons
+
+Maybe we should just add a page to the Ruby curriculum that takes you here:
+http://testfirst.org/live
+
 Jumpstart Labs has morning exercises:
 https://github.com/JumpstartLab/warmup-exercises
 
