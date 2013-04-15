@@ -23,7 +23,6 @@
 ## Curriculum Communications things:
 
 * We don't have good feedback loops for students or people who don't know how to make pull requests. We need to make a way for those people to make suggestions for the curriculum.
-* 
 
 ## Other projects:
 
