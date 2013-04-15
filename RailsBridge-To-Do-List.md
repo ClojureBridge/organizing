@@ -4,10 +4,14 @@
 
 ## Communication things:
 
-* We could use better materials for a quick intro to organizing. The cookbook is great for all the details, but a less threatening introduction would be great.
 * I made a Git/Hub one page pull request guide that I would love help expanding: http://railsbridge.github.com/bridge_troll/. Suggestions? Send ‘em my way (lillie.chilen@gmail.com).
 * Blogging. We need bloggers. Can you blog about something (or anything even tangentially) related to RailsBridge?
 * It would be fantastic to have a topic/skills roadmap for the RoR ecosystem (and the Railsbridge curricula in particular). Ping the mailing list if you’re interested in working on that!
+
+## Outreach things
+
+* We could use better materials for a quick intro to organizing. The cookbook is great for all the details, but a less threatening introduction would be great.
+* A form! Where people who want to have workshops in their area can communicate this fact!
 
 ## Curriculum things:
 
@@ -15,6 +19,11 @@
 * Some folks have discussed merging the Boston RailsBridge repo with the main RailsBridge repo. If you’d like to help with that, ping the Google group.
 * We need to rename our various curricula, because “Intro Rails” and “Intermediate Rails” gets really confusing when you have class levels that include the word Intermediate.
 * Add more exercises to the Ruby curriculum! [Inspiration here](Ruby Exercise Links)!
+
+## Curriculum Communications things:
+
+* We don't have good feedback loops for students or people who don't know how to make pull requests. We need to make a way for those people to make suggestions for the curriculum.
+* 
 
 ## Other projects:
 
