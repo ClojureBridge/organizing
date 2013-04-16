@@ -12,4 +12,4 @@
 
 ### [[People, Subcommittees, and GTD]]
 
-## [[2013 Website Overhaul Project]]
+### [[2013 Website Overhaul Project]]
