@@ -28,4 +28,7 @@ Jane and I are going to work with a few UX / visual design folks to get feedback
 * Google map visualization of all past workshops
 * Ongoing (non-workshop specific) feedback loop for students & volunteers
 
+### Resources
+
+* Patrick Leahy did a bunch of visual design work for Bridge Troll. The top mockup [on this page](http://www.behance.net/gallery/Bridge-Troll/7259123) didn't work out for Bridge Troll, but is good inspiration for a new RailsBridge.org home page.
 
