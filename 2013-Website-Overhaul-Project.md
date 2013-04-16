@@ -18,6 +18,10 @@ We have some goals for this, including:
 
 Jane and I are going to work with a few UX / visual design folks to get feedback on what we have so far.
 
+### Resources
+
+* Patrick Leahy did a bunch of visual design work for Bridge Troll. The top mockup [on this page](http://www.behance.net/gallery/Bridge-Troll/7259123) didn't work out for Bridge Troll, but is good inspiration for a new RailsBridge.org home page.
+
 ### Outstanding Questions
 
 * What's the relationship between this site and Bridge Troll? 
@@ -27,8 +31,3 @@ Jane and I are going to work with a few UX / visual design folks to get feedback
 
 * Google map visualization of all past workshops
 * Ongoing (non-workshop specific) feedback loop for students & volunteers
-
-### Resources
-
-* Patrick Leahy did a bunch of visual design work for Bridge Troll. The top mockup [on this page](http://www.behance.net/gallery/Bridge-Troll/7259123) didn't work out for Bridge Troll, but is good inspiration for a new RailsBridge.org home page.
-
