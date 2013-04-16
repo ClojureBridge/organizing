@@ -4,10 +4,12 @@
 
 ### [[Feature Requests versus Pull Requests: a brief manifesto|Feature Requests v. Pull Requests]]
 
-### [[People, Subcommittees, and GTD]]
-
 ### [[Meta Organizing: How To]]
 
 ### [[Development Glossary]]
 
 ### [[Quotable Comments]]
+
+### [[People, Subcommittees, and GTD]]
+
+## [[2013 Website Overhaul Project]]
