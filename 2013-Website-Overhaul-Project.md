@@ -9,6 +9,7 @@ Here's where it lives currently: [sleepy-atoll-6384.herokuapp.com](http://sleepy
 * Quick access to workshop materials / curriculum
 * Clearer path for workshop "grads" who want to get involved
 * Really, clearer paths for anyone using the site
+* Improve the structure of the Learning Resources page (when you should do what tutorial/book/etc)
 
 ### Features
 
