@@ -41,4 +41,4 @@ Here's where it lives currently: [sleepy-atoll-6384.herokuapp.com](http://sleepy
 * Google map visualization of all past workshops
 * Ongoing (non-workshop specific) feedback loop for students & volunteers
 * Side project: make a Jekyll site out of the Cookbook so it can be prettier
-* Research project: find all the workshop-specific write-ups and link to them
+* Research project: find all the workshop-specific write-ups and link to them in some kind of reasonable way
