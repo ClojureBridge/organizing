@@ -2,6 +2,8 @@ Jane Sebastian and I (Lillie Chilen) are overhauling the RailsBridge.org website
 
 Here's where it lives currently: [sleepy-atoll-6384.herokuapp.com](http://sleepy-atoll-6384.herokuapp.com/).
 
+And here's our project backlog: https://www.pivotaltracker.com/s/projects/710609
+
 ### Goals
 
 * Site should be version controlled and updates should happen via pull requests on a GitHub repo
