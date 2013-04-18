@@ -1,6 +1,6 @@
 Jane Sebastian and I (Lillie Chilen) are overhauling the RailsBridge.org website. It will be in a [repo under my name](https://github.com/lilliealbert/site_de_railsbridge_2013) until we're ready to get larger feedback on it, at which point, we'll bring it over to the official RailsBridge repo.
 
-Here's where it lives currently: [sleepy-atoll-6384.herokuapp.com](http://sleepy-atoll-6384.herokuapp.com/).
+Here's where it lives currently: http://sleepy-atoll-6384.herokuapp.com/.
 
 And here's our project backlog: https://www.pivotaltracker.com/s/projects/710609
 
