@@ -26,6 +26,9 @@ http://blog.intelligent.ly/2012/12/railsbridge-boston-coding-classes/
 http://blog.wyeworks.com/2010/1/19/rails-bugmash-an-exciting-first-experience/
 http://blog.peeja.com/blog/2012/11/14/lets-not-teach-the-fundamentals-first/
 https://blog.engineyard.com/2011/chicks-that-rip-renee-de-voursney
+http://www.women2.com/railsbridge-nyc-outreach-kicks-off-last-month/
+http://blog.mewie.com/2011/09/26/seattle-railsbridge-reigns-again/
+http://blog.gnip.com/ruby-on-rails-bugmash/
 http://www.sarahmei.com/blog/2009/05/04/my-drop-in-the-bucket/
 http://www.ilen.org/2009/08/creating-a-self-organizing-environment/
 http://www.sarahmei.com/blog/2009/06/14/the-first-rails-workshop/
