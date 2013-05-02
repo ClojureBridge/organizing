@@ -15,7 +15,17 @@ http://blog.rimuhosting.com/2009/08/26/congratulations-to-railsbridge-bug-masher
 http://www.women2.com/the-impact-of-twitter-on-railsbridge-learning-ruby-on-rails/
 http://blog.rubyfuza.org/2013/01/spreading-rails-love.html
 http://blog.noupsi.de/post/5133147403/beginner-ruby-the-railsbridge-curriculum
-
+http://www.blog.bridgeutopiaweb.com/post/rails-bridge-a-new-community-for-people-who-want-to-do-well-with-the-framework/
+http://nataliacecire.blogspot.com/2011/05/railsbridge-workshops.html
+http://www.corinnee.com/2013/03/a-saturday-spent-railsbridge-and-ruby-on-rails/
+http://connectionrequired.com/blog/2009/05/contributing-to-railsbridge/
+http://chuckguynn.com/tag/railsbridge/
+http://bharad.net/meetups/2013/02/28/railsbridge-workshop/
+http://www.bluebox.net/about/blog/2011/04/rails-for-women-workshop/
+http://blog.intelligent.ly/2012/12/railsbridge-boston-coding-classes/
+http://blog.wyeworks.com/2010/1/19/rails-bugmash-an-exciting-first-experience/
+http://blog.peeja.com/blog/2012/11/14/lets-not-teach-the-fundamentals-first/
+https://blog.engineyard.com/2011/chicks-that-rip-renee-de-voursney
 http://www.sarahmei.com/blog/2009/05/04/my-drop-in-the-bucket/
 http://www.ilen.org/2009/08/creating-a-self-organizing-environment/
 http://www.sarahmei.com/blog/2009/06/14/the-first-rails-workshop/
@@ -28,5 +38,6 @@ http://www.ultrasaurus.com/sarahblog/2009/10/stone-soup-workshop/
 
 
 ## Interviews
-
+http://www.npr.org/blogs/alltechconsidered/2013/04/29/178810467/blazing-the-trail-for-female-programmers
+http://www.youtube.com/watch?v=rMYUGwQGLn8
 http://rubyrogues.com/066-rr-rails-bridge-with-sarah-mei/
