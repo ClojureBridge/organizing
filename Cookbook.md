@@ -4,6 +4,6 @@ The [[Workshop Planning Timeline]] is a good place to start; it's divided into s
 
 The [[Finding space, sponsors, volunteers, and students]] section is a little bit lighter than we'd like it to be, but since this cookbook's main authors are in San Francisco, most of the up-front work of finding those things is taken care of by the SF meta-organizers. So if you are a non-SF organizer, please help us beef up that section with your suggestions!
 
-We have a lot of past organizers who can help you figure out what to do. Email organizing@railsbridge.org and we'll introduce you to a mentor!
+We have a lot of past organizers who can help you figure out what to do. Email organizing@railsbridge.org and we'll introduce you to an organizing mentor!
 
 ### [[Go Home|Home]]
