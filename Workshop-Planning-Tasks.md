@@ -6,6 +6,9 @@ If you haven't already, join: https://groups.google.com/forum/#!forum/railsbridg
 ### <a name="confirmvenue"/>Confirm dates & details with the hosting venue
 The Railsbridge meta-organizers have introduced you via email to the contact person at the venue. You'll want to confirm that the dates still work for them, how much room they have (which you will use to guide the RSVP cap on Meetup), and lots of other details. So many, in fact, that we have a whole separate page: [[hosting venue questions|hosting venue questions]].
 
+### <a name="calendarlisting'/>Add your workshop to the RailsBridge website calendar
+You can announce your workshop on the listserve or contact Isa at miss.herico at gmail dot com.
+
 ### <a name="meetmentor"/>Meet your mentor
 If this is your first time organizing, the meta-organizers will set you up with a mentor to answer questions as they arise. Say hello now, in person or in the ether!
 
