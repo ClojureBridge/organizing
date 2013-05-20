@@ -24,6 +24,7 @@
 * http://www.ultrasaurus.com/sarahblog/2009/10/stone-soup-workshop/
 
 ## Blog Posts by Companies / Organizations
+* http://www.policymic.com/articles/41359/meet-the-millennial-women-who-could-shake-up-computer-science-forever
 * http://blog.gnip.com/ruby-on-rails-bugmash/
 * http://blogs.law.harvard.edu/genderandtech/2009/10/20/post-workshop-news/
 * http://www.women2.com/railsbridge-nyc-outreach-kicks-off-last-month/
