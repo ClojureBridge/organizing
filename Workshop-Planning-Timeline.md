@@ -9,6 +9,7 @@
 * [Join the organizer's listserve](Workshop-Planning-Tasks/#wiki-joinlistserve)
 * [Confirm dates & details with the hosting venue](Workshop-Planning-Tasks/#wiki-confirmvenue)
 * [Meet your workshop mentor, if first time organizing](Workshop-Planning-Tasks/#wiki-meetmentor)
+* [Check in with Isa to include your workshop in the RailsBridge Calendar](Workshop-Planning-Tasks/#wiki-calendarlisting)
 
 ### Somewhere around three weeks before
 * [Post the event on Meetup.com](Workshop-Planning-Tasks/#wiki-meetup)
