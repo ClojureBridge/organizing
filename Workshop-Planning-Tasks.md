@@ -4,7 +4,7 @@
 If you haven't already, join: https://groups.google.com/forum/#!forum/railsbridge-workshops. You can email the list with questions, requests, panic, or jokes. We're all here to help. 
 
 ### <a name="confirmvenue"/>Confirm dates & details with the hosting venue
-The Railsbridge meta-organizers have introduced you via email to the contact person at the venue. You'll want to confirm that the dates still work for them, how much room they have (which you will use to guide the RSVP cap on Meetup), and lots of other details. So many, in fact, that we have a whole separate page: [[hosting venue questions|hosting venue questions]].
+The Railsbridge meta-organizers have introduced you via email to the contact person at the venue. You'll want to confirm that the dates still work for them, how much room they have (which you will use to guide the RSVP cap on Bridge Troll), and lots of other details. So many, in fact, that we have a whole separate page: [[hosting venue questions|hosting venue questions]].
 
 ### <a name="calendarlisting'/>Add your workshop to the RailsBridge website calendar
 You can announce your workshop on the listserve or contact Isa at miss.herico at gmail dot com.
@@ -12,15 +12,26 @@ You can announce your workshop on the listserve or contact Isa at miss.herico at
 ### <a name="meetmentor"/>Meet your mentor
 If this is your first time organizing, the meta-organizers will set you up with a mentor to answer questions as they arise. Say hello now, in person or in the ether!
 
-### <a name="meetup"/>Post the event on Meetup.com
-Contact Bosco & Caleb for organizer permission via [sfruby.info/suggestion](http://www.sfruby.info/suggestion/), so you can post to the [SF Ruby Meetup](http://sfruby.info). You will create:
-* A student event
-* A volunteer event
-* A teacher training (can be scheduled closer to event)
+### <a name="bridgetroll"/>Post the event on Bridge Troll
 
-_Continue to send pings to your attendees through Meetup about Downloading & Installing XCODE so everyone's ready for Installfest._
+Bridge Troll is the RailsBridge-specific event management system we use to help Organizers have a better time. Visit bridgetroll.herokuapp.com, create an account, and make a new event by choosing "Organize an Event" in the bottom left.
 
 Copy an old workshop, update the details with your own, and have someone else read through it before posting. Because most people forget to update at least one piece of information, to various levels of tragedy.
+
+Bridge Troll can be used to
+ * Record RSVPs for Students and Volunteers, including self-selected class level preferences
+ * Email all students or volunteers
+ * Record check-ins of students and volunteers on Installfest and Workshop days
+ * Arrange students and volunteers into small groups on the day of the event
+
+### <a name="meetup"/>Post the event on Meetup.com
+If your workshop is in SF, contact Bosco & Caleb for organizer permission via [sfruby.info/suggestion](http://www.sfruby.info/suggestion/), so you can post to the [SF Ruby Meetup](http://sfruby.info). You will create:
+* A workshop
+* A teacher training (can be scheduled closer to event)
+
+The workshop event you post on Meetup should be for publicity purposes **ONLY**. Set the RSVP limit to 1 (just you) and link to the Bridge Troll event for people to do their actual sign ups. If Meetup doesn't have a lot of use in your area, you can avoid making the Meetup event and try to get the word out in another way.
+
+_Continue to send pings to your attendees through Meetup about Downloading & Installing XCODE so everyone's ready for Installfest._
 
 > Todo: Post Meetup event templates
 
@@ -29,9 +40,9 @@ The pre-workshop survey helps gauge who actually plans on coming and what class 
 
 > Todo: Post a survey email template
 
-While there is a project currently underway for a site that allows organizers to easily send volunteers and attendees questionnaire forms, our current Google Doc templates can be found and used. In order to not expose your attendee's email address and infos to the entire Internet, **please copy the form (File -> Make a copy...).** Send your students a link to the form created by your copy, and share a link to your spreadsheet  with the workshop coordinators (the ones who set you up with the venue originally, probably Lillie or Rachel in SF) so they can add the info to a private cumulative spreadsheet. 
+Eventually Bridge Troll will take a greater part in the pre/post workshop survey, but until then our current Google Doc templates can be found and used. In order to not expose your attendee's email address and infos to the entire Internet, **please copy the form (File -> Make a copy...).** Send your students a link to the form created by your copy, and share a link to your spreadsheet  with the workshop coordinators (the ones who set you up with the venue originally, probably Lillie or Rachel in SF) so they can add the info to a private cumulative spreadsheet. 
 
-Meetup likes privacy. So you don't have access to folks' email addresses. You can, however, email all the participants of various RSVP statuses (yes & waitlist being the most important).
+You can use Bridge Troll to email the survey all the participants of various RSVP statuses (yes & waitlist being the most important).
 
 Here is the form to copy: https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdElLRHVuWFpDdGxqb3BVajE5dUF2THc
 
