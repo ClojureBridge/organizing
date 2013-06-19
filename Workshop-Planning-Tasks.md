@@ -14,7 +14,7 @@ If this is your first time organizing, the meta-organizers will set you up with 
 
 ### <a name="bridgetroll"/>Post the event on Bridge Troll
 
-Bridge Troll is the RailsBridge-specific event management system we use to help Organizers have a better time. Visit bridgetroll.herokuapp.com, create an account, and make a new event by choosing "Organize an Event" in the bottom left.
+Bridge Troll is the RailsBridge-specific event management system we use to help Organizers have a better time. Visit [bridgetroll.herokuapp.com](bridgetroll.herokuapp.com), create an account, and make a new event by choosing "Organize an Event" in the bottom left.
 
 Copy an old workshop, update the details with your own, and have someone else read through it before posting. Because most people forget to update at least one piece of information, to various levels of tragedy.
 
