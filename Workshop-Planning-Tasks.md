@@ -31,7 +31,7 @@ If your workshop is in SF, contact Bosco & Caleb for organizer permission via [s
 
 The workshop event you post on Meetup should be for publicity purposes **ONLY**. Set the RSVP limit to 1 (just you) and link to the Bridge Troll event for people to do their actual sign ups. If Meetup doesn't have a lot of use in your area, you can avoid making the Meetup event and try to get the word out in another way.
 
-_Continue to send pings to your attendees through Meetup about Downloading & Installing XCODE so everyone's ready for Installfest._
+_Continue to send pings to your attendees through Meetup about Downloading & Installing Xcode so everyone's ready for Installfest._
 
 > Todo: Post Meetup event templates
 
