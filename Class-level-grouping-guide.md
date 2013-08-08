@@ -1,4 +1,7 @@
 ## Grouping
+
+## This is one of the best parts about Bridge Troll: computer-drive class grouping. Give it a shot -- it works very nicely!
+
 While one of the sometimes toughest parts of organizing a workshop, doing this well can often make the difference between really happy workshop goers/volunteers and frustrated ones. The links to the forms, with important instructions for using them, lives on the [[pre-workshop tasks page|pre workshop tasks]].
 
 ## Suggested Class Levels
