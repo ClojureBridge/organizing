@@ -1,4 +1,4 @@
-## Grouping - Deprecated if you're using Bridge Troll
+### Deprecated if you're using Bridge Troll
 
 **This is one of the best parts about Bridge Troll: computer-drive class grouping. Give it a shot -- it works very nicely!**
 
