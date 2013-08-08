@@ -36,19 +36,8 @@ _Continue to send pings to your attendees through Meetup about Downloading & Ins
 > Todo: Post Meetup event templates
 
 ### <a name="survey"/>Survey the students and volunteers
-The pre-workshop survey helps gauge who actually plans on coming and what class levels they will be in. 
 
-> Todo: Post a survey email template
-
-Eventually Bridge Troll will take a greater part in the pre/post workshop survey, but until then our current Google Doc templates can be found and used. In order to not expose your attendee's email address and infos to the entire Internet, **please copy the form (File -> Make a copy...).** Send your students a link to the form created by your copy, and share a link to your spreadsheet  with the workshop coordinators (the ones who set you up with the venue originally, probably Lillie or Rachel in SF) so they can add the info to a private cumulative spreadsheet. 
-
-You can use Bridge Troll to email the survey all the participants of various RSVP statuses (yes & waitlist being the most important).
-
-Here is the form to copy: https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdElLRHVuWFpDdGxqb3BVajE5dUF2THc
-
-### It bears repeating: please COPY this form before sending it to your students, so their responses aren't available to anyone who clicks on the link directly preceding this sentence.
-
-The same is all true for the volunteer survey: https://docs.google.com/spreadsheet/ccc?key=0Al9a5yeo4q0AdFJZTlFxSkZWS2ZRRmI4c3FXVnJXMUE#gid=0
+Bridge Troll now handles all pre-workshop surveying of students and volunteers. (And soon will also handle follow-up surveys, too.)
 
 ### <a name="catering"/>Arrange catering
 
