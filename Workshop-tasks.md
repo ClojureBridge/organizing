@@ -3,7 +3,7 @@ _These bulletpoints make great checklists.  If you need to refer to them day-of,
 ### <a name="setup"/> Set up: welcome desk, presentation space, classrooms, & food
 * Figure out where you're going to send people who show up without an Installfest Success Sticker so that a volunteer can check their install.
 * Make sure you know how to turn on the projector for the opening presentation
-* Double check that the classrooms/conference rooms have the necessary projectors or monitors & corresponding cords
+* Use the Bridge Troll class arrangements to figure out how many class spaces you need and double check that the classrooms/conference rooms have the necessary projectors or monitors & corresponding cords
 * Helpful signs
   * Wifi Code & Social Hashtag - #RailsBridge
   * Directions to the bathrooms
@@ -12,19 +12,21 @@ _These bulletpoints make great checklists.  If you need to refer to them day-of,
 * Put the food out in some kind of attractive manner. 
 
 ### <a name="greet"/> Greet, check in, and nametags
-* Pretty much the same drill as check in for the Installfest: confirm class level (ask them to remember or write it down), name tags, and if someone doesn't have the Installfest Success Sticker, send them to some area where their install can get checked. If they don't have a working machine by the time the opening presentation starts, send them home. 
-* When the first volunteer capable of this walks in, share your spreadsheet and delegate.
+* Pretty much the same drill as check in for the Installfest: check all attendees in on Bridge Troll with multiple 'checkeriners,' confirm volunteers' class level and assignment, hand out name tags, and if someone doesn't have the Installfest Success Sticker, send them to some area where their install can get checked. If they don't have a working machine by the time the opening presentation starts, send them home. 
+* If the main breakfast area has a projector, it is really helpful to put up the Bridge Troll class arrangements while people are eating. This way, once attendees are checked in, they can just see for themselves where they have been assigned. Designate one volunteer as the 'class organizer' and have them process any class change requests in Bridge Troll. Make sure all the volunteers know who this person is, so that they can direct students that are inquiring. 
+* When the first volunteer capable of this walks in, make them a 'checkeriner' and delegate.
 * Teachers & volunteers should again be clearly marked on their name tags
 
 ### <a name="opening"/> Give opening presentation
-* This is where you tell the students a little bit about yourself, what brought you here, and go through those introductory slides that you updated. It’s also a good time to show a timeline for the day and mention that there will be a wrap-up session before everyone heads out the door. This beginning session sets the tone for the workshop and is intended to get people excited about what they’re going to learn today.
+* This is where you tell the students a little bit about yourself, what brought you here, and go through those introductory slides that you updated. It’s also a good time to show a timeline for the day and mention that there will be a wrap-up session before everyone heads out the door. This beginning session sets the tone for the workshop and is intended to get people excited about what they’re going to learn today. 
+* Give an overall schedule for the day so that both students and teachers are aware of what time breaks, lunch and end of class should be. 
 * If the hosting venue or sponsor is giving a pitch or demo, confirm the time limit before hand and hold them to it.
 * It's also a great time to announce proper recycling/composting/landfilling procedures, where the water fountain is, and where the bathrooms are.
 
 > To Do: More presentation tips? 
 
 ### <a name="remixlevels"/> Figure out who really showed up; match students & teachers accordingly
-* One good workflow is to meet with the teachers elsewhere in the space while the opening presentation is happening. You can confirm who is TAing and who is teaching, and any class level preferences. If you haven't already assigned classrooms, this is a good time to send the teacher/TA teams out to claim spaces. 
+* One good workflow is to meet with the teachers elsewhere in the space while the opening presentation is happening. You can confirm who is TAing and who is teaching, and any class level preferences. If you haven't already assigned classrooms, this is a good time to send the teacher/TA teams out to claim spaces. You can modify the class names in the Bridge Troll arrangement tool to display class locations and/or levels. 
 * There are a lot of different ways to get students into their small groups. Two strategies are outlined in great detail in the [[class level grouping guide|Class level grouping guide]].
 
 ### <a name="timekeeper"/> Keep time: remind/make all groups take breaks, eat lunch
@@ -38,22 +40,24 @@ _These bulletpoints make great checklists.  If you need to refer to them day-of,
 * Get your yeller to send 'em back to class.
 
 ### <a name="postsurvey"/> Email post-workshop survey link
-* Sometime after the last break, email the attendees a link to the post-workshop feedback survey.
+* Sometime after the last break, email the attendees a link to the post-workshop feedback survey. This currently is handled with a google docs form, but soon will be a Bridge Troll tool.
 
 ### <a name="closing"/> Closing presentation
-* Ask people for some things they learned, and get them excited about what they’ve learned and who they’ve gotten to know as a network of support to keep them involved. Encourage them to come back again, either as an attendee or volunteer. 
+* Ask people for some things they learned, and get them excited about what they’ve learned and who they’ve gotten to know as a network of support to keep them involved. Encourage them to come back again, either as an attendee or volunteer. Let them know that it is perfectly okay to alternate between student and volunteer from event to event. 
 * Make sure you've trained your teachers & TAs to encourage students to come back in each of their classes. If they had a great participant who would be able to volunteer next time in any capacity, get their name right now and pass it to the organizers.
 * These handouts provide some resources for continuing learning.
 * At the end of the presentation, put up a map of how to walk to the after party and a bit.ly link to feedback survey. Tell everyone to take the survey during the teacher retro and you'll all travel to the place of parties together.
 
-### <a name="teacherretro"/> Teacher retro
-* Draw a happy face, a neutral face, a sad face. Ask people to give you feedback for each of them, along with ideas and questions.
+### <a name="teacherretro"/> Retrospectives
+* Divide attendees up in order to do both a student and volunteer retrospective. 
+* Projecting the "I liked... I wish... I will.." starting prompts is a good way to initiate feed back from the crowd. Students don't offer much for "I will...", but volunteers often do.
+* Or draw a happy face, a neutral face, a sad face. Ask people to give you feedback for each of them, along with ideas and questions.
 * Keep the discussion focused on what happened at that workshop. Kill tangents that go too far off-topic or need to have their own meeting devoted to them. 
 * Get feedback on curriculum and organization. 
 * Try not to lead the group down interesting tangents yourself. 
 * Keep it under 20 minutes. 
 * Take a picture of the whiteboard at the end and include those in your post-workshop write up. 
-* Pass out drink tickets!
+* Pass out drink tickets to volunteers!
 
 ### <a name="afterparty"/> Party party party!
 * Go to the party.
