@@ -2,15 +2,16 @@
 _Remember that you have tons of volunteers eager to help, allow them to help by delegating!_
 ### <a name="installspace"/>Setting up a good Installfest space
 * Post the wireless SSID & password often and visibly. 
+* Post the installfest link as well, as many people will have ignored instructions and will need to install it when they get there. 
 * Power outlets will guide how the space is set up, but RailsBridge's rolling chest of power cords should help with. The Installfest should be one big room with different tables, ideally marked with OSs so that folks with similar issues can help each other. (This usually means getting more granular than just Mac/Linux/PC and breaking out older Mac OSs into their own pods.)
 
 ### <a name="welcomedesk" id="welcome_desk"></a> Welcome desk with class level confirmation
 * People will show up early. Sometimes 30 minutes early. Be ready. Depending on the space you are in, it's easy to let people slip by without checking in. Don't let them!  It helps to have signage stating that everyone, including volunteers, needs to check in and make a name tag. 
 * _Tip: set up the welcome desk (with clear signage) before setting up the rest of the Installfest. People will make themselves at home, so if you need to bail on that setup to check people in, do it!_
-* Use the Bridge Troll Organizer Console to check people in. You can easily add multiple volunteer 'checkeriners' to help speed things up. The check in page works very well on mobile, which is great if you are having WiFi issues (which you will).  If someone didn't register and RSVP, ask them to get out their laptop and do it right then and there.
-* For those who did take the survey, tell them their class level and a brief description of what it means. People tend to horribly underestimate their skill levels, so encourage upward shifts. Emphasize that they can always change classes during the workshop.
+* Use the Bridge Troll Organizer Console to check people in. You can easily add multiple volunteer 'checkeriners' to help speed things up. The check in page works very well on mobile, which is great if you are having WiFi issues (which you will).  If someone comes in who didn't register and RSVP, ask them to get out their laptop and do it right then and there.
 * When volunteers check in, have them mark their name tags in some way (star stickers or a drawn star have worked). Make sure the students know they should not be shy about asking anyone with a star (or your chosen signifier) for help. 
-* Having one person checking people in works well at first, but around start time, there will be a crush of people. If you're using Google docs for the survey form, share the survey results spreadsheet with the second welcomer so you can have two lines. 
+* When people check out for the evening, you can tell them their class level for the workshop and a brief description of what it means. People tend to horribly underestimate their skill levels, so encourage upward shifts. Emphasize that they can always change classes during the workshop.
+
 
 > To Do: further questions to get people to admit their actual skill level
 
