@@ -15,39 +15,44 @@ If this is your first time organizing, the meta-organizers will set you up with 
 ### <a name="bridgetroll"/>Post the event on Bridge Troll
 
 Bridge Troll is the RailsBridge-specific event management system we use to help Organizers have a better time. Visit [bridgetroll.herokuapp.com](http://bridgetroll.herokuapp.com), create an account, and make a new event by choosing "Organize an Event" in the bottom left.
+*ProTip: When adding organizers to the event, they can not be RSVP'd as an attendee. If you are having trouble upgrading a user to 'organizer', be sure that they are not yet currently associated with the event. 
 
 Copy an old workshop, update the details with your own, and have someone else read through it before posting. Because most people forget to update at least one piece of information, to various levels of tragedy.
 
 Bridge Troll can be used to
- * Record RSVPs for Students and Volunteers, including self-selected class level preferences
- * Email all students or volunteers
+ * Record and modify RSVPs for Students and Volunteers, including self-selected class level preferences
+ * Email all students and/or volunteers
  * Record check-ins of students and volunteers on Installfest and Workshop days
- * Arrange students and volunteers into small groups on the day of the event
+ * Arrange attending students and volunteers into small groups on the day of the event
+
+_In the week before the event, send pings to your students through Bridge Troll about Downloading & Installing Xcode so that everyone's ready for Installfest. Also remind them that they can return to Bridge Troll to modify their RSVP, class level preference, dietary and child care needs._
 
 ### <a name="meetup"/>Post the event on Meetup.com
 If your workshop is in SF, contact Bosco & Caleb for organizer permission via [sfruby.info/suggestion](http://www.sfruby.info/suggestion/), so you can post to the [SF Ruby Meetup](http://sfruby.info). You will create:
+* A Installfest
 * A workshop
 * A teacher training (can be scheduled closer to event)
 
-The workshop event you post on Meetup should be for publicity purposes **ONLY**. Set the RSVP limit to 1 (just you) and link to the Bridge Troll event for people to do their actual sign ups. If Meetup doesn't have a lot of use in your area, you can avoid making the Meetup event and try to get the word out in another way.
+The workshop event you post on Meetup should be for publicity purposes **ONLY**. It helps the first time students if you state this in the description on the Meetup workshop page. Set the RSVP limit to 1 (just you) and link to the Bridge Troll event for people to do their actual sign ups. If Meetup doesn't have a lot of use in your area, you can avoid making the Meetup event and try to get the word out in another way. Until Bridge Troll adds a comment feature, Meet Up is also a good place for attendees to ask common questions, so check on it from time to time to answer FAQs.
 
-_Continue to send pings to your attendees through Meetup about Downloading & Installing Xcode so everyone's ready for Installfest._
+Your Meetup description can simply be:
+This page is for publicity purposes only. Please RSVP for this event on Bridge Troll: [link]
 
-> Todo: Post Meetup event templates
+
 
 ### <a name="survey"/>Survey the students and volunteers
 
-Bridge Troll now handles all pre-workshop surveying of students and volunteers. (And soon will also handle follow-up surveys, too.)
+Bridge Troll now handles all pre-workshop surveying of students and volunteers. (And soon will also handle follow-up surveys, too.) You can view the survey responses on the Organizer Console.
 
 ### <a name="catering"/>Arrange catering
 
-David at Triptych has catered many RailsBridge workshops and is super easy to work with. He has a standard menu for us that is both in our budget and deliciously accommodates all the diets (vegetarian, vegans and gluten free). To order food from Triptych, give them a few weeks notice, and email david (at) triptychsf.com with something like this:
+David at Triptych has catered many RailsBridge workshops and is super easy to work with. He has a standard menu for us that is both in our budget and deliciously accommodates all the diets (meat-eaters, vegetarian, vegans and gluten free). To order food from Triptych, give them a few weeks notice, and email david (at) triptychsf.com with something like this:
 
 > Hi David,
 >
 > My name is [Sarah]. I'm organizing a RailsBridge Workshop. RailsBridge gave me your contact information and said Triptych had catered several workshops in the past. We're having a workshop on [Saturday, August 11], and we've scheduled lunch for [12:30]. It's set for the [IGN office] at [500 2nd Street]. 
 >
-> We're expecting [100] people, but RailsBridge suggested that we should give a smaller head count of [75% of the expected headcount]. As usual, we need a menu that accommodates vegans, vegetarians and gluten-free diets. I'm ccing my co-organizer, [Samantha], and including both our phone numbers below for when you need us the morning of. Do you think that will work?
+> We're expecting [100] people, but RailsBridge suggested that we should give a smaller head count of [75% of the expected headcount]. As usual, we need a menu that accommodates vegans, vegetarians and gluten-free diets and meat-eaters. I'm ccing my co-organizer, [Samantha], and including both our phone numbers below for when you need us the morning of. Do you think that will work?
 
 > Thanks,
 > You
@@ -65,7 +70,7 @@ Amounts: 2-3 slices of pizza (20 inch) for each anticipated individual.
 ### Breakfast
 Workshop breakfast is usually coffee & bagels. Arrange to have everything delivered about 15 minutes before Volunteers arrive, so there is food and coffee to greet them.
 
-Noah’s Bagels has a great catering delivery service on bagels. Order enough bagels to cover about 70% of attendees/volunteers with ‘Yes’ RSVP.  If you order hot sandwiches, let them know when you order to cut in halves and wrapped individually.  They're happy to oblige & it makes setup that much faster for you.
+Noah’s Bagels has a great catering delivery service on bagels. Order enough bagels to cover about 70% of attendees/volunteers with ‘Yes’ RSVP. If you order hot sandwiches, let them know when you order to cut in halves and wrapped individually.  They're happy to oblige & it makes setup that much faster for you.
  
 Search around the workshop’s location to find a coffee shop which will deliver it to you, if possible.  Not everyone will drink, but make sure to have plenty as many will refill their cups throughout the day. Remember to request extra cups & cream.
 (Coffee Bean has a reasonable one which includes sugar, milk, disposable cups etc. A Cambro (5 gallons) is usually MORE than enough for 70 people as not everyone will drink coffee.)
@@ -73,7 +78,7 @@ Search around the workshop’s location to find a coffee shop which will deliver
 ### Lunch
 
 Ask the host location if they have any recommendations for catering companies that they have used before. 
-Give the Caterer estimated head count; usually 70% of that number of Yes RSVPs. Ask for a Vegetarian/Vegan option for about a third of the food, and if they will want help clearing away any of the set-up they bring. 
+Give the Caterer estimated head count; usually 70% of that number of Yes RSVPs. Ask for a Vegetarian/Vegan option for about a third of the food, and if they will want help clearing away any of the set-up they bring. You can save some money if one of the organizers has a car and is willing to return the dishes to the company after the event.
 
 If the host company is not paying for it, ask for a quote to submit to Austin for approval. 
 
@@ -98,13 +103,10 @@ Take a look at the teacher training slides, which live at [http://curriculum.rai
 ### <a name="communicate"/>Communicate with everyone
 A few of the things you'll do:
 * Post/announce the workshop to the RubySF Meetup mailing list
-* Email the pre-workshop survey to the attendees, optionally including a deadline to respond
-* Remind attendees to take the pre-workshop survey
-* Remind attendees that if they have a Mac, they will need XCode prior to arriving to the Installfest
-* Email the volunteer survey to the volunteers
 * Send Installfest instructions to attendees 
+* Remind attendees that if they have a Mac, they will need XCode prior to arriving to the Installfest
 * Send logistical info (detailed schedule, parking info, etc.) 
-* Ask people at every turn to update their RSVP on Meetup.com if they can't come
+* Ask people at every turn to update their RSVP on Bridge Troll if they can't come or if their info needs changing.
 
 When people join the SF Ruby meetup to attend a workshop, they don't always realize that by default they will be getting the Ruby-6 mailing list into their inbox. In one of your emails, it's helpful to address that and explain where the email setting are or encourage them to filter the messages (but still pay attention! for future learning!). 
 
@@ -113,14 +115,14 @@ You can find templates for emails in the [[materials section|materials]] under "
 
 ### <a name="childcare"/>Arrange childcare
 * Anecdotally, few people take you up on childcare; more people tend to use nursing/pumping space, actually.
-* It's worth checking with the people who said they needed childcare to make sure they still really do.
+* It's worth checking with the people who said they needed childcare to make sure they still really do. Many do not realize that you really will provide it if they ask, and will try and make other arrangements after requesting it. Check in with them as soon as you can after the initial request to confirm. 
 * We have a list of contact info for sitters; email the workshop mailing list (which you should already be subscribed to!) at https://groups.google.com/forum/?fromgroups#!forum/railsbridge-workshops for access.
 
-### <a name="objects"/>Obtain necessary objects: power cords, flash drives, name tags, etc.
+### <a name="objects"/>Obtain necessary objects: power cords, flash drives, name tags, pens, etc.
 > To do: develop physical items plans (#1 plan: don't lose the stuff)
 
 ### <a name="slides"/>Update the pre- and post-workshop presentation slides
 * Templates and instructions live in [[Templates and Materials|Templates and Materials]]
 
 ### <a name="levels"/>Figure out student class levels
-* Use the [[grouping guide|Class level grouping guide]] to interpret the results of the pre-workshop survey
+* Use the Arrange Sections button on the Bridge Troll Organizer Console to have the COMPUTER set up a rough guesstimate of number of classes and sizes. It is very helpful to arrange the sections again the night before, after everyone has checked in at the installfest; that way you have a much better idea of what your actual workshop attendance will be. The computer's arrangement can be manually rearranged by drag-n-drop.   
