@@ -1,4 +1,5 @@
 ## Blog Posts by Individuals
+* http://codeahm.wordpress.com/2013/07/14/meetups-railsbridge-and-a-soaked-laptop/
 * http://lillielillie.tumblr.com/post/20468092441/railsbridge-changed-my-life
 * http://twobanjos.com/blog/2011/11/thrills-chills-its-installfest/
 * http://twobanjos.com/blog/2011/09/why-theres-always-a-waiting-list-for-the-railsbridge-outreach-workshops/
