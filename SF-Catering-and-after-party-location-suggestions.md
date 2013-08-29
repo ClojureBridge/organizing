@@ -7,7 +7,6 @@
 * 833 Mission Street 
 * (415) 995-5552
 
-
 ## Breakfast Catering
 ### [Noah's Bagels](http://noahscatering.com/)
 * 100 Bush St. Suite 102
@@ -30,7 +29,7 @@ Request Extra cups & cream for coffee.
 * (415) 921-4061
 * Delivery: Yes
 * Weekend Delivery: Yes
-* Delivery Charge: 5%
+* Notes: They do a really nice blend of hot, cold, meat, vegan and gluten free within budget. They deliver to SOMA and Downtown. 
 
 ### [Triptych Restaurant](http://www.triptychsf.com/catering.html)
 * (415) 703-0557	
