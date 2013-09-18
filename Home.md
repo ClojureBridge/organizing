@@ -4,7 +4,7 @@
 
 ### [[Feature Requests versus Pull Requests: a brief manifesto|Feature Requests v. Pull Requests]]
 
-### [[Meta Organizer Cookbook]]
+### [[Meta-Organizer Cookbook]]
 
 ### [[Development Glossary]]
 
