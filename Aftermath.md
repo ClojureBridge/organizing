@@ -1,4 +1,3 @@
-## Aftermath
 ### <a name="followup"/> Send follow-ups/thank yous to students, teachers, & host space
 * Within 72 hours, email students with:
  * Links to resources to continue learning
@@ -16,5 +15,3 @@
 
 ### <a name="updatewiki"/>Update this wiki with your brilliant discoveries
 * Pretty please!
-
-### [[Back to How to Organize in SF|How to Organize a Railsbridge Workshop in SF]]
