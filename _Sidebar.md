@@ -7,6 +7,7 @@ This is the [Railsbridge](http://railsbridge.org) Github Wiki.
   * [[Installfest Tasks]]
   * [[Workshop Tasks]]
   * [[Aftermath]]
+* [[Money Things]]
 * [[The Three Main Roles|Three Main Roles]]
 * [[Venue|Venue]]
 * [[Templates and Materials|Templates and Materials]]
