@@ -28,6 +28,8 @@ Here's what we consider to be appropriate expenses:
 
 Volunteers are encouraged to work with SchoolFactory to arrange for direct payment of expenses, like catering which can be paid directly.
 
+*TO DO: Explain process for working with SchoolFactory to order food._
+
 ### Finance Team
 
 The Finance Team is comprised of Lillie Chilen, Rachel Myers, Luke Morris, Austin Putman, Sarah Allen, and Sarah Mei.
