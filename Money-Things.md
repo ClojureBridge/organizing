@@ -4,9 +4,7 @@ Money! It's so fun! Or not, depending. Workshops can require dealing with some o
 
 RailsBridge is a project of Bridge Foundry, which is part of School Factory, a 501c(3). This means we can accept tax-deductible donations! There are two main paths for this: PayPal and snail mail checks. For the organizers, this means that you'll cover the initial expense, and submit the receipts for reimbursement.
 
-Obviously putting $1,200 on a credit card isn't something everyone can do. We've discussed issuing pre-paid check cards to organizers to use for their workshop. We haven't done it yet, but if this is something you think would make organizing better for you, get in touch with one of the members of the finance team and we'll see what we can work out.
-
-### Process: How to give RailsBridge Money
+### Process: How donors can give RailsBridge money
 
 Make a PayPal donation to RailsBridge via School Factory here:
 https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=FzgvZtxi_m7M_NPfXivvuceFInU_o49kbjXD3wwRawWMWNTPuL8n8Q_C020&dispatch=5885d80a13c0db1f8e263663d3faee8d0038486cd0d9a2f3f8e698d26650388a
@@ -25,11 +23,17 @@ It can be super convenient to have your sponsors order the food directly, so tha
 
 ## Getting Reimbursed
 
+If you need to be reimbursed for expenses by RailsBridge / Bridge Foundry, we'll need to give you the okay ahead of time. Email the finance team at finance@railsbridge.org for approval. Workshops which require less than $150 do not need advance approval. Once your workshop has happened, email scans / pictures of all of your receipts to finance@railsbridge.org along with your mailing address and an overview of the expenses and how much each was.
 
+Here's what we consider to be appropriate expenses:
+* Workshop expenses within approved budget for: babysitting, breakfast/lunch, after-party, USB drives, nametags, and misc supplies
+* Travel to a new location for an experienced organizer/teacher to help a local community get started
+
+Volunteers are encouraged to work with SchoolFactory to arrange for direct payment of expenses, like catering which can be paid directly.
 
 ### Finance Team
 
-
+The Finance Team is comprised of Lillie Chilen, Rachel Myers, Luke Morris, Austin Putman, Sarah Allen, and Sarah Mei.
 
 ## Sample Budget 
 
