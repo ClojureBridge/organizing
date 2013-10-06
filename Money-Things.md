@@ -1,4 +1,4 @@
-Money! It's so fun! Or not, depending. Workshops can require dealing with some of it, so here's how we roll.
+Money! It's so fun! Or not, depending. Workshops can require dealing with some of it, so here's how we roll. (We try to avoid dealing with money by having sponsors order food directly, but that's not always possible. Such is life.)
 
 ## Tax-deductible Donations
 
@@ -16,13 +16,11 @@ Milwaukee, WI 53204
 This form should also be filled out, so that a receipt can be generated and appropriate records can be kept:
 https://docs.google.com/spreadsheet/viewform?formkey=dGY2RWlyVjdmWW51LURRTW5kRnVQS3c6MA#gid=0
 
-## In-kind Donations
-
-It can be super convenient to have your sponsors order the food directly, so that you don't have to deal with reimbursement. Ask them if they'd be up for that!
-
 ## Getting Reimbursed
 
-If you need to be reimbursed for expenses by RailsBridge / Bridge Foundry, we'll need to give you the okay ahead of time. Email the finance team at finance@railsbridge.org for approval. Workshops which require less than $150 do not need advance approval. Once your workshop has happened, email scans / pictures of all of your receipts to finance@railsbridge.org along with your mailing address and an overview of the expenses and how much each was.
+If you need to be reimbursed for expenses by RailsBridge / Bridge Foundry, we'll need to give you the okay ahead of time. Email the finance team at finance@railsbridge.org for approval. Workshops which require less than $150 do not need advance approval. 
+
+Once your workshop has happened, email scans / pictures of all of your receipts to finance@railsbridge.org along with your mailing address and an overview of the expenses and how much each was.
 
 Here's what we consider to be appropriate expenses:
 * Workshop expenses within approved budget for: babysitting, breakfast/lunch, after-party, USB drives, nametags, and misc supplies
