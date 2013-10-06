@@ -4,9 +4,7 @@ Money! It's so fun! Or not, depending. Workshops can require dealing with some o
 
 RailsBridge is a project of Bridge Foundry, which is part of School Factory, a 501c(3). This means we can accept tax-deductible donations! There are two main paths for this: PayPal and snail mail checks. For the organizers, this means that you'll cover the initial expense, and submit the receipts for reimbursement.
 
-### Process: How donors can give RailsBridge money
-
-Make a PayPal donation to RailsBridge via School Factory here:
+Sponsors can make a PayPal donation to RailsBridge via School Factory here:
 https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=FzgvZtxi_m7M_NPfXivvuceFInU_o49kbjXD3wwRawWMWNTPuL8n8Q_C020&dispatch=5885d80a13c0db1f8e263663d3faee8d0038486cd0d9a2f3f8e698d26650388a
 
 Checks can be sent to:  
