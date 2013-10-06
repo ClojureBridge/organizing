@@ -7,9 +7,10 @@ RailsBridge is a project of Bridge Foundry, which is part of School Factory, a 5
 Sponsors can make a PayPal donation to RailsBridge via School Factory here:
 https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=FzgvZtxi_m7M_NPfXivvuceFInU_o49kbjXD3wwRawWMWNTPuL8n8Q_C020&dispatch=5885d80a13c0db1f8e263663d3faee8d0038486cd0d9a2f3f8e698d26650388a
 
-Checks can be sent to:  
-Bridge Foundry c/o School Factory
-706 South 5th St
+Checks can be sent to:
+  
+Bridge Foundry c/o School Factory,
+706 South 5th St, 
 Milwaukee, WI 53204
 
 This form should also be filled out, so that a receipt can be generated and appropriate records can be kept:
