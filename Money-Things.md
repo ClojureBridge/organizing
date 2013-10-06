@@ -32,7 +32,7 @@ Volunteers are encouraged to work with SchoolFactory to arrange for direct payme
 
 ### Finance Team
 
-The Finance Team is comprised of Lillie Chilen, Rachel Myers, Luke Morris, Austin Putman, Sarah Allen, and Sarah Mei.
+The Finance Team is comprised of Lillie Chilen, Rachel Myers, Luke Morris, Austin Putman, Sarah Allen, and Sarah Mei. Finance things should be emailed to finance@railsbridge.org.
 
 ## Sample Budget 
 
