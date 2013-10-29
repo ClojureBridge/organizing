@@ -18,7 +18,7 @@
 
 **evaluate** - Run code. A piece of code is said to evaluate to some result. If we have an array of four items, the code `array.length` evaluates to 4.
 
-**hash** - In Ruby, a hash is an array with labels known as "keys". The hash `{:name => "Sarah", :company => "Google"}` has two values, "Sarah" and "Google" with two keys, :name and :company. In Ruby, keys and values can by objects of any type, but keys are usually either strings or symbols.
+**hash** - In Ruby, a hash is an array with labels known as "keys". The hash `{:name => "Sarah", :company => "Google"}` has two values, "Sarah" and "Google" with two keys, :name and :company. In Ruby, keys and values can by objects of any type, but keys are usually either strings or symbols. Sometimes called a dictionary or an associative array.
 
 **instance** - When you want to create an object, in instantiate a class, creating an instance. The class is the theoretical category, but each individual thing is called an instance. For example, your specific cats kali and artemis are instances of the Cat class.
 
