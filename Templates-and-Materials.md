@@ -1,8 +1,10 @@
 ## Communications
+* Bridge Troll handles most of the communications for workshops at this point; only the post-workshop survey needs to still be sent out using Google Docs. Pre-workshop surveys are included in the RSVP process in Bridge Troll *
+
+
 * [[Announcement Templates]] For Meetup
 * [[Letters to students]] 
  * Seven emails from Take the Survey to Final Logistics
-* [[Letters to volunteers]]
 
 ## Surveys
 These are direct links to spreadsheets & forms that you can use as a template. **You must COPY THESE DOCS before using them to avoid exposing your student's or volunteer's data to anyone who click on these links.** 
