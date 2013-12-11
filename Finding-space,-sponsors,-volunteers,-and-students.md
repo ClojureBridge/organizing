@@ -60,6 +60,13 @@ In addition to reaching out to Ruby and Rails user groups, research local tech g
 * Product and Project Managers
 * Devs working in other languages
 
+Other people who are often interested in RailsBridge workshops include:
+* Lawyers
+* College students
+* Admins
+* Career changers
+* People from all backgrounds!!!
+
 Now, how are you going to get the word out? While here in San Francisco we’re pretty lucky to have things like Meetup.com, posting to local forums, putting flyers in coffee and book shops with a link to a Google form that they can use to say they’ll attend, or connecting with community colleges/local IT businesses in your area to get the word out are also good ways to go.
 
 
