@@ -35,8 +35,10 @@ Sponsors can make a PayPal donation to RailsBridge via School Factory. The form 
 #### Checks
 Checks can be sent to:
   
-Bridge Foundry c/o School Factory,
-706 South 5th St, 
+Bridge Foundry c/o School Factory  
+Shops of the Grand Ave  
+Plankinton Building  
+161 W Wisconsin Ave, #2  
 Milwaukee, WI 53204
 
 #### ACH Transfer
