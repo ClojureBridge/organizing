@@ -29,6 +29,10 @@ RailsBridge is a project of Bridge Foundry, which is part of School Factory, a 5
 **Regardless of how the money is donated, this form needs to be filled out, so that a receipt can be generated and appropriate records can be kept:**
 https://docs.google.com/spreadsheet/viewform?formkey=dGY2RWlyVjdmWW51LURRTW5kRnVQS3c6MA#gid=0
 
+#### Invoices
+
+If Sponsors require an invoice; there's a [handy-dandy form](https://docs.google.com/forms/d/1gu6WG2Nifj_579VhML_KZWpvi0bM0YpqsgZptSmU6Lw/viewform?usp=sharing&edit_requested=true)
+
 #### PayPal
 Sponsors can make a PayPal donation to RailsBridge via School Factory. The form lives at  http://railsbridge.org/help/donate.
 
