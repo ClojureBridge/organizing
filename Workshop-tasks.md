@@ -3,7 +3,7 @@ _These bulletpoints make great checklists.  If you need to refer to them day-of,
 ### <a name="setup"/> Set up: welcome desk, presentation space, classrooms, & food
 * Figure out where you're going to send people who show up without an Installfest Success Sticker so that a volunteer can check their install.
 * Make sure you know how to turn on the projector for the opening presentation
-* Use the Bridge Troll class arrangements to figure out how many class spaces you need and double check that the classrooms/conference rooms have the necessary projectors or monitors & corresponding cords
+* Figure out how many class spaces you need and double check that the classrooms/conference rooms have the necessary projectors or monitors & corresponding cords
 * Helpful signs
   * Wifi Code & Social Hashtag - #RailsBridge
   * Directions to the bathrooms
@@ -12,8 +12,8 @@ _These bulletpoints make great checklists.  If you need to refer to them day-of,
 * Put the food out in some kind of attractive manner. 
 
 ### <a name="greet"/> Greet, check in, and nametags
-* Pretty much the same drill as check in for the Installfest: check all attendees in on Bridge Troll with multiple 'checkeriners,' confirm volunteers' class level and assignment, hand out name tags, and if someone doesn't have the Installfest Success Sticker, send them to some area where their install can get checked. If they don't have a working machine by the time the opening presentation starts, send them home. 
-* If the main breakfast area has a projector, it is really helpful to put up the Bridge Troll class arrangements while people are eating. This way, once attendees are checked in, they can just see for themselves where they have been assigned. Designate one volunteer as the 'class organizer' and have them process any class change requests in Bridge Troll. Make sure all the volunteers know who this person is, so that they can direct students that are inquiring. 
+* Pretty much the same drill as check in for the Installfest: check all attendees in on your signin sheet from Eventbrite with multiple 'checkeriners,' confirm volunteers' class level and assignment, hand out name tags, and if someone doesn't have the Installfest Success Sticker, send them to some area where their install can get checked. If they don't have a working machine by the time the opening presentation starts, send them home. 
+* If the main breakfast area has a projector, it is really helpful to put up the class arrangements while people are eating. This way, once attendees are checked in, they can just see for themselves where they have been assigned. 
 * When the first volunteer capable of this walks in, make them a 'checkeriner' and delegate.
 * Teachers & volunteers should again be clearly marked on their name tags
 
@@ -23,10 +23,9 @@ _These bulletpoints make great checklists.  If you need to refer to them day-of,
 * If the hosting venue or sponsor is giving a pitch or demo, confirm the time limit before hand and hold them to it.
 * It's also a great time to announce proper recycling/composting/landfilling procedures, where the water fountain is, and where the bathrooms are.
 
-> To Do: More presentation tips? 
 
 ### <a name="remixlevels"/> Figure out who really showed up; match students & teachers accordingly
-* One good workflow is to meet with the teachers elsewhere in the space while the opening presentation is happening. You can confirm who is TAing and who is teaching, and any class level preferences. If you haven't already assigned classrooms, this is a good time to send the teacher/TA teams out to claim spaces. You can modify the class names in the Bridge Troll arrangement tool to display class locations and/or levels. 
+* One good workflow is to meet with the teachers elsewhere in the space while the opening presentation is happening. You can confirm who is TAing and who is teaching, and any class level preferences. If you haven't already assigned classrooms, this is a good time to send the teacher/TA teams out to claim spaces. 
 * There are a lot of different ways to get students into their small groups. Two strategies are outlined in great detail in the [[class level grouping guide|Class level grouping guide]].
 
 ### <a name="timekeeper"/> Keep time: remind/make all groups take breaks, eat lunch

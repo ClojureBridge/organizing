@@ -1,4 +1,4 @@
-This is the [Railsbridge](http://railsbridge.org) Github Wiki.
+This is the [ClojureBridge](http://clojurebridge.org) Github Wiki.
 * [[Cookbook Home|Cookbook]]
 * [[Minimum Viable Workshop|Minimum Viable Workshop]]
 * [[Workshop Planning Timeline]]
@@ -13,4 +13,3 @@ This is the [Railsbridge](http://railsbridge.org) Github Wiki.
 * [[Templates and Materials|Templates and Materials]]
 * [[Class Level Grouping Guide|Class-level-grouping-guide]]
 * [[Opinions|Opinions]]
-* [[Development Glossary]]
