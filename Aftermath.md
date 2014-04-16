@@ -6,12 +6,9 @@
 * Email your teachers & host space thanking them
 
 ### <a name="writeup"/> Send a writeup of the weekend to the organizer's listserve
-* You're surely already on it, but again: https://groups.google.com/forum/#!forum/railsbridge-workshops
+* You're surely already on it, but again: https://groups.google.com/forum/#!forum/clojurebridge-workshops
 * What went wrong and right?
 * Link to the the post-workshop survey results
-
-### <a name="reimburse"/> Get reimbursed for expenses
-* Send Austin, RailsBridge treasurer, the info and scanned receipts.
 
 ### <a name="updatewiki"/>Update this wiki with your brilliant discoveries
 * Pretty please!

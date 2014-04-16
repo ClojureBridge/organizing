@@ -8,22 +8,10 @@ _Remember that you have tons of volunteers eager to help, allow them to help by 
 ### <a name="welcomedesk" id="welcome_desk"></a> Welcome desk with class level confirmation
 * People will show up early. Sometimes 30 minutes early. Be ready. Depending on the space you are in, it's easy to let people slip by without checking in. Don't let them!  It helps to have signage stating that everyone, including volunteers, needs to check in and make a name tag. 
 * _Tip: set up the welcome desk (with clear signage) before setting up the rest of the Installfest. People will make themselves at home, so if you need to bail on that setup to check people in, do it!_
-* Use the Bridge Troll Organizer Console to check people in. You can easily add multiple volunteer 'checkeriners' to help speed things up. The check in page works very well on mobile, which is great if you are having WiFi issues (which you will).  If someone comes in who didn't register and RSVP, ask them to get out their laptop and do it right then and there.
+* Use yoru Eventbrite signup sheet to check people in. You can easily add multiple volunteer 'checkeriners' to help speed things up. 
 * When volunteers check in, have them mark their name tags in some way (star stickers or a drawn star have worked). Make sure the students know they should not be shy about asking anyone with a star (or your chosen signifier) for help. 
 * When people check out for the evening, you can tell them their class level for the workshop and a brief description of what it means. People tend to horribly underestimate their skill levels, so encourage upward shifts. Emphasize that they can always change classes during the workshop.
 
-
-> To Do: further questions to get people to admit their actual skill level
-
-### <a name="updates"/> Identify Github point person for real-time updates
-One (or two) people should own the updates. If you have someone around who has commit rights, they can merge your pull requests live. If not, fork the Installfest and use your own app like so:
-* Fork the installfest app somewhere in here: https://github.com/railsbridge/installfest
-* Create a heroku app named like: http://installfest-railsbridge46.heroku.com, push to that app
-* Make changes and every time a change is made, push and tell the organizer or announce the change
-* Submit a pull request (Even if a pull request is not accepted as is, it still helps prompt a solution, so don't worry if your requests don't get accepted verbatim.) 
-* At the end of the evening, delete the Heroku app, and tell students the canonical URL is http://installfest.railsbridge.org
-
-> To Do: More detailed instructions on doing this, for people new to Github.
 
 ### <a name="installfestissues" id="issues"></a> Dealing with inevitable issues
 * Wireless bandwidth is always difficult at workshops. Preparing for this and communicating it repeatedly to your students is the best bet, but people will still show up at the Installfest not having downloaded gargantuan necessary files. Having said files on flash drives will help dramatically, so make sure to have those. And don't lose them! 

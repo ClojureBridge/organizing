@@ -1,15 +1,13 @@
-_Note: if you're in San Francisco, all of this is taken care of by your lovely meta-organizers._
-
 <a name="find_community"/>
 ## Identify existing communities to collaborate with
-If you're not already involved with your local RoR scene, Google is your friend. First find your local Ruby and Rails user groups; in some cities Meetup.com is a hub for user groups. Ask the [RailsBridge mailing list](https://groups.google.com/forum/?fromgroups#!forum/railsbridge-workshops) if they know anyone in your city.
+If you're not already involved with your local Clojure scene, Google is your friend. First find your local Clojure user groups; in some cities Meetup.com is a hub for user groups. Ask the [ClojureBridge mailing list](https://groups.google.com/forum/?fromgroups#!forum/clojurebridge-workshops) if they know anyone in your city.
 
 In addition to your local tech communities, think about finding organizations that are working with whatever demographic you're focusing on, like professional organizations, chamber of commerce-type organizations, and non-profits. 
 
 <a name="find_space"/>
 ## Find a space
 Not much you can do without a space, and the space you find will determine how many students you can have at your workshop. Here are a couple ideas for where to find spaces:
-* Local companies that use Rails – this is a great recruiting opportunity for them
+* Local companies that use Clojure – this is a great recruiting opportunity for them
 * Community colleges
 * Community centers
 * Coworking spaces
@@ -25,9 +23,7 @@ Ask the venue about barriers to wheelchair accessibility, such as staircases, hi
 ## Find a sponsor
 This really ties in with finding a space, as your sponsor might be the one to provide with a space. What is a sponsor, you ask? Well, think about the things you need that cost money – the two most common being renting the space and providing your attendees with lunch. If you can get a sponsor to donate the space, then you’ve saved yourself what could be your biggest cost. Sometimes, though, someone will offer you a space but require you to pay for security and whatnot. If so, then you’ll need another sponsor to pay for that. And of course, get somebody to pick up the lunch tab if you can. Remember, sponsors get publicity for their businesses or organizations out of sponsorship – which can mean an awful lot to them! But if all else fails, if you’ve got a space but no lunch, ask your participants to brown bag it.
 
-RailsBridge can act as the sole sponsor for a workshop, but we highly encourage organizers who are able to seek sponsorship from companies and organizations in their networks, so that RailsBridge funds can be used for workshops in new cities where finding sponsorship is onerous and might prevent a workshop from taking place. For more information on sponsorship by RailsBridge, check out the [[Money Things]] section.
-
-You can also contact the [Railsbridge mailing list](https://groups.google.com/forum/#!forum/railsbridge-workshops) for ideas and help with sponsorship.
+You can also contact the [ClojureBridge mailing list](https://groups.google.com/forum/#!forum/clojurebridge-workshops) for ideas and help with sponsorship.
 
 To figure out how much you'll need to fundraise, check out the [[sample budget|Sample Budget]].
 
