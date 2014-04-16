@@ -6,7 +6,7 @@ It can help to try and define the different grouping levels as follows. Feel fre
 * Beginner: Has never really worked with any programming languages.
 * Advanced Beginner: Has worked with other programming languages and may be familiar with programming concepts, but has not worked with functional programming, Clojure.
 * Intermediate: Understands programming concepts like functions, loops, classes. May only know about Clojure without having actually used it themselves.  
-* Advanced Intermediate: Has written their own programs many times but may not have worked with Rails, Git or Heroku before. 
+* Advanced Intermediate: Has written their own programs many times but may not have worked with Clojure, Git or Heroku before. 
 * Advanced, no Clojure: Advanced work in another programming language, but new to Clojure.
 * Advanced in Clojure: Has written Clojure applications before. Possibly a good candidate for teaching or being a TA.
 
