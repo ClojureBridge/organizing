@@ -12,7 +12,7 @@
 * [Check in with Isa to include your workshop in the RailsBridge Calendar](Workshop-Planning-Tasks/#wiki-calendarlisting)
 
 ### Somewhere around three weeks before
-* [Post the event on Meetup.com](Workshop-Planning-Tasks/#wiki-meetup)
+* [Post the event on Eventbrite](Workshop-Planning-Tasks/#wiki-meetup)
 
 ### Two Weeks Before
 * [Survey the students and volunteers](Workshop-Planning-Tasks/#wiki-survey)
