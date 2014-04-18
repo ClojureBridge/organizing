@@ -4,7 +4,7 @@
 If you haven't already, join: https://groups.google.com/forum/#!forum/clojurebridge-workshops. You can email the list with questions, requests, panic, or jokes. We're all here to help. 
 
 ### <a name="confirmvenue"/>Confirm dates & details with the hosting venue
-You'll want to confirm that the dates still work for them, how much room they have (which you will use to guide the RSVP cap on Eventbrite), and lots of other details. So many, in fact, that we have a whole separate page: [[hosting venue questions|hosting venue questions]].
+You'll want to confirm that the dates work for them, how much room they have (which you will use to guide the RSVP cap on Eventbrite), and lots of other details. So many, in fact, that we have a whole separate page: [[hosting venue questions|hosting venue questions]].
 
 ### <a name="calendarlisting'/>Add your workshop to the ClojureBridge website events. 
 You can announce your workshop on the Google group or contact info at clojurebridge dot org.
@@ -51,6 +51,9 @@ Give the Caterer estimated head count; usually 70% of that number of Yes RSVPs. 
 
 If lunch will be delivered, please make sure they come at least 30 minutes beforehand so you & your team have time to set up.  When setting up, try to make sure the food is accessible by many at the same time (perhaps various stations?) as lunch time goes by so fast.
 
+###  <a name="cookies"/>Clojure cookies
+We have a history of having cookies with the Clojure logo printed on them so students can "take a bite out of Clojure." These can get expensive, though, so make sure you have enough sponsorship before you order these. Most bakeries can do logo cookies.
+
 ### <a name="afterparty"/>Make after-party reservations
 It’s always great to thank volunteers for their time and help with a free drink after the event. This also gives the workshop goers a chance to socialize more and really build some networking connections that will help support them if they decide they now have the bug and want to actually delve into this awesome world of Clojure programming!
 
@@ -81,6 +84,10 @@ You can find templates for emails in the [[materials section|materials]] under "
 * It's worth checking with the people who said they needed childcare to make sure they still really do. Many do not realize that you really will provide it if they ask, and will try and make other arrangements after requesting it. Check in with them as soon as you can after the initial request to confirm. 
 
 ### <a name="objects"/>Obtain necessary objects: power cords, flash drives, name tags, pens, etc.
+
+### <a name="swagbags"/>Swag bags
+If sponsors have given books or other giveaway goods, collect those items and bags in which to distribute them. Eric Normand has very generously offered his Intro to Clojure LispCast videos free of charge to ClojureBridge students, teachers, TAs, and organizers. So get in touch with him to find out how to distribute those: [http://purelyfunctional.tv/intro-to-clojure](http://purelyfunctional.tv/intro-to-clojure).
+
 
 ### <a name="slides"/>Update the pre- and post-workshop presentation slides
 * Templates and instructions live in [[Templates and Materials|Templates and Materials]]
