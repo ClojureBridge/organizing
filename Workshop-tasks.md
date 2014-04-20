@@ -5,7 +5,7 @@ _These bulletpoints make great checklists.  If you need to refer to them day-of,
 * Make sure you know how to turn on the projector for the opening presentation
 * Figure out how many class spaces you need and double check that the classrooms/conference rooms have the necessary projectors or monitors & corresponding cords
 * Helpful signs
-  * Wifi Code & Social Hashtag - #RailsBridge
+  * Wifi Code & Social Hashtag - #ClojureBridge
   * Directions to the bathrooms
   * Classrooms marked by class level
   * Giant "check in here" sign for welcome desk
