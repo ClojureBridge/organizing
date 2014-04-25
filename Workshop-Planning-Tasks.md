@@ -83,6 +83,10 @@ You can find templates for emails in the [[materials section|materials]] under "
 * Anecdotally, few people take you up on childcare; more people tend to use nursing/pumping space, actually.
 * It's worth checking with the people who said they needed childcare to make sure they still really do. Many do not realize that you really will provide it if they ask, and will try and make other arrangements after requesting it. Check in with them as soon as you can after the initial request to confirm. 
 
+Here are two resources you could use for finding childcare providers:
+* http://conferencechildcare.com/
+* https://www.urbansitter.com/
+
 ### <a name="objects"/>Obtain necessary objects: power cords, flash drives, name tags, pens, etc.
 
 ### <a name="swagbags"/>Swag bags
