@@ -4,6 +4,7 @@
  * Post-workshop survey link, again
  * Encouragement to come back and volunteer
 * Email your teachers & host space thanking them
+* Add your students to the ClojureBridge Alumni Google group (send list of email addresses to info@clojurebridge.org).
 
 ### <a name="writeup"/> Send a writeup of the weekend to the organizer's listserve
 * You're surely already on it, but again: https://groups.google.com/forum/#!forum/clojurebridge-workshops
