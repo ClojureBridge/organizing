@@ -1,6 +1,6 @@
 <a name="find_community"/>
 ## Identify existing communities to collaborate with
-If you're not already involved with your local Clojure scene, Google is your friend. First find your local Clojure user groups; in some cities Meetup.com is a hub for user groups. Ask the [ClojureBridge mailing list](https://groups.google.com/forum/?fromgroups#!forum/clojurebridge-workshops) if they know anyone in your city.
+If you're not already involved with your local Clojure scene, Google is your friend. First find [your local Clojure user groups](http://clojure.meetup.com/); in some cities Meetup.com is a hub for user groups. Ask the [ClojureBridge mailing list](https://groups.google.com/forum/?fromgroups#!forum/clojurebridge-workshops) if they know anyone in your city.
 
 In addition to your local tech communities, think about finding organizations that are working with whatever demographic you're focusing on, like professional organizations, chamber of commerce-type organizations, and non-profits. 
 
