@@ -15,7 +15,7 @@ Not much you can do without a space, and the space you find will determine how m
 
 What you’re looking for is a place with classroom seating for 50-80, fast and reliable Internet connectivity, plenty of power sources and, ideally, break-out rooms or separate spaces that can be used when the group breaks out into classes.
 
-Consider that participants and volunteers will arrive by a variety of transport modes.  If the space offers free parking, mention that in your Meetup.com posting and any publicity for the workshop.  Cyclists will appreciate hearing of secure bike parking.  Specify nearby transit stops in your communications to volunteers and attendees.
+Consider that participants and volunteers will arrive by a variety of transport modes.  If the space offers free parking, mention that in your event posting and any publicity for the workshop.  Cyclists will appreciate hearing of secure bike parking.  Specify nearby transit stops in your communications to volunteers and attendees.
 
 Ask the venue about barriers to wheelchair accessibility, such as staircases, high curbs and narrow doorways.  Potential attendees need to know of these before signing up so include notices of them in your communications also.
 
