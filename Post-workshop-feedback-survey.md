@@ -3,11 +3,11 @@
 ** INSERT SURVEY **
 
 1. How likely are you to recommend a ClojureBridge workshop to a friend or colleague?
-* Very likely
-* Somewhat likely
-* Neutral
-* Somewhat likely
-* Very unlikely
+- Very likely
+- Somewhat likely
+- Neutral
+- Somewhat likely
+- Very unlikely
 
 2. What was great?
 
