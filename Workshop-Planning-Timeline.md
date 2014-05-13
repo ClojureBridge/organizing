@@ -15,10 +15,10 @@
 * [Post the event on Eventbrite](Workshop-Planning-Tasks/#wiki-meetup)
 
 ### Two Weeks Before
+* [Train the teachers](Workshop-Planning-Tasks/#wiki-trainteachers)
 * [Survey the students and volunteers](Workshop-Planning-Tasks/#wiki-survey)
 * [Arrange catering](Workshop-Planning-Tasks/#wiki-catering)
 * [Make after-party reservations](Workshop-Planning-Tasks/#wiki-afterparty)
-* [Train the teachers](Workshop-Planning-Tasks/#wiki-trainteachers)
 * [Communicate with everyone](Workshop-Planning-Tasks/#wiki-communicate)
 * [Arrange childcare](Workshop-Planning-Tasks/#wiki-childcare)
 
