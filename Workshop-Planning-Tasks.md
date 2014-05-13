@@ -70,6 +70,13 @@ Set up a teacher training. This often happens during the week of the workshop. I
 
 Take a look at the teacher training slides, which live at [http://docs.railsbridge.org/workshop/more_teacher_training](http://docs.railsbridge.org/workshop/more_teacher_training). 
 
+This is very important, and we *strongly* recommend that you do this, in person, ahead of the actual workshop.
+
+From Sean, the organizer of the first San Francisco workshop:
+"[The training slide deck] has a few parts that are RailsBridge-specific but most of it is about how to encourage a safe, welcoming environment for learning, and how to ensure TAs are prepared to help everyone get the most out of the workshop: how to get students engaged, how to deal with potential issues before they escalate, how to make sure everyone is happy and learning, and not getting frustrated.
+
+Yes, it's yet one more thing to organize on everyone's calendar, and it means one more space to find a host for and more food/drink to pay for but it really is absolutely worth the effort! Trust me, it made a huge difference for us in San Francisco!"
+
 ### <a name="communicate"/>Communicate with everyone
 A few of the things you'll do:
 * Send Installfest instructions to attendees 
