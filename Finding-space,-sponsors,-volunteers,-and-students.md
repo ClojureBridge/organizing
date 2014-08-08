@@ -43,6 +43,8 @@ Hopefully you have a friend or two helping you out. And maybe a few coworkers? H
 
 For your first workshop, you’ll probably want to keep it simple and just have two roles: teachers/TAs and greeters/door-people/pizza-getters.
 
+The ideal ratio is 1 TA/Teacher to 3 students.
+
 If you don’t already have someone who’s handling logistics (signup forms, coordinating with the event host, figuring out lunch, etc.), convince one of the people you find early on to take that role. Don’t be afraid to delegate to point people! Being the point person on something is not more work, just a different set of responsibilities. No one wants to die the painful, stressful death caused by trying to do everything.
 
 <a name="find_students"/>
