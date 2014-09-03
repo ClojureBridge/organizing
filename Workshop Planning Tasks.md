@@ -12,7 +12,7 @@ You can announce your workshop on the Google group or contact info at clojurebri
 ### <a name="meetmentor"/>Meet your mentor
 If this is your first time organizing, the meta-organizers will set you up with a mentor to answer questions as they arise. Say hello now, in person or in the ether!
 
-### <a name="wiki-calendarlisting"/>Add your event to the ClojureBridge events web site
+### <a name="calendarlisting"/>Add your event to the ClojureBridge events web site
 
 Email info@clojurebridge.org with details of your event including organizer name, organizer github (for the picture of the organizer), workshop dates, location, sponsors, etc.
 
