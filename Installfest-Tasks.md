@@ -8,7 +8,7 @@ _Remember that you have tons of volunteers eager to help, allow them to help by 
 ### <a name="welcomedesk" id="welcome_desk"></a> Welcome desk with class level confirmation
 * People will show up early. Sometimes 30 minutes early. Be ready. Depending on the space you are in, it's easy to let people slip by without checking in. Don't let them!  It helps to have signage stating that everyone, including volunteers, needs to check in and make a name tag. 
 * _Tip: set up the welcome desk (with clear signage) before setting up the rest of the Installfest. People will make themselves at home, so if you need to bail on that setup to check people in, do it!_
-* Use yoru Eventbrite signup sheet to check people in. You can easily add multiple volunteer 'checkeriners' to help speed things up. 
+* Use your Eventbrite signup sheet to check people in. You can easily add multiple volunteer 'checkeriners' to help speed things up. 
 * When volunteers check in, have them mark their name tags in some way (star stickers or a drawn star have worked). Make sure the students know they should not be shy about asking anyone with a star (or your chosen signifier) for help. 
 * When people check out for the evening, you can tell them their class level for the workshop and a brief description of what it means. People tend to horribly underestimate their skill levels, so encourage upward shifts. Emphasize that they can always change classes during the workshop.
 
