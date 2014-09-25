@@ -35,8 +35,16 @@ San Francisco Bay Area, CA
 	- RailsBridge is working to make tech more diverse and welcoming by teaching programming, connecting human beings, and listening to people's needs. They organize and teach free workshops on Rails, Ruby, and HTML & CSS in cities all over the world, targeted at groups of people that are underrepresented in tech. RailsBridge is a sister organization of ClojureBridge, and ClojureBridge closely follows their model.
 	- You can view a list of upcoming RailsBridge events in San Francisco at [BridgeTroll](http://bridgetroll.org).
 
+- [San Francisco Lesbian Gay Bisexual Transgender (LGBT) Community Center](http://www.sfcenter.org)
+	- The mission of the SF LGBT Center is to connect the diverse LGBT community to opportunities, resources, and each other to achieve their vision of a stronger, healthier, and more equitable world for LGBT people and their allies. The SF LGBT Center offers career counseling, job fairs, a computer lab, social activities, mentorships, youth meals, daycare, various workshops, and much more.
+	- You can view a list of upcoming events on their [official calendar](http://www.sfcenter.org/events-calendar), or contact the organization through their [website](http://www.sfcenter.org/contact).
+
+- [TranscodeSF](http://transcodesf.org)
+	- TranscodeSF was developed in 2012, as a programming class for trans and gender non-conforming folks. Transcode teaches folks computer programming and software engineering skills through a series of classes, study groups, and hands-on events with tech industry experts. All events are free and open to all trans and GNC people and their allies.
+	- You can view a list of upcoming TranscodeSF events on their [Meetup page](http://www.meetup.com/TranscodeSF), or contact the organization via their [website](http://transcodesf.org/en/contact).
+
 - [Trans*H4CK](http://www.transhack.org)
-	- Trans*H4CK was conceived as a response to the growing social and economic barriers that plague the trans community. Trans*H4CK tackles these problems by developing new and useful open source tech products that benefit the trans and gender non conforming communities, as well as serving as a meeting point for trans and GNC individuals interested in pursuing employment and those that are currently working in the industry.
+	- Trans*H4CK was conceived as a response to the growing social and economic barriers that plague the trans community. Trans*H4CK tackles these problems by developing new and useful open source tech products that benefit the trans and gender non-conforming communities, as well as serving as a meeting point for trans and GNC individuals interested in pursuing employment and those that are currently working in the industry.
 	- You can sign up for Trans*H4CK's mailing list on their [official website](http://www.transhack.org/#!contact/c1z0x), or email [transhackathon@gmail.com](mailto:transhackathon@gmail.com) to ask questions about trans* resources or Trans*H4CK events.
 
 - [Women Who Code](https://www.womenwhocode.com)
