@@ -35,6 +35,10 @@ San Francisco Bay Area, CA
 	- RailsBridge is working to make tech more diverse and welcoming by teaching programming, connecting human beings, and listening to people's needs. They organize and teach free workshops on Rails, Ruby, and HTML & CSS in cities all over the world, targeted at groups of people that are underrepresented in tech. RailsBridge is a sister organization of ClojureBridge, and ClojureBridge closely follows their model.
 	- You can view a list of upcoming RailsBridge events in San Francisco at [BridgeTroll](http://bridgetroll.org).
 
+- [Trans*H4CK](http://www.transhack.org)
+	- Trans*H4CK was conceived as a response to the growing social and economic barriers that plague the trans community. Trans*H4CK tackles these problems by developing new and useful open source tech products that benefit the trans and gender non conforming communities, as well as serving as a meeting point for trans and GNC individuals interested in pursuing employment and those that are currently working in the industry.
+	- You can sign up for Trans*H4CK's mailing list on their [official website](http://www.transhack.org/#!contact/c1z0x), or email [transhackathon@gmail.com](mailto:transhackathon@gmail.com) to ask questions about trans* resources or Trans*H4CK events.
+
 - [Women Who Code](https://www.womenwhocode.com)
 	- Women Who Code is a global non-profit dedicated to inspiring women to excel in technology careers. They provide an avenue into tech, empower women with skills needed for professional advancement, and provide environments where networking and mentorship are valued. They have 42 (as of September 2014) chapters across the world, which organize technical study groups, coding events, and tech talks by influential women in their respective regions.
 	- You can view a list of upcoming Women Who Code East Bay events, or contact the East Bay organizers, at their [Meetup page](http://www.meetup.com/Women-Who-Code-East-Bay).
