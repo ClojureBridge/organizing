@@ -7,6 +7,10 @@ Below is a list of local feminist and/or women-in-tech groups, ordered by state 
 San Francisco Bay Area, CA
 ---------------------------
 
+- [Bay Area Clojure User Group](http://www.meetup.com/The-Bay-Area-Clojure-User-Group/)
+	- Bay Area Clojure User Group is the primary meetup for Clojurians in the Bay Area.
+	- You can view a list of upcoming events on their [Meetup page](http://www.meetup.com/The-Bay-Area-Clojure-User-Group/).
+
 - [Double Union](https://doubleunion.org)
 	- Double Union is a non-profit hacker/maker space for women in San Francisco, with a physical location in the Mission. They are intersectional feminists, women-centered, and queer- and trans-inclusive.
 	- Double Union maintains a mailing list for all of its members. You can request that a ClojureBridge event be promoted via the mailing list by reaching out to Double Union's public email address, [doubleunionsf@gmail.com](mailto:doubleunionsf@gmail.com).
