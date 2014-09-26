@@ -12,3 +12,6 @@ Below is a list of resources, created by people of diverse backgrounds, about ho
 - ["moving through a hierarchical system"](http://anarchival.net/Strange-Loop/) by Amber Adams
 - ["Strange Loop 2014: Reflections on my first conference"](http://krisc.github.io/blog/StrangeLoop2014/) by Kris Calabio
 - ["Strange Loop - You had me at 'Strange'"](http://deadlugosi.blogspot.com/2014/09/strange-loop-you-had-me-at-strange.html) by Margaret Staples
+
+## On Women in OSS
+- ["Bringing More Women to Free and Open Source Software"](https://www.youtube.com/watch?v=gDUMXEfvAME) by Karen Sandler
