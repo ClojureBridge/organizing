@@ -5,6 +5,7 @@ Below is a list of resources, created by people of diverse backgrounds, about ho
 ### From the perspectives of organizers:
 - ["Strange Loop thoughts"](http://bridgetconsulting.com/?p=131) by Bridget Hillyer
 - ["How to Have an Awesomely Inclusive and Radically Transparent Hackathon"](http://lizthedeveloper.com/how-to-have-an-awesomely-inclusive-and-radically-transparent-hackathon) by Liz Howard
+- ["Silicon Chef: Women-centric hardware hackathon"](http://aerialdomo.tumblr.com/post/63998844533/silicon-chef-women-centric-hardware-hackathon) by Christina Liu
 
 ### From the perspectives of attendees:
 - ["moving through a hierarchical system"](http://anarchival.net/Strange-Loop/) by Amber Adams
