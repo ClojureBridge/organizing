@@ -4,4 +4,6 @@ The [[Workshop Planning Timeline]] is a good place to start; it's divided into s
 
 We have past organizers who can help you figure out what to do. Email info@clojurebridge.org and we'll introduce you to an organizing mentor!
 
+[[Resources on Diversity]] provides a number of great resources on how to create a diverse, inclusive event.
+
 ### [[Go Home|Home]]
