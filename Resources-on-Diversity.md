@@ -8,6 +8,7 @@ Below is a list of resources, created by people of diverse backgrounds, about ho
 - ["Silicon Chef: Women-centric hardware hackathon"](http://aerialdomo.tumblr.com/post/63998844533/silicon-chef-women-centric-hardware-hackathon) by Christina Liu
 - ["Organizing a Successful Open Source Sprint"](http://bitchincode.wordpress.com/2014/04/16/organizing-a-successful-open-source-sprint-a-tale-of-cupcakes-and-rest) by Becka Robbins
 - ["Python for Ada!"](http://www.roguelynn.com/words/Support-Ada-Initiative) by Lynn Root
+- ["So you want to put on a diverse, inclusive conference"](http://www.ashedryden.com/blog/so-you-want-to-put-on-a-diverse-inclusive-conference) by Ashe Dryden
 
 ### From the perspectives of attendees:
 - ["moving through a hierarchical system"](http://anarchival.net/Strange-Loop/) by Amber Adams
