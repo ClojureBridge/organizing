@@ -21,6 +21,7 @@ Below is a list of resources, created by people of diverse backgrounds, about ho
 
 ### Tech Industry Culture
 - ["Dear Marginalized People Coming Into Tech"](http://modelviewculture.com/pieces/dear-marginalized-people-coming-into-tech) by Kronda Adair
+- ["We Need Critique in Tech"](http://modelviewculture.com/pieces/we-need-critique-in-tech) by Ashe Dryden
 
 ### Diversity in OSS
 - ["Bringing More Women to Free and Open Source Software"](https://www.youtube.com/watch?v=gDUMXEfvAME) by Karen Sandler
