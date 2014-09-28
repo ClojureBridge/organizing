@@ -17,5 +17,10 @@ Below is a list of resources, created by people of diverse backgrounds, about ho
 - ["The week of Strange Loop"](http://madhuvishy.in/posts/the-week-of-strange-loop.html) by Madhu Vishy
 - ["Strange Loop 2014"](http://jvns.ca/blog/2014/09/24/strange-loop-2014/) by Julia Evans
 
-## On Women in OSS
+## On Diversity in Tech
+
+### Tech Industry Culture
+- ["Dear Marginalized People Coming Into Tech"](http://modelviewculture.com/pieces/dear-marginalized-people-coming-into-tech) by Kronda Adair
+
+### Diversity in OSS
 - ["Bringing More Women to Free and Open Source Software"](https://www.youtube.com/watch?v=gDUMXEfvAME) by Karen Sandler
