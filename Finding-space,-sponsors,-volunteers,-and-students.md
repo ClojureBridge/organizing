@@ -4,7 +4,7 @@ If you're not already involved with your local Clojure scene, Google is your fri
 
 In addition to your local tech communities, think about finding organizations that are working with whatever demographic you're focusing on, like professional organizations, chamber of commerce-type organizations, and non-profits. 
 
-You can find a partial list of local Clojure- and women-in-teach-related organizations [here](https://github.com/ClojureBridge/organizing/wiki/Local-Organizations).
+You can find a partial list of local Clojure- and diversity-in-tech-related organizations [here](https://github.com/ClojureBridge/organizing/wiki/Local-Organizations).
 
 <a name="find_space"/>
 ## Find a space
