@@ -1,1 +1,1 @@
-### [[The ClojureBridge Cookbook|Cookbook]]: How to Organize Every Workshop
+### [[The ClojureBridge Cookbook|Cookbook]]: How to Organize A Workshop
