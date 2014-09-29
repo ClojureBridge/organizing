@@ -1,0 +1,1 @@
+Take a look at the teacher training slides, which live at http://docs.railsbridge.org/workshop/more_teacher_training.
