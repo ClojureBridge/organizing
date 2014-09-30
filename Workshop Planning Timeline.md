@@ -1,8 +1,8 @@
 ### Finding space, sponsors, volunteers & students
 * [Identify existing communities to collaborate with](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_community)
+* [Recruit volunteers to teach, TA, and help you plan](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_volunteers)
 * [Find a space](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_space)
 * [Find a sponsor](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_sponsor)
-* [Recruit volunteers to teach, TA, and help you plan](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_volunteers)
 * [Recruit participants](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_students)
 
 ### First steps once the major details are ironed out
