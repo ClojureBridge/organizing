@@ -57,16 +57,24 @@ San Francisco Bay Area, CA
 
 New York City and Greater Metropolitan Area
 -------------------------------------------
+- [Black Girls CODE](http://www.blackgirlscode.com/)
+	- Started in August 2011, this organization reaches out to young girls from underrepresented communities through workshops and after school programs. According to their site, they have used Scratch or Ruby on Rails in the past.
+	- The local chapter of Black Girls Code has a twitter [account](https://twitter.com/VolunteerBGCNY), and they are looking for volunteers. They can also be emailed to [newyorkchapter@blackgirlscode.org](mailto:newyorkchapter@blackgirlscode.org).
+
 - [Girl Develop It](http://www.girldevelopit.com)
 	- Girl Develop It is a non-profit organization that exists to provide affordable and accessible programs to women who want to learn web and software development through mentorship and hands-on instruction. 
 	- You can contact the local organizers of Girl Develop It - New York through through their chapter's [website](http://www.girldevelopit.com/chapters/new-york) 
 
+- [NYC Tech Latinas](http://www.meetup.com/NYC-Latinas-in-Technology/)
+	- This Meetup group has been around for a year, with over 100 members.
+	- You can contact the local organizers through the [meetup] site, or by checking out their Twitter [page](https://twitter.com/nyctechlatinas).
+
 - [Women In Tech New York City](http://www.womenintechnyc.com/)
-        - Women In Tech is part of the larger NY Tech Meetup [group](http://www.meetup.com/ny-tech/), and the list of events can be seen on their [website](http://www.womenintechnyc.com/events). You can sign up for their newsletter on their main page.
-        - As of September 2014, the NY Tech Meetup group has over 41K members. The group helped sponsor a report about the growing tech [economy](http://www.nyctecheconomy.com/) in the city.
+	- Women In Tech is part of the larger NY Tech Meetup [group](http://www.meetup.com/ny-tech/), and the list of events can be seen on their [website](http://www.womenintechnyc.com/events). You can sign up for their newsletter on their main page.
+	- As of September 2014, the NY Tech Meetup group has over 41K members. The group helped sponsor a report about the growing tech [economy](http://www.nyctecheconomy.com/) in the city.
 
 - [Women Who Code](https://www.womenwhocode.com)
 	- Women Who Code has a local chapter in NYC. For more information, see the Women Who Code entry under SF.
 	- You can view a list of upcoming Women Who NYC events, or contact the NYC organizers, at their [Meetup page](http://www.meetup.com/WomenWhoCodeNYC).
-        - Follow the local chapter Twitter handle [@WomenWhoCodeNYC](https://twitter.com/womenwhocodenyc)
+	- Follow the local chapter Twitter handle [@WomenWhoCodeNYC](https://twitter.com/womenwhocodenyc)
 	- You can request that your ClojureBridge event be posted in Women Who Code's worldwide online newsletter by emailing [womenwhocode@gmail.com](mailto:womenwhocode@gmail.com).
