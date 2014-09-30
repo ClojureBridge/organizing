@@ -6,6 +6,22 @@ In addition to your local tech communities, think about finding organizations th
 
 You can find a partial list of local Clojure- and diversity-in-tech-related organizations [here](https://github.com/ClojureBridge/organizing/wiki/Local-Organizations).
 
+<a name="find_volunteers"/>
+## Recruit volunteers to teach, TA, and help you organize
+Hopefully you have a friend or two helping you out. And maybe a few coworkers? Here are some of the positions you will need to fill:
+* Organizers (that’s you!)
+* Teacher trainers (might be you, as well)
+* Teachers
+* TAs
+* Installers
+* Greeters/door-people/pizza-getters
+
+For your first workshop, you’ll probably want to keep it simple and just have two roles: teachers/TAs and greeters/door-people/pizza-getters.
+
+The ideal ratio is 1 TA/Teacher to 3 students.
+
+If you don’t already have someone who’s handling logistics (signup forms, coordinating with the event host, figuring out lunch, etc.), convince one of the people you find early on to take that role. Don’t be afraid to delegate to point people! Being the point person on something is not more work, just a different set of responsibilities. No one wants to die the painful, stressful death caused by trying to do everything.
+
 <a name="find_space"/>
 ## Find a space
 Not much you can do without a space, and the space you find will determine how many students you can have at your workshop. Here are a couple ideas for where to find spaces:
@@ -32,22 +48,6 @@ To figure out how much you'll need to fundraise, check out the [[sample budget|S
 <a name="set_date"/>
 ## Set a date and time 
 Plan the Installfest for a Friday evening and the workshop the following Saturday. Trust us, you need that extra day for the Installfest – students can’t do the workshop without it, it’s messy and takes everybody vastly different amounts of time.
-
-<a name="find_volunteers"/>
-## Recruit volunteers to teach, TA, and help you organize
-Hopefully you have a friend or two helping you out. And maybe a few coworkers? Here are some of the positions you will need to fill:
-* Organizers (that’s you!)
-* Teacher trainers (might be you, as well)
-* Teachers
-* TAs
-* Installers
-* Greeters/door-people/pizza-getters
-
-For your first workshop, you’ll probably want to keep it simple and just have two roles: teachers/TAs and greeters/door-people/pizza-getters.
-
-The ideal ratio is 1 TA/Teacher to 3 students.
-
-If you don’t already have someone who’s handling logistics (signup forms, coordinating with the event host, figuring out lunch, etc.), convince one of the people you find early on to take that role. Don’t be afraid to delegate to point people! Being the point person on something is not more work, just a different set of responsibilities. No one wants to die the painful, stressful death caused by trying to do everything.
 
 <a name="find_students"/>
 ## Recruit participants 
