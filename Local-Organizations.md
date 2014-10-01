@@ -78,3 +78,16 @@ New York City and Greater Metropolitan Area
 	- You can view a list of upcoming Women Who NYC events, or contact the NYC organizers, at their [Meetup page](http://www.meetup.com/WomenWhoCodeNYC).
 	- Follow the local chapter Twitter handle [@WomenWhoCodeNYC](https://twitter.com/womenwhocodenyc)
 	- You can request that your ClojureBridge event be posted in Women Who Code's worldwide online newsletter by emailing [womenwhocode@gmail.com](mailto:womenwhocode@gmail.com).
+
+- [Ladies Who Code](http://www.meetup.com/Ladies-Who-Code/)
+	- Monthly meetup in NYC, very active and well attended by women with a wide variety of backgrounds, preferred languages, and experience levels.
+	- On twitter: [@ladieswhocode](https://twitter.com/ladieswhocode)
+
+- [NYC Ruby Women](http://www.meetup.com/NYC-Ruby-Women/)
+	- Monthly meetup in NYC, which has been around for ~3 years with over 500 members.
+	- On twitter: [@NYCRubyWomen](https://twitter.com/nycrubywomen)
+
+- [NYC PyLadies](http://www.meetup.com/NYC-PyLadies/)
+	- Local chapter of the larger PyLadies organization, with multiple events throughout every month.
+        - For more information, see the PyLadies entry under SF.
+	- On twitter: [@NYCPyLadies](https://twitter.com/NYCPyLadies)
