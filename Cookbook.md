@@ -6,4 +6,6 @@ We have past organizers who can help you figure out what to do. Email info@cloju
 
 [[Resources on Diversity]] provides a number of great resources on how to create a diverse, inclusive event.
 
+ClojureBridge follows the BridgeFoundry [Code of Conduct](http://bridgefoundry.org/code-of-conduct/).
+
 ### [[Go Home|Home]]
