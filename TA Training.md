@@ -1,3 +1,7 @@
+* **Introduce yourselves!**
+
+  Spend some time learning each others' names, along with everyone's backgrounds in Clojure, functional programming, and programming at large.
+
 * **Review the RailsBridge teacher training slides.**
   
   They live at http://docs.railsbridge.org/workshop/more_teacher_training.
