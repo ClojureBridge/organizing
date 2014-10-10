@@ -1,17 +1,15 @@
-### Finding space, sponsors, volunteers & students
+### First Steps
+* [Join the organizer's listserve](Workshop-Planning-Tasks/#wiki-joinlistserve)
+* [Meet your workshop mentor, if first time organizing](Workshop-Planning-Tasks/#wiki-meetmentor)
 * [Identify existing communities to collaborate with](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_community)
 * [Recruit volunteers to teach, TA, and help you plan](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_volunteers)
 * [Find a space](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_space)
 * [Find a sponsor](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_sponsor)
 * [Recruit participants](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_students)
-
-### First steps once the major details are ironed out
-* [Join the organizer's listserve](Workshop-Planning-Tasks/#wiki-joinlistserve)
 * [Confirm dates & details with the hosting venue](Workshop-Planning-Tasks/#wiki-confirmvenue)
-* [Meet your workshop mentor, if first time organizing](Workshop-Planning-Tasks/#wiki-meetmentor)
 * [Add your event to the ClojureBridge events web site](Workshop-Planning-Tasks/#wiki-calendarlisting)
 
-### Somewhere around three weeks before
+### Somewhere Around Three Weeks Before
 * [Post the event on Eventbrite](Workshop-Planning-Tasks/#wiki-meetup)
 
 ### Two Weeks Before
