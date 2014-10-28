@@ -1,5 +1,7 @@
 ## What makes a workshop a ClojureBridge Workshop?
-* A commitment by the organizers, teachers, and students to increasing diversity in tech.
+* A commitment by the organizers, teachers, and students to increasing diversity in tech. You can see what that looks like by reading our ["Resources on Diversity" page](https://github.com/ClojureBridge/organizing/wiki/Resources-on-Diversity), or by reading how we typically describe ClojureBridge workshops to attendees:
+> This workshop is for women interested in learning programming with Clojure, an expressive, general-purpose programming language. Men, you are welcome if you know a woman who would like to attend and come to learn Clojure together. ClojureBridge is emphatically queer and trans* friendly.
+
 * It's free!
 * An Installfest in which participants end up with a functional development environment on their machines.
 * A Workshop day in which participants do hands-on work on some kind of curriculum.
