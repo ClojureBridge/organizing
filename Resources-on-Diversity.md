@@ -10,6 +10,7 @@ Below is a list of resources, created by people of diverse backgrounds, about ho
 - ["Organizing a Successful Open Source Sprint"](http://bitchincode.wordpress.com/2014/04/16/organizing-a-successful-open-source-sprint-a-tale-of-cupcakes-and-rest) by Becka Robbins
 - ["Python for Ada!"](http://www.roguelynn.com/words/Support-Ada-Initiative) by Lynn Root
 - ["Interview: Ada Developers Academy"](http://modelviewculture.com/pieces/interview-ada-developers-academy) by Elise Worthy
+- ["A Code of Conduct is Not Enough"](https://modelviewculture.com/pieces/a-code-of-conduct-is-not-enough) by Maggie Zhou, Alex Clemmer, and Lindsey Kuper
 
 ### From the perspectives of attendees:
 - ["moving through a hierarchical system"](http://anarchival.net/Strange-Loop/) by Amber Adams
