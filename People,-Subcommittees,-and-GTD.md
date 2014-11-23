@@ -6,11 +6,11 @@ Please join & send any questions to the [workshop organizer's listserve/Google g
 ClojureBridge has a seven person board.
 * Bridget Hillyer (bridget.hillyer (at) gmail (dot) com)
 * Maggie Litton
-* Clinton Dreisbach
 * Yoko Harada
 * Jamie Kite
 * Sean Corfield
 * Jennifer Eliuk
+* Katherine Fellows
 
 
 ### Major Curriculum Contributors
