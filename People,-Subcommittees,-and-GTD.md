@@ -15,8 +15,9 @@ ClojureBridge has a seven person board.
 
 ### Major Curriculum Contributors
 These folks are good to talk to if you have questions, comments, or thoughts about the curriculum. Or just submit a pull request! 
-* Clinton Dreisbach
-* Other people!
+* Bridget Hillyer
+* Sean Corfield
+* Yoko Harada
 
 ### Online Presence Keepers
 Jamie Kite is the point person for updates to the main ClojureBridge site, http://www.clojurebridge.org.
