@@ -20,6 +20,7 @@ Below is a list of resources, created by people of diverse backgrounds, about ho
 - ["Unlocking the Invisible Elevator"](https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences) by Liz Henry
 - ["Strange Loop - You had me at 'Strange'"](http://deadlugosi.blogspot.com/2014/09/strange-loop-you-had-me-at-strange.html) by Margaret Staples
 - ["The week of Strange Loop"](http://madhuvishy.in/posts/the-week-of-strange-loop.html) by Madhu Vishy
+- ["Five Days of Clojure Immersion at ClojureConj"](http://www.codeadventurer.com/2014/11/22/five-days-of-clojure-immersion) by Persa Zula
 
 ## On Diversity in Tech
 
