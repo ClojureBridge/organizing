@@ -10,6 +10,6 @@ There's a technical requirement for the circus mistress because the presentation
 
 There are plenty of other things that could go into one person's bucket over the other. The three roles have more and less work at various points, so it might make sense for you to trade off being stage director before and during the weekend, in addition to your other role. 
 
-Mostly, talk to your co-organizer about their strengths, weaknesses, and what they want to do. Figure out how to have to most fun. 
+Mostly, talk to your co-organizer about their strengths, weaknesses, and what they want to do. Figure out how to have the most fun. 
 
 ### [[Back to the Cookbook|Cookbook]]
