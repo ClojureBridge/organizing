@@ -69,7 +69,7 @@ Mention the after-party early and often. The more times you mention the fact and
 
 If a potential host demands a minimum bar tab or rental fee, go elsewhere! Plenty of places don’t, but some places are in the business of hosting parties. This tends to run $1000 and up, which is too expensive unless you have an after-party sponsor.
 
-###  <a name="trainteachers"/>Train the teachers
+###  <a name="wiki-trainteachers"/>Train the teachers
 Set up a teacher training. This often happens during the week of the workshop. If you can't get a separate evening, you can do it during the Installfest, but try to get extra volunteers if you do that. Don't want to leave the student high and dry while teachers discuss best practices. 
 
 Take a look at the teacher training slides, which live at [http://docs.railsbridge.org/workshop/more_teacher_training](http://docs.railsbridge.org/workshop/more_teacher_training). 
