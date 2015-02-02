@@ -37,6 +37,8 @@ Consider that participants and volunteers will arrive by a variety of transport 
 
 Ask the venue about barriers to wheelchair accessibility, such as staircases, high curbs and narrow doorways.  Potential attendees need to know of these before signing up so include notices of them in your communications also.
 
+Remember that you'll also need a space for Teacher Training some time in the week or so prior to the workshop. This will be an easier space to find, since it will be just for teachers and teaching assistants.
+
 <a name="find_sponsor"/>
 ## Find a sponsor
 This really ties in with finding a space, as your sponsor might be the one to provide with a space. What is a sponsor, you ask? Well, think about the things you need that cost money – the two most common being renting the space and providing your attendees with lunch. If you can get a sponsor to donate the space, then you’ve saved yourself what could be your biggest cost. Sometimes, though, someone will offer you a space but require you to pay for security and whatnot. If so, then you’ll need another sponsor to pay for that. And of course, get somebody to pick up the lunch tab if you can. Remember, sponsors get publicity for their businesses or organizations out of sponsorship – which can mean an awful lot to them! But if all else fails, if you’ve got a space but no lunch, ask your participants to brown bag it.
