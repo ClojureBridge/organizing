@@ -1,5 +1,5 @@
 ### First Steps
-* [Join the organizer's listserve](Workshop-Planning-Tasks/#wiki-joinlistserve)
+* [Join the organizer's listserve](Workshop-Planning-Tasks#joinlistserve)
 * [Meet your workshop mentor, if first time organizing](Workshop-Planning-Tasks/#wiki-meetmentor)
 * [Identify existing communities to collaborate with](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_community)
 * [Recruit volunteers to teach, TA, and help you plan](Finding-space,-sponsors,-volunteers,-and-students/#wiki-find_volunteers)
