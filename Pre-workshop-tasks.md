@@ -2,7 +2,7 @@
 If you haven't already, join: https://groups.google.com/forum/#!forum/clojurebridge-workshops. You can email the list with questions, requests, panic, or jokes. We're all here to help. 
 
 ### <a name="confirmvenue"/>Confirm dates & details with the hosting venue
-The ClojureBridge meta-organizers have introduced you via email to the contact person at the hosting venue. You'll want to confirm that the dates still work for them, how much room they have (which you will use to guide the RSVP cap on Meetup), and lots of other details. So many, in fact, that we have a whole separate page: [[hosting venue questions|hosting venue questions]].
+The ClojureBridge meta-organizers have introduced you via email to the contact person at the hosting venue. You'll want to confirm that the dates still work for them, how much room they have (which you will use to guide the RSVP cap on Meetup), and lots of other details. So many, in fact, that we have a whole separate page: [hosting venue questions|hosting venue questions](hosting venue questions|hosting venue questions.md).
 
 ## Post the event
 
@@ -11,11 +11,11 @@ In practice, using a closed, invite-only system for recruiting instructors and a
 ## Survey the students and volunteers
 We have a pre-workshop survey that you will send to participants that will help gauge who actually plans on coming and what class levels they will be in. You can add the survey to Eventbrite.
 
-*** ADD SURVEY QUESTIONS***
+** ADD SURVEY QUESTIONS**
 
 ## Arrange catering
 
-As you are getting quotes for the catering, check out the [[sample budget|sample budget]]. Totals will vary depending on the number of folks there and where you're getting the food, but you shouldn't spend more than $1,500 for the whole workshop.
+As you are getting quotes for the catering, check out the [sample budget](Sample-Budget.md). Totals will vary depending on the number of folks there and where you're getting the food, but you shouldn't spend more than $1,500 for the whole workshop.
 
 
 ### Installfest
@@ -61,13 +61,13 @@ A few of the things you'll do:
 * Send logistical info (detailed schedule, parking info, etc.) 
 * Ask people at every turn to update their RSVP on Eventbrite if they can't come
 
-You can find templates for emails in the [[materials section|materials]] under "Communication".
+You can find templates for emails in the [materials section](materials.md) under "Communication".
 
 ## Obtain necessary objects: power cords, flash drives, name tags, etc.
 
 ## Update the pre- and post-workshop presentation slides
 
 ## Figure out student class levels
-* Use the [[grouping guide|Class level grouping guide]] to interpret the results of the pre-workshop survey
+* Use the [grouping guide](Class-level-grouping-guide.md) to interpret the results of the pre-workshop survey
 
-### [[Back to How to Organize in SF|How to Organize a Railsbridge Workshop in SF]]
+### [Back to Cookbook](Cookbook.md)
