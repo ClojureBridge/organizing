@@ -4,7 +4,7 @@
 If you haven't already, join: https://groups.google.com/forum/#!forum/clojurebridge-workshops. You can email the list with questions, requests, panic, or jokes. We're all here to help. 
 
 ### <a name="confirmvenue"/>Confirm dates & details with the hosting venue
-You'll want to confirm that the dates work for them, how much room they have (which you will use to guide the RSVP cap on Eventbrite), and lots of other details. So many, in fact, that we have a whole separate page: [[hosting venue questions|hosting venue questions]].
+You'll want to confirm that the dates work for them, how much room they have (which you will use to guide the RSVP cap on Eventbrite), and lots of other details. So many, in fact, that we have a whole separate page: [hosting venue questions](Hosting-venue-questions.md).
 
 ### <a name="calendarlisting'/>Add your workshop to the ClojureBridge website events. 
 You can announce your workshop on the Google group or contact info at clojurebridge dot org.
@@ -35,7 +35,7 @@ Eventbrite can handle all pre-workshop surveying of students and volunteers.
 
 ### <a name="catering"/>Arrange catering
 
-As you are getting quotes for the catering, check out the [[sample budget|sample budget]]. Totals will vary depending on the number of folks there and where you're getting the food, but you shouldn't spend more than $1,500 for the whole workshop.
+As you are getting quotes for the catering, check out the [sample budget|sample budget](sample budget|sample budget.md). Totals will vary depending on the number of folks there and where you're getting the food, but you shouldn't spend more than $1,500 for the whole workshop.
 
 ### Installfest
 Installfest food is pizza and hopefully salad. If the host has a beer fridge or kegerator to share, that's awesome, otherwise, get some beer, too. 
@@ -88,7 +88,7 @@ A few of the things you'll do:
 * Send logistical info (detailed schedule, parking info, etc.) 
 * Ask people at every turn to update their RSVP on Eventbrite if they can't come or if their info needs changing.
 
-You can find templates for emails in the [[materials section|materials]] under "Communication".
+You can find templates for emails in the [materials section](Templates-and-Materials.md) under "Communication".
 
 
 ### <a name="childcare"/>Arrange childcare
@@ -106,7 +106,7 @@ If sponsors have given books or other giveaway goods, collect those items and ba
 
 
 ### <a name="slides"/>Update the pre- and post-workshop presentation slides
-* Templates and instructions live in [[Templates and Materials|Templates and Materials]]
+* Templates and instructions live in [Templates and Materials](Templates-and-Materials.md)
 
 ### <a name="levels"/>Figure out student class levels
 * Use the set up a rough guesstimate of number of groups and sizes. It is very helpful to arrange the sections again the night before, after everyone has checked in at the installfest; that way you have a much better idea of what your actual workshop attendance will be. 
