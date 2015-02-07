@@ -262,4 +262,4 @@ And if you're curious about the Clojure programming language, some good introduc
 
 We hope to see you next time!
 
-### [[Back to Templates and Materials|Templates and Materials]]
+### [Back to Templates and Materials](Templates-and-Materials.md)
