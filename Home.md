@@ -8,3 +8,18 @@ We have past organizers who can help you figure out what to do. Email info@cloju
 
 ClojureBridge follows the BridgeFoundry [Code of
 Conduct](http://bridgefoundry.org/code-of-conduct/).
+
+* [Cookbook Home](Home.md)
+* [Minimum Viable Workshop](Minimum-Viable-Workshop.md)
+* [Workshop Planning Timeline](Workshop-planning-timeline.md)
+  * [Finding space, sponsors, volunteers, and students](Finding-space-sponsors-volunteers-and-students.md)
+  * [Workshop Planning Tasks](Workshop-planning-tasks.md)
+  * [Installfest Tasks](Installfest-tasks.md)
+  * [Workshop Tasks](Workshop-tasks.md)
+  * [Aftermath](Aftermath.md)
+* [Money Things](Money-things.md)
+* [The Three Main Roles](Three-Main-Roles.md)
+* [Venue](Venue.md)
+* [Templates and Materials](Templates-and-Materials.md)
+* [Class Level Grouping Guide](Class-level-grouping-guide.md)
+* [Opinions](Opinions.md)
