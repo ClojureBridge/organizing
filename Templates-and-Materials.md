@@ -12,4 +12,4 @@
 * [Announcement Templates](Announcement-Templates.md)
 * [Letters to students](Letters-to-students.md)
 
-### [Back to Cookbook home](Home.md)
+### [Back to Cookbook home](README.md)

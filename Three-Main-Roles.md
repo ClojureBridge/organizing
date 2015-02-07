@@ -12,4 +12,4 @@ There are plenty of other things that could go into one person's bucket over the
 
 Mostly, talk to your co-organizer about their strengths, weaknesses, and what they want to do. Figure out how to have the most fun.
 
-### [Back to the Cookbook](Home.md)
+### [Back to the Cookbook](README.md)
