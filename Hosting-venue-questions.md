@@ -50,4 +50,4 @@ Location Questionnaire
 * Would they like to provide company-branded stickers for Installfest?
 * Would they like to provide any other promotional shwag, such as company t-shirts, buttons, etc?
 
-### [[Back to pre-workshop tasks|Pre workshop tasks]]
+### [Back to pre-workshop tasks](Pre-workshop-tasks.md)
