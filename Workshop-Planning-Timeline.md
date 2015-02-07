@@ -1,0 +1,52 @@
+### First Steps
+* [Join the organizer's listserve](Workshop-Planning-Tasks#joinlistserve)
+* [Meet your workshop mentor, if first time organizing](Workshop-Planning-Tasks#meetmentor)
+* [Identify existing communities to collaborate with](Finding-space,-sponsors,-volunteers,-and-students#find_community)
+* [Recruit volunteers to teach, TA, and help you plan](Finding-space,-sponsors,-volunteers,-and-students#find_volunteers)
+* [Find a space](Finding-space,-sponsors,-volunteers,-and-students#find_space)
+* [Find a sponsor](Finding-space,-sponsors,-volunteers,-and-students#find_sponsor)
+* [Recruit participants](Finding-space,-sponsors,-volunteers,-and-students#find_students)
+* [Confirm dates & details with the hosting venue](Workshop-Planning-Tasks#confirmvenue)
+* [Add your event to the ClojureBridge events web site](Workshop-Planning-Tasks#calendarlisting)
+
+### Somewhere Around Three Weeks Before
+* [Post the event on Eventbrite](Workshop-Planning-Tasks#meetup)
+
+### Two Weeks Before
+* [Train the teachers](Workshop-Planning-Tasks#trainteachers)
+* [Survey the students and volunteers](Workshop-Planning-Tasks#survey)
+* [Arrange catering](Workshop-Planning-Tasks#catering)
+* [Make after-party reservations](Workshop-Planning-Tasks#afterparty)
+* [Communicate with everyone](Workshop-Planning-Tasks#communicate)
+* [Arrange childcare](Workshop-Planning-Tasks#childcare)
+
+### One Week Before
+* [Obtain necessary objects (power cords, flash drives, name tags, etc.)](Workshop-Planning-Tasks#objects)
+* [Update the pre- and post-workshop presentation slides](Workshop-Planning-Tasks#slides)
+* [Figure out student class levels](Workshop-Planning-Tasks#levels)
+
+### At the Installfest
+* [Set up a good Installfest space](Workshop-Planning-Tasks#installspace)
+* [Set up a welcome desk with class level confirmation](Workshop-Planning-Tasks#welcomedesk)
+* [Identify a Github point person for real-time updates](Workshop-Planning-Tasks#updates)
+* [Deal with inevitable issues](Workshop-Planning-Tasks#installfestissues)
+
+### At the Workshop
+* [Set up! Welcome desk, presentation space,  classrooms, & food](Workshop-tasks#setup)
+* [Greet, check in, and nametag students and volunteers](Workshop-tasks#greet)
+* [Give the opening presentation](Workshop-tasks#opening)
+* [Figure out who really showed up; match students & teachers accordingly](Workshop-tasks#remixlevels)
+* [Keep time: remind/make all groups take breaks](Workshop-tasks#timekeeper)
+* [Feed people lunch, make them go back to class](Workshop-tasks#lunch)
+* [Email post-workshop survey link](Workshop-tasks#postsurvey)
+* [Give the closing presentation](Workshop-tasks#closing)
+* [Facilitate the teacher retro](Workshop-tasks#teacherretro)
+* [Party party party!](Workshop-tasks#afterparty)
+
+### Aftermath
+* [Send follow-up encouragement to students, thank yous to teachers & host space](aftermath#followup)
+* [Send a writeup and survey results to the organizer's listserve](aftermath#writeup)
+* [Get reimbursed](aftermath#reimburse)
+* [Update this wiki with your brilliant discoveries](aftermath#updatewiki)
+
+### [[Back to Cookbook Home|Cookbook]]
