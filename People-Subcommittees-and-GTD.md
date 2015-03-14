@@ -3,15 +3,13 @@ ClojureBridge likes to play things fast and loose. Therefore, we don't have a lo
 Please join & send any questions to the [workshop organizer's listserve/Google group](https://groups.google.com/forum/#!forum/clojurebridge-workshops). We all like being in the loop, and those that don't subscribe to the daily digest :D
 
 ### The Board
-ClojureBridge has a seven person board.
-* Bridget Hillyer (bridget.hillyer (at) gmail (dot) com)
-* Maggie Litton
-* Yoko Harada
-* Jamie Kite
-* Sean Corfield
-* Jennifer Eliuk
-* Katherine Fellows
+ClojureBridge currently has a five-person board:
 
+* Katherine "kf" Fellows
+* Yoko Harada
+* Ali King
+* Jamie Kite
+* Bhaskar "Buro" Mookerji
 
 ### Major Curriculum Contributors
 These folks are good to talk to if you have questions, comments, or thoughts about the curriculum. Or just submit a pull request! 
