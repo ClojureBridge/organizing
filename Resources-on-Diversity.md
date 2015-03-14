@@ -3,6 +3,7 @@ Below is a list of resources, created by people of diverse backgrounds, about ho
 ## On Organizing Diverse, Inclusive Tech Events
 
 ### From the perspectives of organizers:
+- ["How much it cost us to make more attendees feel safe and welcome at .concat() 2015"](https://medium.com/@boennemann/how-much-it-cost-us-to-make-more-attendees-feel-safe-and-welcome-at-concat-2015-2bc51d4df656) by Stephan Bönnemann
 - ["What Creating the Black Weblog Awards Taught Me"](https://modelviewculture.com/pieces/what-creating-the-black-weblog-awards-taught-me) by Maurice Cherry
 - ["So you want to put on a diverse, inclusive conference"](http://www.ashedryden.com/blog/so-you-want-to-put-on-a-diverse-inclusive-conference) by Ashe Dryden
 - ["Strange Loop thoughts"](http://bridgetconsulting.com/?p=131) by Bridget Hillyer
