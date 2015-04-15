@@ -42,7 +42,7 @@ Since this sort of short event is easy to organize, you can do more than one or 
 
 ### ClojureBridge Alumni mailing list
 
-[https://groups.google.com/forum/#!forum/clojurebridge-alumni](https://groups.google.com/forum/#!forum/clojurebridge-alumni)
+<https://groups.google.com/forum/#!forum/clojurebridge-alumni>
 
 Every attendees, instructors and TAs can join this mailing list.
 Although the mailing is not local, it is a good place to announce upcoming events or meetups.
@@ -52,9 +52,9 @@ Although the mailing is not local, it is a good place to announce upcoming event
 
 ClojureBridge has materials other than main curriculum, listed below.
 
-- The second drawing app, [https://github.com/ClojureBridge/drawing/blob/master/curriculum/create-something.md](https://github.com/ClojureBridge/drawing/blob/master/curriculum/create-something.md)
-- Global Growth app, [https://github.com/ClojureBridge/global-growth](https://github.com/ClojureBridge/global-growth)
-- Community-docs, [http://clojurebridge.github.io/community-docs/](http://clojurebridge.github.io/community-docs/)
+- The second drawing app, <https://github.com/ClojureBridge/drawing/blob/master/curriculum/create-something.md>
+- Global Growth app, <https://github.com/ClojureBridge/global-growth>
+- Community-docs, <http://clojurebridge.github.io/community-docs/>
 
 In addition to above, ClojureBridge is planning to add fun-to-try-out, small apps for after workshop events or self-study.
 
