@@ -19,8 +19,13 @@ Further details such as requirement to bring own laptop, schedule and refreshmen
 ### Event registration
 URL of registration form or other joining instructions
 
-### Organiser
-GitHub username of main organiser
+### Organiser details
+
+Email address of organiser which is associated with a [Gravatar](https://gravatar.com/) account for profile image (required)
+
+Twitter handle for event (optional)
+
+GitHub username of main organiser (optional)
 
 ### Sponsors (optional)
 Names of sponsors, optional URLs of logo
