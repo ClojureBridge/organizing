@@ -1,6 +1,6 @@
 ## Announcement for ClojureBridge.org
 
-Email the following details to [info@clojurebridge.org](mailto:info@clojurebridge.org) so that we can list the event on the ClojureBridge website:
+Email the following details to [clojurebridge@googlegroups.com](mailto:clojurebridge@googlegroups.com) so that we can list the event on the ClojureBridge website:
 
 ### Event title
 (For example, "ClojureBridge Edinburgh")
