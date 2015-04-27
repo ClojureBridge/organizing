@@ -10,7 +10,7 @@
 * [Media Release](https://docs.google.com/document/d/1vPOR2XmlXrkYeIzQtyfNvCCjN8QcB0W52Lac7Oodcik/edit?usp=sharing)
 * [ClojureBridge Logo](files/ClojureBridge-logo.svg)
 
-* [Announcement Templates](Announcement-Templates.md)
+* [Announcement Templates](Announcement-templates.md)
 * [Letters to students](Letters-to-students.md)
 
 ### [Back to Cookbook home](README.md)
