@@ -1,3 +1,36 @@
+## Announcement for ClojureBridge.org
+
+Email the following details to [info@clojurebridge.org](mailto:info@clojurebridge.org) so that we can list the event on the ClojureBridge website:
+
+### Event title
+(For example, "ClojureBridge Edinburgh")
+
+### Location
+Locale (City, Country)
+
+Venue (Full address)
+
+### Description
+A paragraph or two on the event.  Include information on who can register for the workshop (e.g. "Men may attend if accompanied by a woman")
+
+### Additional info
+Further details such as requirement to bring own laptop, schedule and refreshments, and how to register
+
+### Event registration
+URL of registration form or other joining instructions
+
+### Organiser details
+
+Email address of organiser which is associated with a [Gravatar](https://gravatar.com/) account for profile image (required)
+
+Twitter handle for event (optional)
+
+GitHub username of main organiser (optional)
+
+### Sponsors (optional)
+Names of sponsors, optional URLs of logo
+
+
 ## Announcement for Students 
 
 ### ClojureBridgeWorkshop for (constituency). 
