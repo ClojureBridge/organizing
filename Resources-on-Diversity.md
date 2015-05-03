@@ -31,3 +31,7 @@ Below is a list of resources, created by people of diverse backgrounds, about ho
 
 ### Diversity in OSS
 - ["Bringing More Women to Free and Open Source Software"](https://www.youtube.com/watch?v=gDUMXEfvAME) by Karen Sandler
+
+### Resources for Allies
+*Useful for workshop volunteers not from the marginalised group(s) targeted by the workshop*
+- ["So You Want To Be An Ally"](http://juliepagano.com/blog/2014/05/10/so-you-want-to-be-an-ally) by Julie Pagano
