@@ -70,4 +70,4 @@ You can find templates for emails in the [materials section](materials.md) under
 ## Figure out student class levels
 * Use the [grouping guide](Class-level-grouping-guide.md) to interpret the results of the pre-workshop survey
 
-### [Back to Cookbook](Cookbook.md)
+### [Back to Cookbook](README.md)
