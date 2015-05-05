@@ -14,7 +14,7 @@ If this is your first time organizing, the meta-organizers will set you up with 
 
 ### <a name="calendarlisting"/>Add your event to the ClojureBridge events web site
 
-Email info@clojurebridge.org with details of your event including organizer name, organizer github (for the picture of the organizer), workshop dates, location, sponsors, etc.
+Please see the [Workshops](https://github.com/ClojureBridge/Workshops) repo for details. You will need to create a GitHub issue in that repo using the template provided.
 
 ### <a name="bridgetroll"/>Post the event on Eventbrite
 
