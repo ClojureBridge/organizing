@@ -26,6 +26,7 @@ Eventbrite can be used to
  * Record and modify RSVPs for Students and Volunteers
  * Email all students and/or volunteers
  * Create signup sheets for students and volunteers on Installfest and Workshop days
+ * Have everyone agree to the [Code of Conduct](http://bridgefoundry.org/code-of-conduct/) as a condition of attending
 
 _In the week before the event, send pings to your students through Eventbrite to remind them that they can return to Eventbrite to modify their RSVP, class level preference, dietary and child care needs._
 
