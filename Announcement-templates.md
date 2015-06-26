@@ -4,7 +4,7 @@ Go to the repository <https://github.com/ClojureBridge/Workshops> and
 file an issue.
 
 All infos need to make announcement page are in
-[Announcement Template(https://github.com/ClojureBridge/Workshops/blob/master/announcement-template.md).
+[Announcement Template](https://github.com/ClojureBridge/Workshops/blob/master/announcement-template.md).
 Copy this template, fill out and paste to the issue.
 
 
