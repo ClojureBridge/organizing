@@ -8,3 +8,5 @@ To make ClojureBridge more accessible to people whose first language isn't Engli
     [organizing-nl](www.github.com/username/organizing-nl) - Dutch organizing repo (in progress)
     
 ## Curriculum
+
+- [curriculum-es](https://github.com/dialelo/curriculum-es) - Spanish curriculum repo (in progress)
