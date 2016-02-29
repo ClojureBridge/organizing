@@ -1,3 +1,4 @@
+## (Draft)
 ## Who should we accept as students for the workshop?
 - Men can attend?
 - How to accept students of underrepresented groups only? Say, only women?
