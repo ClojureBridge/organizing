@@ -1,46 +1,45 @@
 ## (Draft)
 ## Who should we accept as students for the workshop?
 - Men can attend?
-- How to accept students of underrepresented groups only? Say, only women?
+- How to accept students of under-represented groups only? Say, only women?
 
-This document shows the guidance whether we should accept men as students for ClojureBridge workshop or not.
-Also, this document shows the ideas how to avoid subscribers who don't belong to particular groups for ClojureBridge.
+This document provides guidance on whether we should accept men as students for ClojureBridge workshops.
+Also, this document provides suggestions as to how to avoid accepting attendees who aren't members of an under-represented group.
 For example, how to accept only female students.
 
-What written here is the __guidance__, which won't force all ClojureBridge workshops to follow.
-In any case, the final decision is in organizers' hand.
-When organizers can't decide they should accept men for the workshop or not, this document will help them what to do.
+What follows is __guidance__. Workshop organizers are free to choose their workshops' attendance policies.
+When organizers can't decide whether they should accept men for the workshop, this document will help them to make a decision.
 
 
-### Think what is ClojureBridge's goal
+### Consider ClojureBridge's goal
 
-ClojureBridge has been started to diverse Clojure community.
-ClojureBridge is for people who belong to underrepresented groups such as women, trans**, genderqueer, or gender non-conforming.
-There may be other groups we should identify as underrepresented in Clojure community.
+ClojureBridge was started to increase diversity in the Clojure community.
+ClojureBridge is for people who belong to under-represented groups such as women, trans\*\*, genderqueer, or gender non-conforming.
+There may be other groups we should identify as under-represented in Clojure community.
 
 Given that, please do not accept men simply because there are available seats.
 
-Success of a workshop is not a number of attendees but satisfaction of attendees.
+Success of a workshop is not measured by the number of attendees but by the satisfaction of those who attend.
 
 
-### Think how ClojureBridge attendees feel during a workshop
+### Consider how attendees will feel during the workshop
 
-We have heard positive voices from female attendees of women only workshops.
-They liked comfortable atmosphere. They didn't feel fear to ask questions during the workshop.
-This shows that female only workshops worked as a safe space for them.
+We have heard positive voices from female attendees of women-only workshops.
+They liked the comfortable atmosphere. They weren't afraid to ask questions during the workshop.
+This shows that women-only workshops worked as a safe space for them.
 
 Please be very careful when organizers accept men.
-The workshop may give uncomfortable feeling to female attendees.
+The workshop may make female attendees uncomfortable.
 
 
-### How to accept men's attendees
+### How to accept male attendees
 
-ClojureBridge suggests to accept male attendees as guests of female attendees.
+ClojureBridge suggests accepting male attendees as guests of female attendees.
 A female attendee may bring a man who is a Clojure or programming beginner.
 
 Or, on the contrary, male attendees must come with female guests, would be another rule.
 
-In any case, ClojureBridge wants to avoid decreasing the ratio of attendees from underrepresented groups.
+In any case, ClojureBridge wants to avoid decreasing the ratio of attendees from under-represented groups.
 
 
 ### When organizers may accept men, please...
@@ -62,11 +61,10 @@ Guessing from name is very tricky and never works perfectly.
 Especially, a foreign name is hard to figure out whether the subscriber is he or she.
 
 Some workshops added a checkbox to a registration form, which required "yes" to
-the question, "I identify as a woman, trans*, genderqueer, and/or gender non-conforming person."
+the question, "I identify as a woman, trans\*, genderqueer, and/or gender non-conforming person."
 The organizers said this worked well.
 
 Be prepared beforehand.
-
 
 
 #### Reference: Discussion on Mailing List
@@ -78,4 +76,4 @@ Here's a link to the thread:
 
 (You need to subscribe and login to see the content.)
 
-Thanks all who participated in the discussion.
+Thanks to those who participated in the discussion.
