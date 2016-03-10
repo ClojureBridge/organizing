@@ -6,15 +6,20 @@ If you haven't already, join: https://groups.google.com/forum/#!forum/clojurebri
 ### <a name="confirmvenue"/>Confirm dates & details with the hosting venue
 You'll want to confirm that the dates work for them, how much room they have (which you will use to guide the RSVP cap on Eventbrite), and lots of other details. So many, in fact, that we have a whole separate page: [hosting venue questions](Hosting-venue-questions.md).
 
-### <a name="calendarlisting'/>Add your workshop to the ClojureBridge website events.
-You can announce your workshop on the Google group or contact info at clojurebridge dot org.
-
 ### <a name="meetmentor"/>Meet your mentor
 If this is your first time organizing, the meta-organizers will set you up with a mentor to answer questions as they arise. Say hello now, in person or in the ether!
 
-### <a name="calendarlisting"/>Add your event to the ClojureBridge events web site
+### <a name="calendarlisting"/>Add your event to the ClojureBridge events website
 
 Please see the [Workshops](https://github.com/ClojureBridge/Workshops) repo for details. You will need to create a GitHub issue in that repo using the template provided.
+
+### <a name="clojure.org"/>Submit a pull request to clojure/clojure-site
+
+Upcoming events are displayed at [clojure.org/community/events](http://clojure.org/community/events). The Clojure website is backed by a Git repository which lives on [GitHub](https://github.com/clojure/clojure-site).
+
+Before submitting a pull request to clojure/clojure-site you must sign the [Clojure Contributor Agreement](http://clojure.org/community/contributing_site#contributor).
+
+Create a file similar to [clojurebridge\_berlin.adoc](https://github.com/clojure/clojure-site/commit/b1c8aed9430e24682f8286f83973b7dab5c66efa#diff-99d8e8fcb89e3797945e1248e063941c) then submit a pull request. When the pull request is merged the event will appear on the Clojure website.
 
 ### <a name="bridgetroll"/>Post the event on Eventbrite
 
