@@ -21,6 +21,8 @@ Before submitting a pull request to clojure/clojure-site you must sign the [Cloj
 
 Create a file similar to [clojurebridge\_berlin.adoc](https://github.com/clojure/clojure-site/commit/b1c8aed9430e24682f8286f83973b7dab5c66efa#diff-99d8e8fcb89e3797945e1248e063941c) then submit a pull request. When the pull request is merged the event will appear on the Clojure website.
 
+Additionally, you may create an issue instead of making a pull request. However, the pull request is recommended since it will be processed much faster than the issue.
+
 ### <a name="bridgetroll"/>Post the event on Eventbrite
 
 You can use whatever event hosting system you'd like, but most organizers have used Eventbrite.
