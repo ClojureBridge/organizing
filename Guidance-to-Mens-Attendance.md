@@ -1,3 +1,5 @@
+# Guidance to Men's Attendance
+
 ## Who should we accept as students for the workshop?
 - Men can attend?
 - How to accept students of under-represented groups only? Say, only women?
