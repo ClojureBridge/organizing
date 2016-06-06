@@ -1,13 +1,55 @@
-There are a lot of different ways to organize a workshop, but if you've got the [Minimum Viable Workshop](/Minimum-Viable-Workshop.md), you'll have a great time. There are way more people in the world who are excited to teach and learn Clojure than you know.
+# Get involved
 
-The [Workshop Planning Timeline](Workshop-Planning-Timeline.md) is a good place to start; it's divided into sections before, during, and after the workshop. There are *a lot* of individual tasks, so we recommend organizing in a team.
+ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for women.
 
-We have past organizers who can help you figure out what to do. Email info@clojurebridge.org and we'll introduce you to an organizing mentor!
+ClojureBridge was started in 2014 and is part of [Bridge Foundry](http://bridgefoundry.org/). All around the world there have been workshops organized by people like you! Many people volunteered in different ways. Here are some insights for you to get involved:
 
-[Resources on Diversity](Resources-on-Diversity.md) provides a number of great resources on how to create a diverse, inclusive event.
+## What can you do?
 
-ClojureBridge follows the BridgeFoundry [Code of
-Conduct](http://bridgefoundry.org/code-of-conduct/).
+There are different ways you can contribute. Maybe you like to...
+
+###...organize!
+
+You want to organize a workshop in your area? Great! Let’s get started! For a [minimal viable workshop](https://github.com/ClojureBridge/organizing/blob/master/Minimum-Viable-Workshop.md) you need to find: 
+
+- **A venue:** A safe and quiet space for learners to do their first steps in Clojure. An office leisure space or a co-working space might work.
+- **A date:** ClojureBridge is a 2 day workshop. Which means you need to find a date for the install party (e.g. Friday evening from 5PM - 8PM) and a date for the workshop day (e.g. Saturday 9 AM - 6 PM).
+Moreover, there should be a coaches training before the event. To raise awareness on how to coach. This training can be one evening (e.g. 2 weeks) before the event.
+- **Coaches:** Coaches help you to teach the attendees. One coach for two attendees is a good ratio.
+- **Attendees:** The attendees are the most important part of the workshop. Invite them via mailing lists, social media, posters, flyers etc. Attendees should be women or people from underrepresented groups in tech. Read more about [men’s attendance here](https://github.com/ClojureBridge/organizing/blob/master/Guidance-to-Mens-Attendance.md).
+
+We recommend you to join our [workshop mailing list](https://groups.google.com/forum/#!forum/clojurebridge-workshops). When you decided for a date and have found a venue we are happy to receive your information via an issue in our [workshops repository](https://github.com/ClojureBridge/Workshops) on GitHub. Then we will publish your workshop on our website and assign you a mentor who can help you with answers to questions and by providing resources and information.
+
+You can find lots of information in our [organizing repository](https://github.com/ClojureBridge/organizing) on GitHub and read about the [Workshop Planning Timeline](Workshop-Planning-Timeline.md). [Resources on Diversity](Resources-on-Diversity.md) provides a number of great resources on how to create a diverse, inclusive event. Feel free to read and contribute to these documents.
+
+ClojureBridge follows the BridgeFoundry [Code of Conduct](http://bridgefoundry.org/code-of-conduct/).
+
+Last, but not least, you might want to find some sponsors. They can help you provide awesome food, drinks or fancy swag for your learners so that this workshop will stay a memorable event.
+
+###...coach!
+
+As a coach you and your co-coach will teach a small group of attendees Clojure and fundamental programming principles at the workshop.This way you can help to start new carriers in tech. Have a look at our curriculum. Coaching is an awesome experience. It helps you understand Clojure better and to practice your explaining skills which is also useful for work.
+
+###...be a teaching assistant!
+
+As a teaching assistant or a “floating coach” you also help attendees learn Clojure. You are not assigned to a fixed group but you can float around and help when questions arise. Being a teaching assistant might be your thing if you just started learning Clojure yourself. 
+
+###...sponsor or donate!
+
+What would ClojureBridge be without our sponsors? Many great companies and private people have sponsored ClojureBridge workshops. With their help it was possible to provide food, drinks, T-Shirts, notebooks and stickers for the attendees at different workshops. 
+You can help by sponsoring the workshop in your area or abroad but also a donation to ClojureBridge is very welcome to help us spread the word, run our servers etc.
+
+###...help improve the curriculum!
+
+Our curriculum can be found in our curriculum repository. You are very welcome to join our curriculum mailing list and share your ideas.
+
+###...spread the word!
+
+Last, but not least, you can help ClojureBridge by spreading the word! Introduce ClojureBridge at your local meetup groups, especially events for women. Retweet, post and share whatever you find about ClojureBridge. Tell the women YOU know and love about it and encourage them to attend! 
+
+----
+
+**Quick access:**
 
 * [Cookbook Home](README.md)
 * [Minimum Viable Workshop](Minimum-Viable-Workshop.md)
