@@ -49,6 +49,12 @@ Last, but not least, you can help ClojureBridge by spreading the word! Introduce
 
 ----
 
+# Contact
+
+Please mail us if you have any questions: <info@clojurebridge.org>
+
+----
+
 **Quick access:**
 
 * [Cookbook Home](README.md)
