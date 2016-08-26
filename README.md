@@ -1,6 +1,10 @@
 # Get involved
 
-ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for women.
+ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for underrepresented groups in tech.
+
+
+Early workshops focused on women. Organizers are free to choose a different underrepresented group when planning a workshop. A workshop's description should state the group or groups for which the workshop is to be held.
+
 
 ClojureBridge was started in 2014 and is part of [Bridge Foundry](http://bridgefoundry.org/). All around the world there have been workshops organized by people like you! Many people volunteered in different ways. Here are some insights for you to get involved:
 
