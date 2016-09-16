@@ -38,3 +38,8 @@ ClojureBridge workshop be inclusive of all participants.
 ## Who can attend to workshops? Men are allowed?
 
 See another doc, [Guidance to Men's Attendance](https://github.com/ClojureBridge/organizing/blob/master/Guidance-to-Mens-Attendance.md) .
+
+
+## How to improve attendance
+
+See antoher doc, [How to Improve Attendance](https://github.com/ClojureBridge/organizing/blob/master/How-to-Improve-Attendance.md)
