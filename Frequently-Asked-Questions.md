@@ -33,3 +33,8 @@ of a ClojureBridge workshop are:
 Ultimately, it's important to be proactive about creating a diverse
 environment where possible, and that the environment created by a
 ClojureBridge workshop be inclusive of all participants.
+
+
+## Who can attend to workshops? Men are allowed?
+
+See another doc, [Guidance to Men's Attendance](https://github.com/ClojureBridge/organizing/blob/master/Guidance-to-Mens-Attendance.md) .
