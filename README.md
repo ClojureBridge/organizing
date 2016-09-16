@@ -75,3 +75,4 @@ Please mail us if you have any questions: <info@clojurebridge.org>
 * [Templates and Materials](Templates-and-Materials.md)
 * [Class Level Grouping Guide](Class-level-grouping-guide.md)
 * [Opinions](Opinions.md)
+* [FAQ](Frequently-Asked-Questions.md)
