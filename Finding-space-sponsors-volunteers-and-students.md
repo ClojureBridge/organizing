@@ -45,7 +45,7 @@ This really ties in with finding a space, as your sponsor might be the one to pr
 
 You can also contact the [ClojureBridge mailing list](https://groups.google.com/forum/#!forum/clojurebridge-workshops) for ideas and help with sponsorship.
 
-To figure out how much you'll need to fundraise, check out the [sample budget](Sample-Budget.md).
+For more information about funding, check out the [Money Things](Money-Things.md).
 
 <a name="set_date"/>
 ## Set a date and time 
