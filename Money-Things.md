@@ -17,24 +17,24 @@ This is for the individual workshop, the advice for the organizer.
 ### Plan as early as possible
 
 Ideally, when a workshop is scheduled and announced, the organizer should have at least one sponsor who will pay food.
-A hosting company may or may not pay. Make sure the hosting company can do what for the workshop.
+A hosting company may or may not pay. Make sure the hosting company can do something for the workshop.
 
-Sometime, finding sponsors other than the hosting company is very hard.
+Sometimes, finding sponsors other than the hosting company is very hard.
 In such a case, please contact the ClojureBridge board or mentor.
 We will help finding sponsors.
-Also, it is a good idea to post ClojureBridge Workshops mailing list for suggestions and advices from past organizers.
+Also, it is a good idea to post to the ClojureBridge Workshops mailing list for suggestions and advices from past organizers.
 
 
-However, remember, money won't move fast.
+However, remember, money won't move fast. 
 Especially, asking companies to pay money often takes more than two weeks; their decision to process won't go forward instantly.
-Plan as early as possible is a key to get sponsors.
+Planning as early as possible is a key to get sponsors.
 
 
 ### What if the organizer is unable to find a sponsor?
 
 Despite the organizer's intensive efforts, funding may not go well.
-For such an emergency situation, ClojureBridge is able to pay small money from ClojureBridge General Fund.
-At the same time, please consider cutting down the food.
+For such an emergency situation, ClojureBridge is able to pay a small amount from ClojureBridge General Fund.
+At the same time, please consider the following 3 options:
 
 
 Here are suggestions:
@@ -59,14 +59,14 @@ Here are suggestions:
 
 ### Sample Budget
 
-How much money the organzer should raise? Here're some figures in typical US cities based on previous workshops.
+How much money should the organizer raise? Here're some figures in typical US cities based on previous workshops.
 
 The main expense is catering for lunch. Other than food, organizer may also need a few supplies (pens, nametags).
-This menu totals about $1,000 to $1,200 (all currency US$).
+This menu totals about $1,000 to $1,200 (currency US$).
 
 #### Catering for 60
 
-* $200 for Installfest pizza & beer.
+* $200 for Installfest pizza + drinks.
 * $150 for coffee + bagels for workshop morning
 * $500-700 for Saturday lunch from a catering service/restaurant
 * $300 for workshop after-party with drinks and tip for 25 volunteers
@@ -75,17 +75,18 @@ This menu totals about $1,000 to $1,200 (all currency US$).
 #### Other Expenses
 
 * Name tags and pens shouldn't cost you more than $30.
-* The Installfest instructions tell students to get a sticker from a volunteer when their install has been checked.
-You'll want to procure stickers from your sponsor if possible, otherwise star stickers work just fine.
+* The Installfest instructions tell students to get a sticker from a volunteer when their install has been checked. Star stickers work just fine.
 * It's helpful to find a space that has the necessary tables/chairs so that you don't have to worry about renting those. 
 
+#### Upgrade expenses
+* Childcare: Depending on the need and if the chapter wants to offer it, around $150.
+* Travel assistance e.g. for female coaches to come over to your city.
+* ClojureBridge-Stickers, T-Shirts, notebooks etc. Prices vary.
 
 ## Long term management
 
-Getting used to organize ClojureBridge workshops, the organizer group may want to have more and more.
-If the organizer group is doing well on funding, sometime, they get excesses.
-But, even though, sometime, a shortage happens. The organizer may want to manage money for a long term.
-
+Organizing ClojureBridge workshops on the longterm may lead organizers to upgrade their workshops. If they are doing well on funding they may want to offer a variety on food, childcare or travel assistance.
+Nevertheless, sometimes a shortage happens. E.g. one major sponsor drops out last minute or doesn't pay the bill. Therefore, the organizers may want to manage money for a long term. The Berlin chapter for example tries to find sponsors for the after next workshop.
 
 If the team is located in the US, there's a choice to become non-profit organization under Bridge Foundry.
 If the team is located in Germany, [Travis foundation](http://foundation.travis-ci.org/) will help.
