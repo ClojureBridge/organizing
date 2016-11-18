@@ -15,7 +15,7 @@ Below is a list of resources, created by people of diverse backgrounds, about ho
 - ["A Code of Conduct is Not Enough"](https://modelviewculture.com/pieces/a-code-of-conduct-is-not-enough) by Maggie Zhou, Alex Clemmer, and Lindsey Kuper
 
 ### From the perspectives of attendees:
-- ["moving through a hierarchical system"](http://anarchival.net/Strange-Loop/) by Amber Adams
+- ["moving through a hierarchical system"](https://web.archive.org/web/20150202220502/http://anarchival.net/Strange-Loop/) by Amber Adams
 - ["Strange Loop 2014: Reflections on my first conference"](http://krisc.github.io/blog/StrangeLoop2014/) by Kris Calabio
 - ["Strange Loop 2014"](http://jvns.ca/blog/2014/09/24/strange-loop-2014/) by Julia Evans
 - ["Unlocking the Invisible Elevator"](https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences) by Liz Henry
