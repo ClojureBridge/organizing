@@ -12,7 +12,7 @@ ClojureBridge was started in 2014 and is part of [Bridge Foundry](http://bridgef
 
 There are different ways you can contribute. Maybe you like to...
 
-###...organize!
+### ...organize!
 
 You want to organize a workshop in your area? Great! Let’s get started! For a [minimal viable workshop](https://github.com/ClojureBridge/organizing/blob/master/Minimum-Viable-Workshop.md) you need to find: 
 
@@ -30,24 +30,24 @@ ClojureBridge follows the BridgeFoundry [Code of Conduct](http://bridgefoundry.o
 
 Last, but not least, you might want to find some sponsors. They can help you provide awesome food, drinks or fancy swag for your learners so that this workshop will stay a memorable event.
 
-###...coach!
+### ...coach!
 
 As a coach you and your co-coach will teach a small group of attendees Clojure and fundamental programming principles at the workshop. This way you can help to start new carriers in tech. Have a look at our [curriculum](https://clojurebridge.github.io/curriculum/#/1). Coaching is an awesome experience. It helps you understand Clojure better and to practice your explaining skills which is also useful for work.
 
-###...be a teaching assistant!
+### ...be a teaching assistant!
 
 As a teaching assistant or a “floating coach” you also help attendees learn Clojure. You are not assigned to a fixed group but you can float around and help when questions arise. Being a teaching assistant might be your thing if you just started learning Clojure yourself. 
 
-###...sponsor or donate!
+### ...sponsor or donate!
 
 What would ClojureBridge be without our sponsors? Many great companies and private people have sponsored ClojureBridge workshops. With their help it was possible to provide food, drinks, T-shirts, notebooks and stickers for the attendees at different workshops. 
 You can help by sponsoring the workshop in your area or abroad but also a [donation to ClojureBridge](http://www.clojurebridge.org/donate) is very welcome to help us spread the word, run our servers etc.
 
-###...help improve the curriculum!
+### ...help improve the curriculum!
 
 Our curriculum can be found in our [curriculum repository](https://github.com/ClojureBridge/curriculum). You are very welcome to [join our curriculum mailing list](https://groups.google.com/forum/#!forum/clojurebridge-curriculum) and share your ideas.
 
-###...spread the word!
+### ...spread the word!
 
 Last, but not least, you can help ClojureBridge by spreading the word! Introduce ClojureBridge at your local meetup groups, especially events for women. Retweet, post and share whatever you find about ClojureBridge. Tell the women YOU know and love about it and encourage them to attend! 
 
