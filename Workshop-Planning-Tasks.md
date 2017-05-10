@@ -115,3 +115,6 @@ If sponsors have given books or other giveaway goods, collect those items and ba
 
 ### <a name="levels"/>Figure out student class levels
 * Use the set up a rough guesstimate of number of groups and sizes. It is very helpful to arrange the sections again the night before, after everyone has checked in at the installfest; that way you have a much better idea of what your actual workshop attendance will be.
+
+
+### [Go to Cookbook home](README.md)
