@@ -44,9 +44,9 @@
 * [Party party party!](Workshop-tasks.md#afterparty)
 
 ### Aftermath
-* [Send follow-up encouragement to students, thank yous to teachers & host space](aftermath.md#followup)
-* [Send a writeup and survey results to the organizer's listserve](aftermath.md#writeup)
-* [Get reimbursed](aftermath.md#reimburse)
-* [Update this wiki with your brilliant discoveries](aftermath.md#updatewiki)
+* [Send follow-up encouragement to students, thank yous to teachers & host space](Aftermath.md#-send-follow-upsthank-yous-to-students-teachers-sponsors--host-space)
+* [Send a writeup and survey results to the organizer's listserve](Aftermath.md#-send-a-writeup-of-the-weekend-to-the-organizers-listserve)
+* [Get reimbursed](Aftermath.md)
+* [Update this wiki with your brilliant discoveries](Aftermath.md)
 
 ### [Back to Cookbook Home](README.md)
